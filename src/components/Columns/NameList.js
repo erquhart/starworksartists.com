@@ -30,9 +30,10 @@ const NameList = ({ onHover, inViewKey, column, handleClick }, { setBase64 }) =>
           <HeaderLG
             key={slug}
             style={{
-              willChange: `opacity, filter`,
-              opacity: type == inViewKey ? 1 : 0.3,
-              filter: type == inViewKey ? `` : `blur(2px)`,
+              //willChange: `opacity, filter`,
+              willChange: `opacity`,
+              //filter: type == inViewKey ? `` : `blur(2px)`,
+              opacity: type == inViewKey ? 1 : 0.2,
               transition: `opacity 300ms ${EASE}`,
               marginBottom: last ? '2.5rem' : 0
             }}

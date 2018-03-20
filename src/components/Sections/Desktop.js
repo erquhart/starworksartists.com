@@ -136,13 +136,13 @@ export class Videos extends Component {
 
   handleRef = (ref) => {
     if (this.props.returnRef) {
-      this.props.returnRef(ref, `Videos`)
+      this.props.returnRef(ref, `Video`)
     }
   }
 
   handlePositionChange = (props) => {
     if (this.props.onPositionChange) {
-      this.props.onPositionChange(props, `Videos`)
+      this.props.onPositionChange(props, `Video`)
     }
   }
 

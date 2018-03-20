@@ -38,7 +38,7 @@ export default class FullWidth extends Component {
         opacity = 0
       } else if (percentage < 0.45) { // right edge
         //opacity = percentage
-        opacity = 0.6
+        opacity = 0.3
       } else {
         opacity = 1
         //opacity = percentage * 1.5
@@ -80,14 +80,17 @@ export default class FullWidth extends Component {
               bottom: 0,
               left: `100${viewportUnit}`,
               width: `100${viewportUnit}`,
-              willChange:`transform`, // https://developer.mozilla.org/en-US/docs/Web/CSS/will-change
+              willChange:`transform, opacity, filter`, // https://developer.mozilla.org/en-US/docs/Web/CSS/will-change
               //backgroundColor: 'rgba(0, 0, 0, 0.1)',
               //transition: `transform 100ms linear`
               // the transition creates jumpy movement in safari
               // still wondering if Motion is a solution for this.
+              transition: `opacity 300ms ${EASE}`,
             }}
             style={{
+              opacity: this.state.opacity,
               transform: `translate3d(${-(this.state.percentage * 100) + viewportUnit}, 0px, 0px)`,
+              //filter: refKey == inViewKey ? `blur(0)` : `blur(4px)`,
             }}
           >
             <div
@@ -96,18 +99,11 @@ export default class FullWidth extends Component {
                 alignSelf: `center`,
                 width: `60%`,
                 maxWidth: `37rem`,
-                opacity: this.state.opacity,
-                transition: `opacity 300ms ${EASE}`,
-                willChange: `opacity`,
                 ...this.props.style
                 //transition: `opacity 300ms linear, 800ms filter linear`,
               }}
             >
               <HeaderMD
-                style={{
-                  willChange: `filter`,
-                  filter: refKey == inViewKey ? `blur(0)` : `blur(4px)`,
-                }}
               >{description}</HeaderMD>
               {this.props.children}
               {/*<p>{this.state.percentage} — {this.props.refKey}</p>*/}

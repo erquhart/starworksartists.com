@@ -30,6 +30,12 @@ function returnState(props) {
         blur = false
       }
 
+    } else if (props.page === 'services') {
+
+      playing = false
+      opacity = 0.8
+      blur = true
+
     } else {
 
       // services & agency

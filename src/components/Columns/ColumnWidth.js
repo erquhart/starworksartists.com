@@ -86,11 +86,13 @@ export default class ColumnWidth extends Component {
               left: `100${viewportUnit}`,
               width: `${vwUnits + viewportUnit}`,
 
-              willChange:`transform`, // https://developer.mozilla.org/en-US/docs/Web/CSS/will-change
+              willChange:`transform, opacity`, // https://developer.mozilla.org/en-US/docs/Web/CSS/will-change
               //backgroundColor: 'rgba(0, 0, 0, 0.1)',
             }}
             style={{
               transform: `translate3d(${-(this.state.percentage * 100) + viewportUnit}, 0px, 0px)`,
+              opacity: this.state.opacity,
+              transition: `opacity 300ms ${EASE}`,
             }}
           >
             <div
@@ -98,9 +100,6 @@ export default class ColumnWidth extends Component {
                 //filter: percentage < 0.30 || percentage > 0.55 ? `blur(1px)` : `blur(0)`
                 marginTop: `3rem`,
                 alignSelf: `center`,
-                opacity: this.state.opacity,
-                transition: `opacity 300ms ${EASE}`,
-                willChange: `opacity`,
                 ...this.props.style
               }}
             >
