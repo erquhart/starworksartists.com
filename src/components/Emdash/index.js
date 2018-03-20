@@ -9,13 +9,11 @@ const Emdash = ({ timeout = 300, opacity, y, top, style }, { color }) => {
     <span
       css={{
         top: top,
-        opacity,
         backgroundColor: color,
         position: `absolute`,
         right: 0,
         transition: `opacity ${timeout}ms ${EASE}, transform ${timeout}ms ${EASE}, backgroundColor ${timeout}ms ${EASE}`,
-        transform: `translate3d(0px, ${y}px, 0px)`, // x, y, z
-        willChange: `opacity`,
+        willChange: `opacity, transform`,
         display: `inline-block`,
         marginLeft: `3rem`,
         letterSpacing: `-1px`,
@@ -23,6 +21,10 @@ const Emdash = ({ timeout = 300, opacity, y, top, style }, { color }) => {
         width: `1rem`,
         height: `1.5px`,
         ...style
+      }}
+      style={{
+        opacity,
+        transform: `translate3d(0px, ${y}px, 0px)`, // x, y, z
       }}
     >
      {` `}

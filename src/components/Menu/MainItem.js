@@ -80,8 +80,11 @@ class Item extends Component {
           <div
             css={{
               transition: `opacity ${timeout}ms ease-in-out, transform ${timeout}ms ${ease}`,
-              transform: `translate3d(0px, ${this.state.y}px, 0px)`, // x, y, z
+              willChange: `opacity, transform`
+            }}
+            style={{
               opacity: this.state.opacity,
+              transform: `translate3d(0px, ${this.state.y}px, 0px)`, // x, y, z
             }}
           >
             <Blurry
@@ -96,7 +99,6 @@ class Item extends Component {
           </div>
           <Emdash
             timeout={timeout}
-            //opacity={ this.props.collapsed ? 0 : 0.6 }
             opacity={ 0.6 }
             top={'19px'}
             y={this.state.y}
