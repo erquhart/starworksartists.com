@@ -111,6 +111,21 @@ portfolios:
       - image: /img/starworks-artists_IBY_174.jpg
       - image: /img/starworks-artists_IBY_173.jpg
     title: 'Portfolio'
+videos:
+  - url: 259748768
+  - url: 259748624
+  - url: 259748641
+  - url: 259748755
+  - url: 259748724
+  - url: 259748551
+  - url: 259748531
+  - url: 259748589
+  - url: 259748440
+  - url: 259748618
+  - url: 259748670
+  - url: 259748487
+  - url: 260806237
+  - url: 259748678
 ---
 Ian Bradley is a stylist living and working in New York City. His work is influenced by the culture of downtown New York and clean, classic American sportswear inspired by icons like Carolyn Bessette-Kennedy, Aaliyah, and the early work of Isaac Mizrahi. Bradley moved to New York City to study fashion at the Fashion Institute of Technology. Afterwards, he assisted several stylists including Sally Lyndley, Andre Walker, and Jay Massacret while also independently working on a number of editorial and runway projects.
 

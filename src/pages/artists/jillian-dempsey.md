@@ -128,6 +128,12 @@ portfolios:
       - image: /img/starworks-artists_JDY_RC_10.jpg
       - image: /img/starworks-artists_JDY_RC_08.jpg
     title: 'Red Carpet'
+videos:
+  - url: 260297926
+  - url: 259974074
+  - url: 259974103
+  - url: 259974060
+  - url: 259974050
 ---
 A devotion to her craft and a unique perspective have defined makeup artist Jillian Dempsey’s career. Jillian’s style is characterized by a sincere appreciation for beauty and keen eye for color.  Respected for her warm disposition and genuine, down-to-earth personality, her talents are valued by A-list celebrities and photographers alike.
 

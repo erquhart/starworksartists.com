@@ -121,6 +121,13 @@ portfolios:
       - image: /img/starworks-artists_DYN_RC_29.jpg
       - image: /img/starworks-artists_DYN_RC_30.jpg
     title: 'Red Carpet'
+videos:
+  - url: 260135653
+  - url: 260135673
+  - url: 260135664
+  - url: 260135657
+  - url: 260135689
+  - url: 260135611
 ---
 Known for his effortless creative techniques and precision cutting, hairstylist Derek Yuen is making his mark in the beauty and entertainment industries. His work has been featured in editorial and advertising assignments for noted publications and brands, red carpet events with leading Hollywood talent, and collection shows during New York Fashion Week. Trained at Bumble & bumble and Vidal Sassoon, and a strong believer in continuing education, Derek’s teaching credentials include Wella, Goldwell and Chromastics Color.
 

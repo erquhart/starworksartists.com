@@ -4,6 +4,13 @@ title: Kayleen McAdams
 type: makeup
 enquire: noelle.keshishian@starworksgroup.com
 instagram_handle: kayleenmcadams
+videos:
+  - url: 260136506
+  - url: 260136467
+  - url: 260136446
+  - url: 260136528
+  - url: 260136561
+  - url: 260136488
 ---
 Kayleen McAdams’ eye for beauty, and dedication to the technicalities of makeup artistry, has led to a remarkable career in the beauty industry. Kayleen’s work is characterized by her emphasis on refined bone structure and clean, natural makeup with selective pops of color.
 

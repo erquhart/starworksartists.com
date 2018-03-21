@@ -193,6 +193,22 @@ portfolios:
       - image: /img/starworks-artists_FSS_RC_32.jpg
       - image: /img/starworks-artists_FSS_RC_33.jpg
     title: 'Red Carpet'
+videos:
+  - url: 259064500
+  - url: 259064089
+  - url: 259064223
+  - url: 259064084
+  - url: 259064264
+  - url: 259064263
+  - url: 259064245
+  - url: 259064111
+  - url: 259064189
+  - url: 259064180
+  - url: 259064179
+  - url: 259064206
+  - url: 259064233
+  - url: 259064465
+  - url: 259064451
 ---
 Makeup artist Fiona Stiles brings a fresh, instinctive approach to creating beautiful faces for publications and global media outlets across the fashion and entertainment industries. Some of the world’s most recognizable faces trust her implicitly, as do a roster of internationally-celebrated photographers and directors.
 

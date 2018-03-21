@@ -156,6 +156,9 @@ portfolios:
       - image: /img/starworks-artists_jenny-ricker_stylist_red-carpet_81.jpg
       - image: /img/starworks-artists_jenny-ricker_stylist_red-carpet_82.jpg
     title: 'Red Carpet'
+videos:
+  - url: 259975008
+  - url: 259974986
 ---
 A graduate of NYU’s Tisch School of the Arts, Jenny Ricker first became interested in the world of fashion styling while working as an agent for Ford Models. Ricker began by assisting some of the top fashion stylists in Los Angeles and has gone on to become one of the most sought after men’s celebrity stylists in Hollywood.
 

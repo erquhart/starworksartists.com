@@ -156,4 +156,19 @@ portfolios:
       - image: /img/MJN_RC_67.jpg
       - image: /img/MJN_RC_68.jpg
     title: 'Red Carpet'
+videos:
+  - url: 260148699
+  - url: 260149219
+  - url: 260149242
+  - url: 260149256
+  - url: 260149226
+  - url: 260847096
+  - url: 260847106
+  - url: 260847109
+  - url: 260149193
+  - url: 260149177
+  - url: 260847225
+  - url: 260847204
+  - url: 260148693
+  - url: 260148664
 ---

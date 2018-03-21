@@ -107,6 +107,13 @@ portfolios:
       - image: /img/BAK_RC_39.jpg
       - image: /img/BAK_RC_40.jpg
     title: 'Red carpet'
+videos:
+  - url: 258903397
+  - url: 258903415
+  - url: 258903409
+  - url: 258903402
+  - url: 260497101
+  - url: 260497087
 ---
 Stylist and designer team Brit and Kara captured the fashion world’s attention in 2011 when they launched their womenswear label, ELKIN. Hailed as ‘ones to watch’ by top media outlets, they became known for their feminine, darkly romantic, and effortlessly cool aesthetic. ELKIN quickly became the go-to wardrobe for Hollywood’s top young talent, including Brie Larson, Zosia Mamet, Dakota Johnson, Langley Fox Hemingway and Emma Roberts.
 

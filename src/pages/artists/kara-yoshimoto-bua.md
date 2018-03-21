@@ -1,9 +1,7 @@
 ---
 kind: artist
 title: Kara Yoshimoto Bua
-path: '/artist/kara-yoshimoto-bua'
-type: grooming
-order: '7'
+type: makeup
 cover: '/img/KYB_HEADER.jpg'
 enquire: 'samantha.jeudy@starworksgroup.com'
 instagram_handle: 'karayoshimotobua'
@@ -150,6 +148,16 @@ portfolios:
       - image: /img/starworks-artists_AAL_KYB_RC_11.jpg
       - image: /img/starworks-artists_KYB_RC_26.jpg
     title: 'Red Carpet'
+videos:
+  - url: 260138764
+  - url: 260304143
+  - url: 260138734
+  - url: 260139081
+  - url: 260138756
+  - url: 260138838
+  - url: 260138840
+  - url: 260138692
+  - url: 260798479
 ---
 Kara Yoshimoto Bua was raised in the Santa Cruz Mountains by an artist mother and philosopher father. Her early visual and spiritual experience laid the foundation for a career in makeup artistry that accentuates the idiosyncrasies of individual beauty and overall wellness. Kara’s remarkable eye for color and visual harmony, combined with her expertise in holistic skincare, have made her one of the most original and accomplished artists in the field today. Her entertainment clientele includes the most celebrated talent in the industry, and her extensive work in fashion has dually influenced the refined modern aesthetic and emphasis on natural skin that characterizes her work.
 

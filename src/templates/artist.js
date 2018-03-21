@@ -136,13 +136,6 @@ export const pageQuery = graphql`
             }
           }
         }
-        portrait {
-          childImageSharp {
-            resolutions(width: 400) {
-              ...GatsbyImageSharpResolutions
-            }
-          }
-        }
       }
     }
   }

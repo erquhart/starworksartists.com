@@ -145,6 +145,16 @@ portfolios:
       - image: /img/41_MSN_RC_22.jpg
       - image: /img/42_MSN_RC_19.jpg
     title: 'Red carpet'
+videos:
+  - url: 260156208
+  - url: 260304937
+  - url: 260837692
+  - url: 260304923
+  - url: 260156306
+  - url: 260156214
+  - url: 260156284
+  - url: 260156289
+  - url: 260300204
 ---
 “A woman looks beautiful when she feels beautiful” is the credo guiding the work of makeup artist Molly R. Stern. For over 25 years, Molly has been a trusted artist and influencer in Hollywood. Known to emphasize and enhance what is uniquely beautiful about each woman she touches, her creative and fresh approach to makeup has garnered respect and loyalty among Hollywood’s elite talent, renowned fashion photographers and top beauty brands. Molly is considered one of the foremost voices in the beauty industry, creating iconic looks with her characteristic style. Her advice, wisdom and beauty tips are regularly featured in international print publications including Allure, InStyle and ELLE, and her trend forecasting and product picks are frequently highlighted on top editorial beauty sites including Refinery29, Violet Grey and Byrdie. Molly has an engaged social media presence on Facebook and Twitter, and she inspires her Instagram audience of over 30K followers daily with positive messaging and her signature hashtag #LOVEyourself.
 

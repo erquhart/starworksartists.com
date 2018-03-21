@@ -183,6 +183,24 @@ portfolios:
       - image: /img/starworks-artists_CTY_RC_25.jpg
       - image: /img/starworks-artists_CTY_RC_26.jpg
     title: 'Red Carpet'
+videos:
+  - url: 260498201
+  - url: 259027524
+  - url: 259027483
+  - url: 259027457
+  - url: 259027405
+  - url: 259027428
+  - url: 259027660
+  - url: 259027597
+  - url: 259027571
+  - url: 259027790
+  - url: 259027541
+  - url: 259027380
+  - url: 259027349
+  - url: 259027689
+  - url: 259027714
+  - url: 259027828
+  - url: 259027752
 ---
 Charlotte Tilbury is widely recognized as the preeminent makeup artist and beauty entrepreneur working in fashion and entertainment. Her career spans over twenty years, creating iconic covers for top fashion magazines, keying looks for major designer collections, crafting game-changing fashion and beauty campaigns for the world’s biggest luxury houses, and regularly collaborating with the industry’s most celebrated photographers and fashion editors. She is the founder and creative director of her eponymous makeup and skincare line, Charlotte Tilbury Beauty, which has won more than 50 awards worldwide since its 2014 inception. Charlotte herself is the recipient of the Rodial Award for Best Makeup Artist, the British Fashion Award for Fashion Creator, InStyle Magazine’s Makeup Artist of the Year, the CEW Achiever Award, and she was a 2016 nominee for the Veuve Clicquot Businesswoman of the Year.
 

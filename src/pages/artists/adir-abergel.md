@@ -191,21 +191,21 @@ portfolios:
       - image: /img/starworks-artists_AAL_RC_37.jpg
     title: 'Red Carpet'
 videos:
-  - url: '255787883'
-  - url: '255787895'
-  - url: '255787885'
-  - url: '255788320'
-  - url: '260297926'
-  - url: '260297393'
-  - url: '255788081'
-  - url: '260296689'
-  - url: '260490817'
-  - url: '260490804'
-  - url: '260490777'
-  - url: '260298605'
-  - url: '255788022'
-  - url: '255787816'
-  - url: '255787648'
+  - url: 255787883
+  - url: 255787895
+  - url: 255787885
+  - url: 255788320
+  - url: 260297926
+  - url: 260297393
+  - url: 255788081
+  - url: 260296689
+  - url: 260490817
+  - url: 260490804
+  - url: 260490777
+  - url: 260298605
+  - url: 255788022
+  - url: 255787816
+  - url: 255787648
 ---
 A visual artist first and foremost, Adir Abergel fuses the boundaries between fashion, art and celebrity in a way that few Hollywood hairstylists have managed to do. Using hair as his principal medium, Adir challenges red carpet conventions to exquisite effect, integrating beauty and originality into a single expression. He is the creative force behind some of the most memorable moments in celebrity hairstyling, and has been instrumental in constructing the distinctive styles of such influential talent as Rooney Mara, Kristen Stewart, Marion Cotillard, Gwyneth Paltrow, Kirsten Dunst, Anne Hathaway and Reese Witherspoon.
 

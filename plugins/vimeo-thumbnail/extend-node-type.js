@@ -46,6 +46,8 @@ module.exports = (
                 console.log(headers)
                 reject()
               } else {
+                console.log('Vimeo response headers:')
+                console.log(headers['x-ratelimit-remaining'], headers['x-ratelimit-reset'])
                 const { name, pictures } = body
                 const { sizes } = pictures
                 const biggest = sizes[sizes.length - 1]

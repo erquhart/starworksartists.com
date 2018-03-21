@@ -4,6 +4,8 @@ title: Jillian Halouska
 type: grooming
 enquire: caitlin.mazonas@starworksgroup.com
 instagram_handle: jillianhalouska
+videos:
+  - url: 260856525
 ---
 Jillian Halouska is a New York City based artist sought after for her hairstyling, makeup and grooming skills. Jillian’s first apprenticeship upon graduation from the Toni & Guy Academy was with renowned hairstylist Edward Tricomi. Since then she has expanded her portfolio with a collection of editorial, advertising and red carpet assignments. Her high energy, attention to detail, and ability to work with both everyday clients and top Hollywood talent have made her a standout among her peers.
 

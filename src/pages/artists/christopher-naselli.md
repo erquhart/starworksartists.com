@@ -107,6 +107,8 @@ portfolios:
       - image: /img/starworks-artists_CNI_RC_26.jpg
       - image: /img/starworks-artists_CNI_RC_30.jpg
     title: 'Red Carpet'
+videos:
+  - url: 260798479
 ---
 Christopher Naselli is an accomplished hairstylist whose work has earned him a loyal following among New York City’s creative community. Raised by his hairstylist mother in New York, Christopher spent afternoons in her salon watching 1970s street style explode around him. He became passionate about the aesthetics of beauty and set a course at an early age to perfect his technique.
 

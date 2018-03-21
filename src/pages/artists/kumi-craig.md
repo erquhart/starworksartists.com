@@ -4,6 +4,12 @@ title: Kumi Craig
 type: grooming
 enquire: caitlin.mazonas@starworksgroup.com
 instagram_handle: kumicraig
+videos:
+  - url: 259976393
+  - url: 255811019
+  - url: 255810399
+  - url: 259976410
+  - url: 259976404
 ---
 Through her countless collaborations with top actors, musicians, athletes and media personalities, groomer Kumi Craig has become a mainstay in the worlds of celebrity and fashion. Kumi began her career doing special effects makeup for film in her native British Columbia, but saw her career expand and thrive when she relocated to New York City and discovered her niche in men’s grooming.
 

@@ -178,7 +178,18 @@ portfolios:
       - image: /img/42_MRK_KYB_02.jpg
       - image: /img/43_MRK_RC_34.jpg
     title: 'Red Carpet'
-portrait: /img/MARA-ROSZAK---HEADSHOT-2016-2.jpg
+videos:
+  - url: 260151962
+  - url: 260304937
+  - url: 260837692
+  - url: 260839074
+  - url: 260151822
+  - url: 260151863
+  - url: 260152009
+  - url: 260152036
+  - url: 260152073
+  - url: 260152059
+  - url: 260152079
 ---
 Growing up in the Laurel Canyon area of Los Angeles, Mara Roszak was exposed to a broad range of aesthetics. Mara's mother was a sculptor and encouraged her to explore all forms of visual art. At the young age of 15, Mara undertook her hairstyling education, and within two years she was working with some of the most celebrated talent in the entertainment industry. The expansion of her career into the editorial and advertising arena soon followed.
 

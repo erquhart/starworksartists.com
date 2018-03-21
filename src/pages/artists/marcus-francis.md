@@ -4,6 +4,18 @@ title: Marcus Francis
 type: hair
 enquire: samantha.jeudy@starworksgroup.com
 instagram_handle: marcusrfrancis
+videos:
+  - url: 260840945
+  - url: 260147080
+  - url: 260147006
+  - url: 260841483
+  - url: 260496302
+  - url: 260146859
+  - url: 260146844
+  - url: 260146855
+  - url: 260146891
+  - url: 260146961
+  - url: 260146973
 ---
 From major fashion shows to high-profile celebrity shoots, Marcus Francis’s precision, style and inimitable expertise in creating beautiful hairstyles have made him one of the most sought-after artists in the fashion and entertainment industries.
 

@@ -4,6 +4,15 @@ title: Gita Bass
 type: makeup
 enquire: caitlin.mazonas@starworksgroup.com
 instagram_handle: gitabass
+videos:
+  - url: 259745946
+  - url: 259745964
+  - url: 259745967
+  - url: 259746008
+  - url: 259746043
+  - url: 259746022
+  - url: 259746015
+  - url: 259746006
 ---
 A native Australian, makeup artist Gita Bass has worked extensively in Europe and New York across multiple arenas, including fashion editorials, advertising campaigns, red carpet events and runway shows. Her extensive experience, innate talent and enthusiasm for her work have given her an esteemed reputation in the field. Gita possesses a unique ability to incorporate a fresh approach to makeup while maintaining a trademark emphasis on classic beauty.
 

@@ -69,6 +69,12 @@ portfolios:
       - image: /img/starworks-artists_katelin-gan_makeup_red-carpet_09.jpg
       - image: /img/starworks-artists_katelin-gan_makeup_red-carpet_10.jpg
     title: 'Red Carpet'
+videos:
+  - url: 255967142
+  - url: 255967151
+  - url: 259976814
+  - url: 259976800
+  - url: 259976798
 ---
 Makeup artist Katelin Gan uses her practice to emphasize the ways in which makeup illuminates and enhances natural beauty rather than conceals it. A graduate of the Makeup Designory, she has perfected her craft through years of assisting the industry’s top talent, including Kate Lee and Darlene Jacobs. Katelin believes that beauty is simple and effortless. Her work is characterized by fresh, radiant skin and a precision of application that creates immaculate looks appealing to both the naked eye and the camera. She finds her greatest inspiration in the distinctive beauty of her surroundings and the subjects with whom she works.
 

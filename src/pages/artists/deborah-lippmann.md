@@ -226,5 +226,30 @@ portfolios:
       - image: /img/DLN_RC_59.jpg
       - image: /img/DLN_RC_60.jpg
     title: 'Red Carpet'
+videos:
+  - url: 259054544
+  - url: 259054525
+  - url: 259054600
+  - url: 259054558
+  - url: 259054569
+  - url: 259054493
+  - url: 259054463
+  - url: 259054505
+  - url: 259054477
+  - url: 259054487
+  - url: 259054166
+  - url: 259054230
+  - url: 259054245
+  - url: 259054335
+  - url: 260800508
+  - url: 260301660
+  - url: 259054342
+  - url: 259054439
+  - url: 259054358
+  - url: 259054316
+  - url: 259054326
+  - url: 260801262
+  - url: 259054367
+  - url: 259054395
 ---
 Deborah Lippmann is the go‐to manicurist for top fashion publications and brands from Vogue, W, V Magazine, Vanity Fair, Harper’s Bazaar, and ELLE, to Rodarte, Chanel, Marchesa, Miu Miu and Versace. After years of experience in the industry, her eponymous line of lacquers and treatments for nails, hands, and feet are as sought-after as her talent. Deborah has collaborated extensively with a long list of renowned photographers including Inez van Lamsweerde and Vinoodh Matadin, Willy Vanderperre, Steven Meisel, Mario Testino, Norman Jean Roy, Steven Klein, Annie Leibovitz, Karl Lagerfeld and Patrick Demarchelier. Her celebrity clients include Lady Gaga, Angelina Jolie, Marion Cotillard, Jennifer Lawrence, Kate Winslet, Lupita Nyongo, Dakota Johnson, Alicia Vikander, Gisele Bündchen, Gigi Hadid and Kendall Jenner.

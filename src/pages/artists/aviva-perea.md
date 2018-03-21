@@ -2,7 +2,6 @@
 kind: artist
 title: Aviva Perea
 type: hair
-order: '2'
 enquire: 'rory.aledort@starworksgroup.com'
 instagram_handle: hairbyaviva
 cover: /img/APA_HEADER.jpg

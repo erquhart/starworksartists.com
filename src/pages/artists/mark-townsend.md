@@ -141,7 +141,22 @@ portfolios:
       - image: /img/starworks-artists_MTD_RC_24.jpg
       - image: /img/starworks-artists_MTD_RC_25.jpg
     title: 'Red Carpet'
-portrait: /img/MTD_HEADSHOT.jpg
+videos:
+  - url: 260160581
+  - url: 260160629
+  - url: 260160638
+  - url: 260160787
+  - url: 260160792
+  - url: 260160816
+  - url: 260160645
+  - url: 260160521
+  - url: 260160649
+  - url: 260160849
+  - url: 260160471
+  - url: 260160453
+  - url: 260160566
+  - url: 260160561
+  - url: 260160800
 ---
 Whether sleek, sophisticated or edgy, fashion and celebrity hairdresser Mark Townsend knows how to bring out the beauty in everyone. His confident attitude and keen attention to detail have rendered Mark Townsend one of the most highly regarded hair stylists in the business. Mark has been fortunate to create beautiful hairstyles for some of Hollywood’s leading ladies including Rachel McAdams, Dakota Johnson, Gal Gadot, Elizabeth Olsen, Mary Kate & Ashley Olsen, Jennifer Lawrence and many more.
 

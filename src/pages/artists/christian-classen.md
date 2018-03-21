@@ -130,6 +130,10 @@ portfolios:
       - image: /img/starworks-artists_christian-classen_stylist_red-carpet_45.jpg
       - image: /img/starworks-artists_christian-classen_stylist_red-carpet_46.jpg
     title: 'Red Carpet'
+videos:
+  - url: 260501865
+  - url: 260502075
+  - url: 260502385
 ---
 Christian Classen’s first exposure to fashion came from observing his grandmother work as a wardrobe stylist. Christian’s mother, a visual artist working predominantly with paint and canvas, also played a key role in shaping his refined eye and visual style. At 17 years old, Christian underwent apprenticeships with top stylists in the fashion and entertainment industries. After working for several years as assistant to the celebrated fashion stylist Kate Young, Christian launched his solo career with a succession of highly publicized red carpet and street looks for his principal client Selena Gomez. Christian has also received much recognition for his original costume design for Selena’s 2016 “Revival” tour.
 

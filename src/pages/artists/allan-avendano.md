@@ -166,7 +166,22 @@ portfolios:
       - image: /img/starworks-artists_AAO_RC_36.jpg
       - image: /img/starworks-artists_AAO_RC_34.jpg
     title: 'Red Carpet'
-portrait: /img/allan-avendano-portrait-1600.jpg
+videos:
+  - url: 258875599
+  - url: 258875685
+  - url: 258875464
+  - url: 258875558
+  - url: 258875540
+  - url: 258875714
+  - url: 260492403
+  - url: 258875583
+  - url: 258875738
+  - url: 258875087
+  - url: 258875133
+  - url: 258875119
+  - url: 258875447
+  - url: 258875346
+  - url: 258875758
 ---
 At a very early age, Allan Avendaño was enamored by the glamour of old Hollywood. Thinking he may find his path in the entertainment industry, he pursued a Bachelor of Science in Communications and acquired a job in television production. Upon realizing his true interest in beauty and fashion, he switched gears and began working for a fashion magazine. Given the responsibility of booking talent for shoots, Allan assigned himself as makeup artist on an editorial job, laying the foundation for his current career.
 

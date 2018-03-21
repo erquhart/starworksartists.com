@@ -82,6 +82,13 @@ portfolios:
       - image: /img/starworks-artists_rachel-zoe_stylist_red-carpet_33.jpg
       - image: /img/starworks-artists_rachel-zoe_stylist_red-carpet_34.jpg
     title: 'Red Carpet'
+videos:
+  - url: 260165281
+  - url: 260165273
+  - url: 260165295
+  - url: 260165293
+  - url: 260165269
+  - url: 260165292
 ---
 An unparalleled fixture in the fashion world, Rachel Zoe is a distinguished designer, stylist and editor renowned for her effortless take on glamour. Having immersed herself in fashion and design for nearly two decades, Rachel has been heralded as one of the most influential forces working in fashion today.
 

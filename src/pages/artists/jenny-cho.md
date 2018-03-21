@@ -169,6 +169,18 @@ portfolios:
       - image: /img/starworks-artists_JCO_RC_39.jpg
       - image: /img/starworks-artists_JCO_RC_16.jpg
     title: 'Red Carpet'
+videos:
+  - url: 259783732
+  - url: 259783720
+  - url: 259785671
+  - url: 259785126
+  - url: 259783753
+  - url: 259783747
+  - url: 259785106
+  - url: 259785582
+  - url: 259785608
+  - url: 259783698
+  - url: 259783712
 ---
 Hairstylist Jenny Cho is an expert in versatility. Her unique, organic approach to hair allows her to create innovative looks that highlight her subjects’ natural beauty.
 

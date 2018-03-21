@@ -134,6 +134,23 @@ portfolios:
       - image: /img/starworks-artists_caile-noble-hair_red-carpet_20.jpg
       - image: /img/starworks-artists_caile-noble-hair_red-carpet_21.jpg
     title: 'Red Carpet'
+videos:
+  - url: 259051312
+  - url: 259051617
+  - url: 259051617
+  - url: 259051431
+  - url: 259051496
+  - url: 259051342
+  - url: 259051331
+  - url: 259051570
+  - url: 259051481
+  - url: 259051532
+  - url: 259051372
+  - url: 259051446
+  - url: 259051254
+  - url: 259051281
+  - url: 259051556
+  - url: 259051460
 ---
 A first generation Scotsman, Caile Noble was raised in Southern California. After years of traveling the world as a professional cyclist, Caile was inspired to make a change to professional hair styling. His education began at the Vidal Sassoon Academy, after which he started to work for celebrated stylist Serge Normant at the John Frieda Salon. Assisting Serge on high profile fashion editorials and campaigns soon led Caile to pursue his current career in freelance hairstyling.
 

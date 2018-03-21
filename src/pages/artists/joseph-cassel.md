@@ -202,6 +202,19 @@ portfolios:
       - image: /img/starworks-artists_joseph-cassel_stylist_red-carpet_103.jpg
       - image: /img/starworks-artists_joseph-cassel_stylist_red-carpet_104.jpg
     title: 'Red Carpet'
+videos:
+  - url: 260821307
+  - url: 259781539
+  - url: 260819453
+  - url: 260302819
+  - url: 260820398
+  - url: 259783236
+  - url: 259782768
+  - url: 259782702
+  - url: 259783207
+  - url: 258902765
+  - url: 259781588
+  - url: 259780551
 ---
 After earning his degree in musical theater and opera performance in Nashville, Joseph Cassell chose a career behind the scenes in the recording industry as an A&R director and producer. He soon began styling his own artists for photo shoots, album packaging and video shoots. After 12 years in the music business, he started his own company, providing imaging and wardrobe services to celebrity clientele, record labels and ad agencies. Over the past 15 years he has styled numerous fashion shoots, music world tours and award-winning music videos. Joseph has designed for film and television as well as created iconic looks for major advertisers in global print and commercial campaigns shot by top industry photographers and directors.
 
