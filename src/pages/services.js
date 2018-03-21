@@ -9,7 +9,9 @@ import Menu from '../components/Menu/Services'
 import FullWidth from '../components/Columns/FullWidth'
 import NameList from '../components/Columns/NameList'
 
+
 import ScrollPercentage from 'react-scroll-percentage'
+
 
 class ServicesPage extends Component {
 
@@ -73,6 +75,11 @@ class ServicesPage extends Component {
     this.setState({isHovered: false})
   }
 
+  // mouse wheel lock
+  // if we want to allow only clicking through the menu
+  // onScrollStart = (e) => {
+  //   e.preventDefault()
+  // }
 
   returnRef = (ref, refKey) => this[refKey] = ref
 
@@ -86,7 +93,10 @@ class ServicesPage extends Component {
     } = this.props
 
     return (
-      <div style={transition && transition.style}>
+      <div
+        style={transition && transition.style}
+        onWheel={ this.onScrollStart }
+      >
         <Menu
           isHovered={this.state.isHovered}
           onMouseEnter={this.onMouseEnter}

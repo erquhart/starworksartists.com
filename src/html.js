@@ -3,7 +3,6 @@ import * as PropTypes from "prop-types"
 import { TypographyStyle } from "react-typography"
 import typography from "./utils/typography"
 
-
 let stylesStr
 if (process.env.NODE_ENV === `production`) {
   try {

@@ -37,10 +37,13 @@ module.exports = (
           return new Promise(resolve => {
             client.request({
               path: `/videos/${video.url}`,
+              query: { fields: `name, pictures` }
             }, function (error, body, status_code, headers) {
               if (error) {
-                console.log('Vimeo error: ');
-                console.log(error);
+                console.log('Vimeo error: ')
+                console.log(error)
+                console.log('Vimeo error headers: ')
+                console.log(headers)
                 reject()
               } else {
                 const name = body.name

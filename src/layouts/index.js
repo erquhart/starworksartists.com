@@ -6,6 +6,8 @@ import { Baseline } from '../components/Layout'
 
 //import Scroll from '../components/Scroll'
 
+
+
 import './index.css'
 
 import { window } from 'global'
@@ -22,6 +24,20 @@ const handleClickAdmin = () => {
   }
 }
 
+
+// Testing if Retina screen has better performance with less calls from the scroll event
+// if it is too slow it misses 'waypoints', 1000/15 is way to infrequent
+// so is 1000/20.
+/*
+import canUseDom from '../utils/canUseDom'
+
+console.log('canUseDom: ', canUseDom)
+
+if (canUseDom) {
+  window.requestAnimationFrame = function (callback) { return window.setTimeout(callback, 1000 / 20) }
+}
+
+*/
 const TemplateWrapper = ({
   children,
   data: {

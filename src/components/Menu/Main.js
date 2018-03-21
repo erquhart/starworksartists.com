@@ -42,8 +42,6 @@ class Menu extends Component {
     // Wait a tick to fade in the menu items
     setTimeout(() => this.setState({ready: true}), this.props.timeout)
 
-    // TODO
-    // on resize we need to reset the startingYs.
   }
 
   handleBurgerClick = () => {
