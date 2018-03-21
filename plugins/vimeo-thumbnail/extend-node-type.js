@@ -46,8 +46,9 @@ module.exports = (
                 console.log(headers)
                 reject()
               } else {
-                const name = body.name
-                const { sizes } = body.pictures
+                console.log('Vimeo body: ', body)
+                const { name, pictures } = body
+                const { sizes } = pictures
                 const biggest = sizes[sizes.length - 1]
                 const poster = biggest.link
                 const aspectRatio = biggest.width / biggest.height
