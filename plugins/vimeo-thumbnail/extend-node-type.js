@@ -46,7 +46,6 @@ module.exports = (
                 console.log(headers)
                 reject()
               } else {
-                console.log('Vimeo body: ', body)
                 const { name, pictures } = body
                 const { sizes } = pictures
                 const biggest = sizes[sizes.length - 1]
