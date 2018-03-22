@@ -7,8 +7,15 @@ const {
   GraphQLEnumType,
 } = require(`graphql`)
 
+//var RateLimiter = require('limiter').RateLimiter;
+//var limiter = new RateLimiter(1, 1000);
+
 const Vimeo = require(`vimeo`).Vimeo
-const client = new Vimeo('ac9fe65658e5a30b5c4a64181df431909e9570f0', 'o8hsyLZQ3ovm+Gom8os/+zc1QuOpNaCx6IFABkqIxP2JOseUI6fso6EMqcZAMAXLWBURFNQ45g5LIi5LBJ9+mRTH4U/fxsa1OtDt1SnZpW8Vq8/rGHBNgfiyVVTxsy/N', '6abb774504045138f6aa817ffcabc03c')
+// Owen Hoskins
+// const client = new Vimeo('ac9fe65658e5a30b5c4a64181df431909e9570f0', 'o8hsyLZQ3ovm+Gom8os/+zc1QuOpNaCx6IFABkqIxP2JOseUI6fso6EMqcZAMAXLWBURFNQ45g5LIi5LBJ9+mRTH4U/fxsa1OtDt1SnZpW8Vq8/rGHBNgfiyVVTxsy/N', '6abb774504045138f6aa817ffcabc03c')
+// var client = new Vimeo(CLIENT_ID, CLIENT_SECRET, ACCESS_TOKEN);
+
+const client = new Vimeo('0bae336f64db523e5f207cadfa9cb7f2f422e75d', 'KtIu+uLHWvBMf1w+NrUqgVtG/t1IA65NIL0nUCtv1MhDW61dda0d84ogyynuBQchtzYxiT8hKUSxvhh5tYAgqJwz+m1obFi9qVSIRs7IK8u4fkCb4xNSDjhSUPJO9Pkg', '2be7787cf8427b099b37ddd485e056fd')
 
 const astCacheKey = node =>
   `transformer-vimeo-markdown-ast-${
@@ -35,6 +42,12 @@ module.exports = (
 
         const videos = vimeoNode.videos ? vimeoNode.videos.map(video => {
           return new Promise(resolve => {
+
+//
+            //// limiter.removeTokens(1, function() {});
+            // apparently the vimeo api doesn't really care how fast
+            // you make requets, just how many in a 15 minute window
+
             client.request({
               path: `/videos/${video.url}`,
               query: { fields: `name, pictures` }
@@ -46,8 +59,8 @@ module.exports = (
                 console.log(headers)
                 reject()
               } else {
-                console.log('Vimeo response headers:')
-                console.log(headers['x-ratelimit-remaining'], headers['x-ratelimit-reset'])
+                console.log('Vimeo response headers for:', video.url)
+                console.log(headers['x-ratelimit-limit'], ' ', headers['x-ratelimit-remaining'], ' ', headers['x-ratelimit-reset'])
                 const { name, pictures } = body
                 const { sizes } = pictures
                 const biggest = sizes[sizes.length - 1]

@@ -42,6 +42,11 @@ module.exports = async function onCreateNode(
     return
   }
 
+  // limit to one artist's videos for testing rate
+  // if (data.data.title !== 'Adir Abergel') {
+  //   return
+  // }
+
   const contentDigest = crypto
     .createHash(`md5`)
     .update(JSON.stringify(data))
