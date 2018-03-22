@@ -1,5 +1,5 @@
 {
-  "name": "Starworks Artists",
+  "name": "starworks-artists",
   "description": "Test site for handling image assets with Sharp on Netlify CMS",
   "version": "0.0.1",
   "author": "Owen Hoskins <owen.hoskins@gmail.com>",
