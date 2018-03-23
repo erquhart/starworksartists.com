@@ -3,10 +3,9 @@ import Waypoint from 'react-waypoint'
 import Img from '../Image'
 import Video from '../Video'
 
-import {
-  HeaderLG,
-  HeaderSM
-} from '../Styled'
+import { Paragraph, HeaderXS, HeaderSM, HeaderMD, HeaderLG } from '../Styled'
+
+
 
 import { Grid, Row, Col } from '../Grid'
 
@@ -31,6 +30,33 @@ const renderImage = (props) => {
       onClick={(evt) => onClick(evt, props)}
     >
       <Img sizes={originalSizes} />
+    </div>
+  )
+}
+
+const renderInstagramImage = (props) => {
+  const {
+    photo: { width, height, originalSizes },
+    margin,
+    onClick,
+  } = props
+  return (
+    <div
+      style={{
+        width,
+        height,
+        //float: 'left',
+        display: 'inline-block',
+        margin,
+        cursor: 'pointer'
+      }}
+      onClick={(evt) => onClick(evt, props)}
+    >
+      <Img
+        sizes={originalSizes}
+        objectPosition={'center center'}
+        objectFit={'cover'}
+      />
     </div>
   )
 }
@@ -164,22 +190,27 @@ export class Videos extends Component {
             paddingTop: '5rem',
             paddingBottom: '10rem',
             textAlign: 'center',
-            margin: '0 auto',
-            maxWidth: '40rem'
+            margin: '0',
+            display: `flex`,
+            flexFlow: `wrap`
           }}
         >
         {
           videos.map((video, index) =>
+            <div
+              css={{
+                margin: '1rem',
+                width: `calc(50% - 2rem)`
+              }}
+            >
             <Video
               key={index}
               url={`https://vimeo.com/${video.id}`}
               poster={video.poster}
               title={video.name}
               ratio={video.ratio}
-              style={{
-                margin: '0 0rem 3rem',
-              }}
             />
+            </div>
           )
         }
         </div>
@@ -216,6 +247,17 @@ export class Instagram extends Component {
     } = this.props
     //console.log("Instagram render method called!")
 
+    const photos = []
+    instagram.forEach((photo) => {
+      photos.push({
+        width: 1,
+        height: 1,
+        originalSizes: {
+          src: photo.media,
+          aspectRatio: 1
+        }
+      })
+    })
 
     return (
       <Waypoint
@@ -232,45 +274,22 @@ export class Instagram extends Component {
           }}
         >
         <div css={{margin: '5rem 0 5rem'}}>
-          <HeaderLG blur uppercase>
+          <HeaderMD
+            weight={400}
+          >
             <a href={`https://instagram.com/${biography.instagram}`} target='_blank'>{`${biography.instagram}`}</a>
-          </HeaderLG>
-          <HeaderSM>
+          </HeaderMD>
+          <Paragraph>
             {`${biography.followers} followers`}
-          </HeaderSM>
+          </Paragraph>
         </div>
-        {
-          //     instagram.map(photo => views.push({ instagram: { src: photo.node.media }}))
 
-          instagram.map((photo, index) =>
-            <div
-              key={index}
-              css={{
-                position: 'relative',
-                display: 'inline-block',
-                minWidth: 'auto',
-                margin: '0 5px 5px',
-                width: '256px',
-                textAlign: 'center',
-                fontSize: 0,
-                //border: '1px solid rgba(238, 238, 238, 0.2)'
-              }}
-            >
-              <Img
-                style={{
-                  width: '256px',
-                  height: '256px',
-                  marginBottom: 0
-                }}
-                // src={photo.node.media}
-                customAspect={{ height: '256px' }}
-                objectPosition={'center center'}
-                objectFit={'cover'}
-                sizes={{ src: photo.media }}
-              />
-            </div>
-          )
-        }
+        <Gallery
+          margin={16}
+          columns={4}
+          ImageComponent={renderInstagramImage}
+          photos={photos}
+        />
         </div>
       </Waypoint>
     )
@@ -314,8 +333,8 @@ export class Biography extends Component {
       >
         <div
           css={{
-            maxWidth: '33rem',
-            margin: '0 auto'
+            maxWidth: '37rem',
+            margin: '0 auto 5rem'
           }}
           dangerouslySetInnerHTML={{ __html: biography.text }}
         />

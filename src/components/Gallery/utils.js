@@ -11,7 +11,7 @@ export function ratio({ width, height }) {
 // takes the Gallery's photos prop object, width of the container,
 // margin between photos Gallery prop, and columns Gallery prop.
 // calculates, sizes based on columns and returns the photos object with new height/width props
-export function computeSizes({ photos, columns, width, margin }) {
+export function computeSizes({ photos, columns, width, margin, balanced }) {
   if (!width) {
     return [];
   }
@@ -52,16 +52,22 @@ export function computeSizes({ photos, columns, width, margin }) {
     */
 
     let height
-    if (rowIndex !== lastRowIndex) {
-      height = rowWidth / totalRatio
-    } else {
-      if (row.length === 1) {
-        height = rowWidth / columns / totalRatio
-      } else if (row.length > (columns - 1)) { // this works if 3 is 1 short of a full column, but what if we have more columns?
-        height = rowWidth / row.length / totalRatio
+    if (balanced) {
+      if (rowIndex !== lastRowIndex) {
+        height = rowWidth / totalRatio
       } else {
-        height = rowWidth / columns - row.length / totalRatio
+        if (row.length === 1) {
+          height = rowWidth / columns / totalRatio
+        } else if (row.length > (columns - 1)) { // this works if 3 is 1 short of a full column, but what if we have more columns?
+          height = rowWidth / row.length / totalRatio
+        } else {
+          height = rowWidth / columns - row.length / totalRatio
+        }
       }
+    } else {
+      height = (rowIndex !== lastRowIndex || row.length > 1) // eslint-disable-line
+        ? rowWidth / totalRatio
+        : rowWidth / columns / totalRatio;
     }
 
     // row.length was columns, that would give you exactly the original ratio if there were X more images of the same ratio. Here we say there are

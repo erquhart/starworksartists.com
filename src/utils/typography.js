@@ -47,6 +47,15 @@ export const options = {
       'h1,h2,h3,h5,h5,h6': {
         fontWeight: 200
       },
+      p: {
+        fontWeight: 400,
+        letterSpacing: `0.03em`,
+        marginBottom: `1rem`,
+        ...basekick({
+          typeSizeModifier: 1,
+          typeRowSpan: 3.25,
+        })
+      },
       a: {
         color: `inherit`,
         textDecoration: 'none'

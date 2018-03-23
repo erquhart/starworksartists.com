@@ -1,7 +1,9 @@
 import React, { Component } from 'react'
 import Player from 'react-player'
 
-import { HeaderLG } from '../Styled'
+import { ResponsiveHeader, HeaderLG, HeaderMD, HeaderXS, HeaderSM } from '../Styled'
+import { YELLOW, PURPLE, EASE } from '../../utils/presets'
+
 
 export default class Video extends Component {
 
@@ -21,8 +23,6 @@ export default class Video extends Component {
         css={{
           position: 'relative',
           paddingBottom: this.props.ratio || '56.25%', /* 16:9 */
-          //paddingTop: 0,
-          //height: 0,
           ...this.props.style
         }}
       >
@@ -36,9 +36,12 @@ export default class Video extends Component {
             alignItems: 'center',
             justifyContent: 'center',
             cursor: 'pointer',
-            display: this.state.playing ? 'none' : 'flex',
+            display: 'flex',
+            opacity: this.state.playing ? 0 : 1,
+            pointerEvents: this.state.playing ? 'none' : 'auto',
+            transition: `opacity 300ms ${EASE}`,
             overflow: 'hidden',
-            backgroundColor: '#F9E8CE'
+            backgroundColor: YELLOW
           }}
           onClick={this.handleClick}
         >
@@ -54,8 +57,8 @@ export default class Video extends Component {
               backgroundImage: `url(${this.props.poster})`,
               backgroundPosition: 'center center',
               backgroundSize: 'cover',
-              filter: 'blur(3px)',
-              opacity: 0.5
+              filter: 'blur(5px)',
+              opacity: 0.4
             }}
           />
           {/*
@@ -68,13 +71,13 @@ export default class Video extends Component {
             }}
           />
           */}
-          <HeaderLG
-            style={{ maxWidth: '30rem' }}
+          <ResponsiveHeader
             blur
+            weight={700}
             uppercase
           >
             {this.props.title}
-          </HeaderLG>
+          </ResponsiveHeader>
         </div>
         <Player
           css={{
@@ -82,10 +85,20 @@ export default class Video extends Component {
             top: 0,
             left: 0
           }}
-          width='40rem'
+          width='100%'
           height='100%'
           url={this.props.url}
           playing={this.state.playing}
+          config={{
+            vimeo: {
+              playerOptions: {
+                color: YELLOW,
+                portrait: false,
+                title: false,
+                byline: false,
+              }
+            }
+          }}
         />
       </div>
     )

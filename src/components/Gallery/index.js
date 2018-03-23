@@ -1,8 +1,17 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import Photo, { photoPropType } from './Photo';
 import { computeSizes } from './utils';
+
+const photoPropType = PropTypes.shape({
+  src: PropTypes.string.isRequired,
+  width: PropTypes.number.isRequired,
+  height: PropTypes.number.isRequired,
+  alt: PropTypes.string,
+  title: PropTypes.string,
+  srcSet: PropTypes.array,
+  sizes: PropTypes.array,
+})
 
 class Gallery extends React.Component {
   constructor() {
@@ -41,11 +50,11 @@ class Gallery extends React.Component {
   }
 
   render() {
-    const { ImageComponent = Photo } = this.props;
+    const { ImageComponent } = this.props;
     // subtract 1 pixel because the browser may round up a pixel
     const width = this.state.containerWidth - 1;
-    const { photos, columns, margin, onClick } = this.props;
-    const thumbs = computeSizes({ width, columns, margin, photos });
+    const { photos, columns, margin, onClick, balanced } = this.props;
+    const thumbs = computeSizes({ width, columns, margin, photos, balanced });
     return (
       <div
         className="react-photo-gallery--gallery"
