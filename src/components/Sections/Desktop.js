@@ -135,7 +135,7 @@ export class Portfolios extends Component {
                 }
                 <Gallery
                   margin={16}
-                  columns={4}
+                  columns={portfolio.columns || 4}
                   ImageComponent={renderImage}
                   photos={photos}
                   onClick={openLightbox}

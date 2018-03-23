@@ -1,9 +1,7 @@
 ---
 kind: artist
 title: Brit & Kara
-path: '/artist/brit-and-kara'
 type: stylist
-order: '0'
 cover: /img/BAK_HEADER.jpg
 enquire: 'alexandra.feldman@starworksgroup.com'
 instagram_handle: elkin
@@ -106,6 +104,7 @@ portfolios:
       - image: /img/BAK_RC_38.jpg
       - image: /img/BAK_RC_39.jpg
       - image: /img/BAK_RC_40.jpg
+    columns: 6
     title: 'Red carpet'
 videos:
   - url: 258903397

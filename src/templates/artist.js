@@ -121,6 +121,7 @@ export const pageQuery = graphql`
         }
         portfolios {
           title
+          columns
           gallery {
             image {
               childImageSharp {

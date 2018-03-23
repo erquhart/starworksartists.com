@@ -84,7 +84,7 @@ module.exports = async function onCreateNode(
 
   // limit to one artist's videos for testing rate
   if (data.data.instagram_handle !== 'hairbyadir') {
-    //return
+    return
   }
 
   //console.log('instagram_handle: ', username)
