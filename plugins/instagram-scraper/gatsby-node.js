@@ -1,3 +1,7 @@
+exports.onCreateNode = require(`./on-node-create`)
+
+
+/*
 const Promise = require("bluebird")
 const axios = require(`axios`)
 const crypto = require(`crypto`)
@@ -10,7 +14,6 @@ const toISO8601 = timestamp => new Date(timestamp * 1000).toJSON()
 // https://stackoverflow.com/a/9461657/497344
 const kFormatter = num => num > 999 ? (num/1000).toFixed(0) + 'k' : num
 
-
 exports.sourceNodes = ({ boundActionCreators }, { usernames }) => {
     const { createNode } = boundActionCreators
 
@@ -21,31 +24,6 @@ exports.sourceNodes = ({ boundActionCreators }, { usernames }) => {
             if (err) {
               console.log('Instagram get error: ', username, err)
             } else {
-              /*
-                  graphql: {
-                    user: {
-                      edge_followed_by: {
-                        count: 206938
-                      },
-                      edge_owner_to_timeline_media: {
-                        edges: [
-                          {
-                            node: {
-                              id: '',
-                              display_url: '',
-                              is_video: false,
-                              dimensions: {
-                                width: 1080,
-                                height: 1080
-                              },
-                            }
-                          }
-                        ]
-                      }
-                    }
-                  }
-*/
-
               res.data.graphql.user.edge_owner_to_timeline_media.edges.map(item => {
 
                 const datum = {
@@ -82,5 +60,6 @@ exports.sourceNodes = ({ boundActionCreators }, { usernames }) => {
             }
 
         })
-    }))//.catch(error => { console.log('Instagram sourceNodes catch error:', error);});
+    }))
 }
+*/

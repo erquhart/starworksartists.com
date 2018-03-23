@@ -4,6 +4,116 @@ title: Sami Knight
 type: hair
 enquire: noelle.keshishian@starworksgroup.com
 instagram_handle: samiknighthair
+portfolios:
+  - gallery:
+      - image: /img/starworks-artists_2017-06_SKT_WMAGKO_01.jpg
+      - image: /img/starworks-artists_2017-06_SKT_WMAGKO_08-1.jpg
+      - image: /img/starworks-artists_2017-06_SKT_WMAGKO_07-1.jpg
+      - image: /img/starworks-artists_2017-06_SKT_WMAGKO_13.jpg
+      - image: /img/starworks-artists_2016-10_SKT_HUNGER_11.jpg
+      - image: /img/starworks-artists_2016-10_SKT_HUNGER_08.jpg
+      - image: /img/starworks-artists_2016-10_SKT_HUNGER_04.jpg
+      - image: /img/starworks-artists_2017-10-13_SKT_REFINERY29_06.jpg
+      - image: /img/starworks-artists_2017-10-13_SKT_REFINERY29_07-1.jpg
+      - image: /img/starworks-artists_2017-10-13_SKT_REFINERY29_02.jpg
+      - image: /img/starworks-artists_SKT_078.jpg
+      - image: /img/starworks-artists_SKT_082.jpg
+      - image: /img/starworks-artists_2016-09_SKT_PLEASEb_02.jpg
+      - image: /img/starworks-artists_SKT_081.jpg
+      - image: /img/starworks-artists_2017-07_SKT_LULA_01.jpg
+      - image: /img/starworks-artists_2017-07_SKT_LULA_03.jpg
+      - image: /img/starworks-artists_2017-07_SKT_LULA_13.jpg
+      - image: /img/starworks-artists_2017-06-27_SKT_PAPERMAG_01.jpg
+      - image: /img/starworks-artists_SKT_Screen-Shot-2017-08-10-at-5.05.36-PM.jpg
+      - image: /img/starworks-artists_2018-01-04_SKT_REFINERY29_02.jpg
+      - image: /img/starworks-artists_2018-01-04_SKT_REFINERY29_08.jpg
+      - image: /img/starworks-artists_2018-01-04_SKT_REFINERY29_17.jpg
+      - image: /img/starworks-artists_2018-03_SKT_ROLLINGSTONE_01.jpg
+      - image: /img/starworks-artists_2018-03_SKT_ROLLINGSTONE_06.jpg
+      - image: /img/starworks-artists_2017-12_SKT_TEENVOGUEb_03.jpg
+      - image: /img/starworks-artists_2017-12_SKT_TEENVOGUEb_02.jpg
+      - image: /img/starworks-artists_SKT_051.jpg
+      - image: /img/starworks-artists_SKT_052.jpg
+      - image: /img/starworks-artists_SKT_053-2.jpg
+      - image: /img/starworks-artists_2018-01_SKT_VOGUEAB_01.jpg
+      - image: /img/starworks-artists_2018-01_SKT_VOGUEAB_09.jpg
+      - image: /img/starworks-artists_2018-01_SKT_VOGUEAB_05.jpg
+      - image: /img/starworks-artists_SKT_072.jpg
+      - image: /img/starworks-artists_SKT_077.jpg
+      - image: /img/starworks-artists_SKT_073.jpg
+      - image: /img/starworks-artists_2016-09_SKT_VS_15.jpg
+      - image: /img/starworks-artists_2016-09_SKT_VS_14.jpg
+      - image: /img/starworks-artists_SKT_087.jpg
+      - image: /img/starworks-artists_2016-11_SKT_ES_06.jpg
+      - image: /img/starworks-artists_2016-11_SKT_ES_04.jpg
+      - image: /img/starworks-artists_2016-11_SKT_ES_03.jpg
+      - image: /img/starworks-artists_SKT_022.jpg
+      - image: /img/starworks-artists_SKT_025-1.jpg
+      - image: /img/starworks-artists_0000-00_SKT_IAZALEA_02.jpg
+      - image: /img/starworks-artists_SKT_006.jpg
+      - image: /img/starworks-artists_SKT_088.jpg
+      - image: /img/starworks-artists_SKT_090.jpg
+      - image: /img/starworks-artists_SKT_089.jpg
+      - image: /img/starworks-artists_SKT_103.jpg
+      - image: /img/starworks-artists_SKT_102.jpg
+      - image: /img/starworks-artists_SKT_099.jpg
+      - image: /img/starworks-artists_SKT_101.jpg
+      - image: /img/starworks-artists_SKT_059.jpg
+      - image: /img/starworks-artists_SKT_058.jpg
+      - image: /img/starworks-artists_SKT_016.jpg
+      - image: /img/starworks-artists_SKT_015.jpg
+      - image: /img/starworks-artists_SKT_017.jpg
+      - image: /img/starworks-artists_2016-06_SKT_PLASTIK_04.jpg
+      - image: /img/starworks-artists_2016-06_SKT_PLASTIK_02.jpg
+      - image: /img/starworks-artists_0000-00_SKT_WONDERLAND_01.jpg
+      - image: /img/starworks-artists_SKT_049.jpg
+      - image: /img/starworks-artists_SKT_050.jpg
+      - image: /img/starworks-artists_SKT_047.jpg
+      - image: /img/starworks-artists_SKT_031.jpg
+      - image: /img/starworks-artists_SKT_035.jpg
+      - image: /img/starworks-artists_SKT_032.jpg
+      - image: /img/starworks-artists_2015-08-14_SKT_VICE_02-1.jpg
+      - image: /img/starworks-artists_2015-08-14_SKT_VICE_03.jpg
+      - image: /img/starworks-artists_2015-08-14_SKT_VICE_01.jpg
+      - image: /img/starworks-artists_SKT_060.jpg
+      - image: /img/starworks-artists_SKT_061.jpg
+      - image: /img/starworks-artists_SKT_062.jpg
+      - image: /img/starworks-artists_2017-03_SKT_NOWNESS_02.jpg
+      - image: /img/starworks-artists_2017-03_SKT_NOWNESS_03.jpg
+      - image: /img/starworks-artists_2017-03_SKT_NOWNESS_07.jpg
+      - image: /img/starworks-artists_2017-04_SKT_HUNGER_03.jpg
+      - image: /img/starworks-artists_2017-04_SKT_HUNGER_04.jpg
+      - image: /img/starworks-artists_2017-07_SKT_7FAM_03.jpg
+      - image: /img/starworks-artists_2017-07_SKT_7FAM_01.jpg
+      - image: /img/starworks-artists_SKT_108.jpg
+      - image: /img/starworks-artists_SKT_109.jpg
+    title: 'Portfolio'
+  - gallery:
+      - image: /img/SKT_RC_01.jpg
+      - image: /img/SKT_RC_02.jpg
+      - image: /img/SKT_RC_03.jpg
+      - image: /img/SKT_RC_04.jpg
+      - image: /img/SKT_RC_05.jpg
+      - image: /img/SKT_RC_06.jpg
+      - image: /img/SKT_RC_07.jpg
+      - image: /img/SKT_RC_08.jpg
+      - image: /img/SKT_RC_09.jpg
+      - image: /img/SKT_RC_10.jpg
+      - image: /img/SKT_RC_11.jpg
+      - image: /img/SKT_RC_12.jpg
+      - image: /img/SKT_RC_13.jpg
+      - image: /img/SKT_RC_14.jpg
+      - image: /img/SKT_RC_15.jpg
+      - image: /img/SKT_RC_16.jpg
+      - image: /img/SKT_RC_17.jpg
+      - image: /img/SKT_RC_18.jpg
+      - image: /img/SKT_RC_19.jpg
+      - image: /img/SKT_RC_20.jpg
+      - image: /img/SKT_RC_21.jpg
+      - image: /img/SKT_RC_22.jpg
+      - image: /img/SKT_RC_23.jpg
+      - image: /img/SKT_RC_24.jpg
+    title: 'Red Carpet'
 videos:
   - url: 260167502
   - url: 260302548

@@ -4,6 +4,30 @@ title: Michael Ashton
 type: makeup
 enquire: samantha.jeudy@starworksgroup.com
 instagram_handle: michaelashton
+portfolios:
+  - gallery:
+      - image: /img/starworks-artists_MAN_RC_03.jpg
+      - image: /img/starworks-artists_MAN_RC_06.jpg
+      - image: /img/starworks-artists_MAN_RC_05.jpg
+      - image: /img/starworks-artists_MAN_RC_04.jpg
+      - image: /img/starworks-artists_MAN_RC_01.jpg
+      - image: /img/starworks-artists_MAN_RC_20.jpg
+      - image: /img/starworks-artists_MAN_RC_22.jpg
+      - image: /img/starworks-artists_MAN_RC_10.jpg
+      - image: /img/starworks-artists_MAN_RC_21.jpg
+      - image: /img/starworks-artists_MAN_RC_19.jpg
+      - image: /img/starworks-artists_MAN_RC_24.jpg
+      - image: /img/starworks-artists_MAN_RC_23.jpg
+      - image: /img/starworks-artists_MAN_RC_02.jpg
+      - image: /img/starworks-artists_MAN_RC_11.jpg
+      - image: /img/starworks-artists_MAN_RC_16.jpg
+      - image: /img/starworks-artists_MAN_RC_18.jpg
+      - image: /img/starworks-artists_MAN_RC_13.jpg
+      - image: /img/starworks-artists_MAN_RC_17.jpg
+      - image: /img/starworks-artists_MAN_RC_09.jpg
+      - image: /img/starworks-artists_MAN_RC_08.jpg
+      - image: /img/starworks-artists_MAN_RC_07.jpg
+    title: 'Red Carpet'
 videos:
   - url: 260845638
   - url: 260845635

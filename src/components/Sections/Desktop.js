@@ -266,7 +266,7 @@ export class Instagram extends Component {
                 customAspect={{ height: '256px' }}
                 objectPosition={'center center'}
                 objectFit={'cover'}
-                sizes={{ src: photo.node.media }}
+                sizes={{ src: photo.media }}
               />
             </div>
           )

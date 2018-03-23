@@ -22,7 +22,7 @@ export default function Template({ data, transition }) {
   const { html: biography } = artist
   //const { instagram: { edges: insta = [] } } = data
   const { instagram = {} } = data
-  const insta = instagram ? instagram.edges : []
+  const insta = instagram ? instagram.images : []
   //const { followers: { followers } } = data
   const followers = data.followers && data.followers.followers
   //const { vimeo: { videos = [] } } = data
@@ -92,14 +92,9 @@ export const pageQuery = graphql`
     followers: instagramPhoto(username: {eq: $instagram_handle}) {
       followers
     }
-    instagram: allInstagramPhoto(filter: {username: {eq: $instagram_handle}}) {
-      edges {
-        node {
-          id
-          media
-          media_preview
-          followers
-        }
+    instagram: instagramPhoto(username: {eq: $instagram_handle}) {
+      images {
+        media
       }
     }
     vimeo: vimeoThumbnail(title: {eq: $title}) {

@@ -32,24 +32,7 @@ module.exports = {
       }
     },
     'vimeo-thumbnail',
-    {
-      resolve: `instagram-scraper`,
-      options: {
-        usernames: [
-          `allanface`,
-          `hairbyadir`,
-          `mararoszak`,
-          `marktownsend1`,
-          `jennychohair`,
-          `jilliandempsey`,
-          `karayoshimotobua`,
-          `mollyrstern`,
-          `elkin`,
-          `deborahlippmann`,
-          `fionastiles`
-        ]
-      }
-    },
+    'instagram-scraper',
     'custom-plugin-sharp',
     'custom-transformer-sharp',
     'gatsby-transformer-remark',

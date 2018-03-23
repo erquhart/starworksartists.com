@@ -43,9 +43,9 @@ module.exports = async function onCreateNode(
   }
 
   // limit to one artist's videos for testing rate
-  // if (data.data.title !== 'Adir Abergel') {
-  //   return
-  // }
+  if (data.data.title !== 'Adir Abergel') {
+    //return
+  }
 
   const contentDigest = crypto
     .createHash(`md5`)
@@ -56,7 +56,7 @@ module.exports = async function onCreateNode(
     children: [],
     parent: node.id,
     internal: {
-      content,
+      //content,
       contentDigest,
       type: `VimeoThumbnail`,
     },
@@ -68,6 +68,8 @@ module.exports = async function onCreateNode(
   if (node.internal.type === `File`) {
     vimeoNode.fileAbsolutePath = node.absolutePath
   }
+
+  // console.log('vimeoNode: ', vimeoNode)
 
   createNode(vimeoNode)
   createParentChildLink({ parent: node, child: vimeoNode })
