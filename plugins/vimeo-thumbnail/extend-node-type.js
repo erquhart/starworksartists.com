@@ -56,8 +56,8 @@ module.exports = (
                 console.log(headers)
                 reject()
               } else {
-                console.log('Vimeo response headers for:', video.url)
-                console.log(headers['x-ratelimit-limit'], ' ', headers['x-ratelimit-remaining'], ' ', headers['x-ratelimit-reset'])
+                //console.log('Vimeo response headers for:', video.url)
+                //console.log(headers['x-ratelimit-limit'], ' ', headers['x-ratelimit-remaining'], ' ', headers['x-ratelimit-reset'])
                 const { name, pictures } = body
                 const { sizes } = pictures
                 const biggest = sizes[sizes.length - 1]
@@ -92,7 +92,7 @@ module.exports = (
 
   async function getArray(vimeoNode) {
     return getAST(vimeoNode).then(ast => {
-      console.log('getAST value: ', ast)
+      // console.log('getAST value: ', ast)
       return ast
     }, reason => {
       console.log('getAST rejection: ', reason)

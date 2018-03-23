@@ -44,7 +44,7 @@ module.exports = async function onCreateNode(
 
   // limit to one artist's videos for testing rate
   if (data.data.title !== 'Adir Abergel') {
-    return
+    // return
   }
 
   const contentDigest = crypto
