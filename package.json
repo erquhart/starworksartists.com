@@ -35,16 +35,13 @@
     "scroll-doc": "^0.2.1",
     "slug": "^0.9.1",
     "typography": "^0.16.6",
-    "vimeo": "^2.0.0"
-  },
-  "devDependencies": {
+    "vimeo": "^2.0.0",
     "async": "^2.1.2",
     "babel-runtime": "^6.26.0",
     "bluebird": "^3.5.0",
     "imagemin": "^5.2.2",
     "imagemin-pngquant": "^5.0.0",
     "imagemin-webp": "^4.0.0",
-    "lodash": "^4.17.4",
     "potrace": "^2.1.1",
     "probe-image-size": "^3.2.0",
     "progress": "^1.1.8",

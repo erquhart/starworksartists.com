@@ -23,16 +23,25 @@ export function computeSizes({ photos, columns, width, margin, balanced }) {
     return acc;
   }, []);
 
-  //console.log('photos reduce into rows: ', rows)
+  console.log('photos reduce into rows: ', rows)
   // at this point we could iterate through the array and compare the image formats, and potentially push the last image into the next row.
 
+
   // how would you push items around in the array
-  /*
+
   const rowsLandscapeSorted = rows.map((row, rowIndex) => {
-    const newRow = row.map(column, columnIndex)
+    const newRow = row.map((column, columnIndex) => {
+      let format
+      if (column.width > 1) {
+        format = `landscape`
+      } else {
+       format = `portrait`
+      }
+      console.log('column', columnIndex, format)
+    })
     // we only deal with columns in the last row, so if a row only had 3 columns, the height will be caculated based on the items in the row
   })
-  */
+
 
 
   // calculate total ratio of each row, and adjust each cell height and width
