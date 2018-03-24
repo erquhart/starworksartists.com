@@ -17,32 +17,55 @@ export function computeSizes({ photos, columns, width, margin, balanced }) {
   }
   // divide photos over rows, max cells based on `columns`
   // effectively resulting in [[0, 1, 2], [3, 4, 5], [6, 7]]
-  const rows = photos.reduce((acc, cell, idx) => {
+  let rows = photos.reduce((acc, cell, idx) => {
     const row = Math.floor(idx / columns);
     acc[row] = acc[row] ? [...acc[row], cell] : [cell]; // eslint-disable-line no-param-reassign
     return acc;
   }, []);
 
-  console.log('photos reduce into rows: ', rows)
   // at this point we could iterate through the array and compare the image formats, and potentially push the last image into the next row.
 
 
   // how would you push items around in the array
 
-  const rowsLandscapeSorted = rows.map((row, rowIndex) => {
-    const newRow = row.map((column, columnIndex) => {
-      let format
-      if (column.width > 1) {
-        format = `landscape`
-      } else {
-       format = `portrait`
+  if (balanced) {
+
+    console.log('rows: ', rows)
+
+    let popped
+    rows = rows.map((row, rowIndex) => {
+
+      const landscapes = row.map((column, columnIndex) => {
+        let format
+        if (column.width > 1) {
+          format = `landscape`
+        } else {
+         format = `portrait`
+        }
+        // console.log('column', columnIndex, format)
+        return format === 'landscape' && column
+      })
+
+      if (popped) {
+        row.unshift(popped);
       }
-      console.log('column', columnIndex, format)
+
+      if (landscapes.length > 0) {
+        popped = row.pop()
+        console.log('we have a landscape image in the row, pop', popped)
+        return row
+      } else {
+        return row
+      }
+
+      // we only deal with columns in the last row, so if a row only had 3 columns, the height will be caculated based on the items in the row
     })
-    // we only deal with columns in the last row, so if a row only had 3 columns, the height will be caculated based on the items in the row
-  })
+
+  }
 
 
+
+  console.log('balancedRows: ', rows)
 
   // calculate total ratio of each row, and adjust each cell height and width
   // accordingly.

@@ -564,7 +564,7 @@ async function responsiveSizes({ file, args = {}, reporter }) {
         height,
         aspectRatio: width / height
       }
-      console.log('sourceImage:', sourceImage)
+      // console.log('sourceImage:', sourceImage)
       return sourceImage
       // this will return the source image and the srcSet will be generated with it and the width.
     } else {
