@@ -28,12 +28,32 @@ export function computeSizes({ photos, columns, width, margin, balanced }) {
 
   // how would you push items around in the array
 
-  if (balanced) {
+  const skip = true
+
+  if (balanced && skip) {
 
     console.log('rows: ', rows)
 
     let popped
+    let overflow
     rows = rows.map((row, rowIndex) => {
+
+      // put the popped column onto the front
+      if (popped) {
+        row.unshift(popped);
+        popped = false
+      }
+
+      if (overflow) {
+        row.unshift(overflow)
+        overflow = false
+      }
+
+      // if our row is longer the columns
+      if (row.length > columns) {
+        overflow = row.pop()
+        console.log('overflow: ', overflow)
+      }
 
       const landscapes = row.map((column, columnIndex) => {
         let format
@@ -45,10 +65,6 @@ export function computeSizes({ photos, columns, width, margin, balanced }) {
         // console.log('column', columnIndex, format)
         return format === 'landscape' && column
       })
-
-      if (popped) {
-        row.unshift(popped);
-      }
 
       if (landscapes.length > 0) {
         popped = row.pop()
