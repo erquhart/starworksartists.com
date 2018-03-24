@@ -7,7 +7,7 @@ export const gatsbyImageSharpResolutions = graphql`
     src
     srcSet
   }
-`;
+`
 
 export const gatsbyImageSharpResolutionsTracedSVG = graphql`
   fragment GatsbyImageSharpResolutions_tracedSVG on ImageSharpResolutions {
@@ -17,7 +17,7 @@ export const gatsbyImageSharpResolutionsTracedSVG = graphql`
     src
     srcSet
   }
-`;
+`
 
 export const gatsbyImageSharpResolutionsPreferWebp = graphql`
   fragment GatsbyImageSharpResolutions_withWebp on ImageSharpResolutions {
@@ -29,7 +29,7 @@ export const gatsbyImageSharpResolutionsPreferWebp = graphql`
     srcWebp
     srcSetWebp
   }
-`;
+`
 
 export const gatsbyImageSharpResolutionsPreferWebpTracedSVG = graphql`
   fragment GatsbyImageSharpResolutions_withWebp_tracedSVG on ImageSharpResolutions {
@@ -41,7 +41,7 @@ export const gatsbyImageSharpResolutionsPreferWebpTracedSVG = graphql`
     srcWebp
     srcSetWebp
   }
-`;
+`
 
 export const gatsbyImageSharpResolutionsNoBase64 = graphql`
   fragment GatsbyImageSharpResolutions_noBase64 on ImageSharpResolutions {
@@ -50,7 +50,7 @@ export const gatsbyImageSharpResolutionsNoBase64 = graphql`
     src
     srcSet
   }
-`;
+`
 
 export const gatsbyImageSharpResolutionsPreferWebpNoBase64 = graphql`
   fragment GatsbyImageSharpResolutions_withWebp_noBase64 on ImageSharpResolutions {
@@ -61,7 +61,7 @@ export const gatsbyImageSharpResolutionsPreferWebpNoBase64 = graphql`
     srcWebp
     srcSetWebp
   }
-`;
+`
 
 export const gatsbyImageSharpSizes = graphql`
   fragment GatsbyImageSharpSizes on ImageSharpSizes {
@@ -71,7 +71,7 @@ export const gatsbyImageSharpSizes = graphql`
     srcSet
     sizes
   }
-`;
+`
 
 export const gatsbyImageSharpSizesTracedSVG = graphql`
   fragment GatsbyImageSharpSizes_tracedSVG on ImageSharpSizes {
@@ -81,7 +81,7 @@ export const gatsbyImageSharpSizesTracedSVG = graphql`
     srcSet
     sizes
   }
-`;
+`
 
 export const gatsbyImageSharpSizesPreferWebp = graphql`
   fragment GatsbyImageSharpSizes_withWebp on ImageSharpSizes {
@@ -93,7 +93,7 @@ export const gatsbyImageSharpSizesPreferWebp = graphql`
     srcSetWebp
     sizes
   }
-`;
+`
 
 export const gatsbyImageSharpSizesPreferWebpTracedSVG = graphql`
   fragment GatsbyImageSharpSizes_withWebp_tracedSVG on ImageSharpSizes {
@@ -105,7 +105,7 @@ export const gatsbyImageSharpSizesPreferWebpTracedSVG = graphql`
     srcSetWebp
     sizes
   }
-`;
+`
 
 export const gatsbyImageSharpSizesNoBase64 = graphql`
   fragment GatsbyImageSharpSizes_noBase64 on ImageSharpSizes {
@@ -114,7 +114,7 @@ export const gatsbyImageSharpSizesNoBase64 = graphql`
     srcSet
     sizes
   }
-`;
+`
 
 export const gatsbyImageSharpSizesPreferWebpNoBase64 = graphql`
   fragment GatsbyImageSharpSizes_withWebp_noBase64 on ImageSharpSizes {
@@ -125,4 +125,4 @@ export const gatsbyImageSharpSizesPreferWebpNoBase64 = graphql`
     srcSetWebp
     sizes
   }
-`;
+`

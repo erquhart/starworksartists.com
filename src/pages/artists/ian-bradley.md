@@ -2,7 +2,6 @@
 kind: artist
 title: Ian Bradley
 type: stylist
-order: '3'
 enquire: caitlin.mazonas@starworksgroup.com
 instagram_handle: iancogneato
 cover: /img/IBY_HEADER.jpg

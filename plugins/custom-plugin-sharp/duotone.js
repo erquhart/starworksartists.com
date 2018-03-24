@@ -1,5 +1,3 @@
-"use strict";
-
 const sharp = require(`sharp`);
 
 module.exports = async function duotone(duotone, format, clonedPipeline) {

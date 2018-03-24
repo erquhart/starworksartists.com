@@ -5,4 +5,3 @@
 // message: `3/4`,
 // }
 // }
-"use strict";

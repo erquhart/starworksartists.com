@@ -1,10 +1,4 @@
-"use strict";
-
-var _extends2 = require("babel-runtime/helpers/extends");
-
-var _extends3 = _interopRequireDefault(_extends2);
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
 const sharp = require(`sharp`);
 const crypto = require(`crypto`);
@@ -476,7 +470,7 @@ async function responsiveSizes({ file, args = {}, reporter }) {
 
   // Queue sizes for processing.
   const images = sortedSizes.map((size, index) => {
-    const arrrgs = (0, _extends3.default)({}, options, {
+    const arrrgs = _extends({}, options, {
       width: Math.round(size),
       passThrough: index === sortedSizes.length - 1
       // console.log('file, arrgs: ', file, arrrgs)
@@ -485,11 +479,25 @@ async function responsiveSizes({ file, args = {}, reporter }) {
       arrrgs.height = Math.round(size * (options.maxHeight / options.maxWidth));
     }
 
-    return queueImageResizing({
-      file,
-      args: arrrgs, // matey
-      reporter
-    });
+    if (index === sortedSizes.length - 1) {
+      const sourceImage = {
+        src: `/img/` + file.base,
+        absolutePath: `/img/` + file.base,
+        originalName: file.base,
+        width,
+        height,
+        aspectRatio: width / height
+      };
+      console.log('sourceImage:', sourceImage);
+      return sourceImage;
+      // this will return the source image and the srcSet will be generated with it and the width.
+    } else {
+      return queueImageResizing({
+        file,
+        args: arrrgs, // matey
+        reporter
+      });
+    }
   });
 
   const base64Width = 20;
@@ -569,7 +577,7 @@ async function resolutions({ file, args = {}, reporter }) {
   const sortedSizes = _.sortBy(filteredSizes);
 
   const images = sortedSizes.map(size => {
-    const arrrgs = (0, _extends3.default)({}, options, {
+    const arrrgs = _extends({}, options, {
       width: Math.round(size)
       // Queue sizes for processing.
     });if (options.height) {

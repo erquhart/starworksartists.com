@@ -555,11 +555,26 @@ async function responsiveSizes({ file, args = {}, reporter }) {
       arrrgs.height = Math.round(size * (options.maxHeight / options.maxWidth))
     }
 
-    return queueImageResizing({
-      file,
-      args: arrrgs, // matey
-      reporter,
-    })
+    if (index === sortedSizes.length - 1) {
+      const sourceImage = {
+        src: `/img/` + file.base,
+        absolutePath: `/img/` + file.base,
+        originalName: file.base,
+        width,
+        height,
+        aspectRatio: width / height
+      }
+      console.log('sourceImage:', sourceImage)
+      return sourceImage
+      // this will return the source image and the srcSet will be generated with it and the width.
+    } else {
+      return queueImageResizing({
+        file,
+        args: arrrgs, // matey
+        reporter,
+      })
+    }
+
   })
 
   const base64Width = 20

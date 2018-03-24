@@ -66,6 +66,16 @@ export default function Template({ data, transition }) {
     </section>
   );
 }
+/*
+export const gatsbyImageSharpResolutions = graphql`
+  fragment GatsbyImageSharpResolutions on ImageSharpResolutions {
+    base64
+    width
+    height
+    src
+    srcSet
+  }
+`*/
 
 export const gatsbyImageSharpSizes = graphql`
   fragment GatsbyImageSharpSizes on ImageSharpSizes {
@@ -74,16 +84,6 @@ export const gatsbyImageSharpSizes = graphql`
     src
     srcSet
     sizes
-  }
-`
-
-export const gatsbyImageSharpResolutions = graphql`
-  fragment GatsbyImageSharpResolutions on ImageSharpResolutions {
-    base64
-    width
-    height
-    src
-    srcSet
   }
 `
 
