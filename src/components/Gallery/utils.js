@@ -28,7 +28,7 @@ export function computeSizes({ photos, columns, width, margin, balanced }) {
 
   // how would you push items around in the array
 
-  const skip = true
+  const skip = false
 
   if (balanced && skip) {
 
@@ -38,21 +38,21 @@ export function computeSizes({ photos, columns, width, margin, balanced }) {
     let overflow
     rows = rows.map((row, rowIndex) => {
 
+      if (overflow) {
+        row.unshift(overflow)
+        overflow = false
+      }
+
       // put the popped column onto the front
       if (popped) {
         row.unshift(popped);
         popped = false
       }
 
-      if (overflow) {
-        row.unshift(overflow)
-        overflow = false
-      }
-
       // if our row is longer the columns
       if (row.length > columns) {
         overflow = row.pop()
-        console.log('overflow: ', overflow)
+        console.log('overflow: ', overflow.src)
       }
 
       const landscapes = row.map((column, columnIndex) => {
@@ -68,7 +68,7 @@ export function computeSizes({ photos, columns, width, margin, balanced }) {
 
       if (landscapes.length > 0) {
         popped = row.pop()
-        console.log('we have a landscape image in the row, pop', popped)
+        console.log('pop', popped.src)
         return row
       } else {
         return row

@@ -44,8 +44,10 @@ collections:
         widget: list
         optional: true
         fields:
-          - {label: 'Title', name: 'title', widget: 'string'}
           - {label: 'ID', name: 'url', widget: 'number'}
+          - {label: 'Title', name: 'title', widget: 'string'}
+          - {label: 'Poster', name: 'poster', widget: 'string'}
+          - {label: 'Ratio', name: 'ratio', widget: 'string'}
       - {label: "Biography Text", name: "body", widget: "markdown"}
 
   - name: services
