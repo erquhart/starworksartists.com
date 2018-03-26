@@ -106,10 +106,30 @@ portfolios:
     title: Red Carpet
 videos:
   - url: 260853325
+    video:
+      poster: 'https://i.vimeocdn.com/video/689693967_1280x720.jpg?r=pad'
+      ratio: 56.25%
+      title: StyleCaster featuring Chrissy Teigen
   - url: 260164543
+    video:
+      poster: 'https://i.vimeocdn.com/video/688815982_1280x720.jpg?r=pad'
+      ratio: 56.25%
+      title: J Brand Fall 2012 Ready To Wear
   - url: 260164499
+    video:
+      poster: 'https://i.vimeocdn.com/video/688815842_1280x536.jpg?r=pad'
+      ratio: 41.875%
+      title: 'Bolon Eyewear: Play Yourself featuring Hailey Baldwin'
   - url: 260164539
+    video:
+      poster: 'https://i.vimeocdn.com/video/688815880_1280x720.jpg?r=pad'
+      ratio: 56.25%
+      title: Stella Artois featuring ChrissyTeigen
   - url: 260164512
+    video:
+      poster: 'https://i.vimeocdn.com/video/688815831_1280x720.jpg?r=pad'
+      ratio: 56.25%
+      title: 'DIRECTV: Hannah Ferguson'
 ---
 Robert Sesnek was born and raised in Michigan, where he began working as a makeup artist at an early age. Since relocating to New York City to pursue a career as a freelance artist, he has built an impressive body of work. From up-and-coming actors and musicians to Fashion’s most iconic image-makers, Robert has developed a devoted clientele who consistently request him for on-camera appearances and events. He has the unique ability to create looks that are as immaculate on the red carpet as they are on the printed page.
 
