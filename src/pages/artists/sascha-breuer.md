@@ -2,8 +2,9 @@
 kind: artist
 title: Sascha Breuer
 type: hair
-enquire: rory.aledort@starworksgroup.com
+cover: /static/img/2018-02_MTD_HEADER.jpg
 instagram_handle: sascha_breuer
+enquire: rory.aledort@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2015-05_SBR_ELLECZ_23.jpg
@@ -102,7 +103,7 @@ portfolios:
       - image: /img/starworks-artists_2015-05_KLE_SBR_CMAG_02.jpg
       - image: /img/starworks-artists_2016-09_SBR_TEENVOGUE_01.jpg
       - image: /img/starworks-artists_2016-09_SBR_TEENVOGUE_03.jpg
-    title: 'Editorial'
+    title: Editorial
   - gallery:
       - image: /img/starworks-artists_SBR_sascha-breuer-018.jpg
       - image: /img/starworks-artists_SBR_sascha-breuer-028.jpg
@@ -138,7 +139,7 @@ portfolios:
       - image: /img/starworks-artists_SBR_sascha-breuer-293.jpg
       - image: /img/starworks-artists_SBR_sascha-breuer-303.jpg
       - image: /img/starworks-artists_SBR_sascha-breuer-313.jpg
-    title: 'Advertising'
+    title: Advertising
   - gallery:
       - image: /img/starworks-artists_2017-06_JCO_KLE_SBR_MARIECLAIRE_01.jpg
       - image: /img/starworks-artists_2017-06_JCO_KLE_SBR_MARIECLAIRE_03.jpg
@@ -175,7 +176,7 @@ portfolios:
       - image: /img/starworks-artists_SBR_beardos7.jpg
       - image: /img/starworks-artists_SBR_beardos4.jpg
       - image: /img/starworks-artists_SBR_beardos5.jpg
-    title: 'Grooming'
+    title: Grooming
   - gallery:
       - image: /img/starworks-artists_SBR_RC_01.jpg
       - image: /img/starworks-artists_SBR_RC_27.jpg
@@ -215,22 +216,66 @@ portfolios:
       - image: /img/starworks-artists_SBR_RC_05.jpg
       - image: /img/starworks-artists_SBR_RC_20.jpg
       - image: /img/starworks-artists_SBR_RC_19.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260165708
-  - url: 260165704
-  - url: 260165683
-  - url: 260165692
-  - url: 260165689
-  - url: 260165957
-  - url: 260165932
-  - url: 260165820
-  - url: 260165806
-  - url: 260166032
-  - url: 260165929
-  - url: 260165738
-  - url: 260165892
-  - url: 260165900
+  - poster: 'https://i.vimeocdn.com/video/688817520_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Apple Watch: Run'
+    url: 260165708
+  - poster: 'https://i.vimeocdn.com/video/688817362_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Apple Watch: Move'
+    url: 260165704
+  - poster: 'https://i.vimeocdn.com/video/688817354_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Apple Watch:  Catch'
+    url: 260165683
+  - poster: 'https://i.vimeocdn.com/video/688817345_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Apple Watch: Dive'
+    url: 260165692
+  - poster: 'https://i.vimeocdn.com/video/688817335_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Apple Watch: Dance'
+    url: 260165689
+  - poster: 'https://i.vimeocdn.com/video/688817699_1920x1078.jpg?r=pad'
+    ratio: 56.14583333333334%
+    title: Swatch
+    url: 260165957
+  - poster: 'https://i.vimeocdn.com/video/688817667_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Rolls Royce: Spirit of Ecstasy, directed by Rankin'
+    url: 260165932
+  - poster: 'https://i.vimeocdn.com/video/688817525_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Wimbledon, directed by Rankin'
+    url: 260165820
+  - poster: 'https://i.vimeocdn.com/video/688817507_1920x1078.jpg?r=pad'
+    ratio: 56.14583333333334%
+    title: 'Harrods: 21st Century Couture, directed by Rankin'
+    url: 260165806
+  - poster: 'https://i.vimeocdn.com/video/688817799_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Volt: Beauty'
+    url: 260166032
+  - poster: 'https://i.vimeocdn.com/video/688817661_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Rodarte: This Must Be The Only Fantasy'
+    url: 260165929
+  - poster: 'https://i.vimeocdn.com/video/688817418_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'ELLE CZECH, directed by Rankin'
+    url: 260165738
+  - poster: 'https://i.vimeocdn.com/video/688817611_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: >-
+      New York Times Magazine: 9 Kisses featuring Jack O'connell & Shailene
+      Woodley
+    url: 260165892
+  - poster: 'https://i.vimeocdn.com/video/688817624_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'New York Times Magazine: Take Flight featuring Kristen Wigg'
+    url: 260165900
 ---
 Sascha Breuer was born with a blow dryer in hand.  The son of two hairdressers, his early education equipped him with a unique perspective and the intuition of a seasoned stylist. At a young age, Sascha moved from his native Germany to London to develop his talent. This enthusiasm blossomed into a global career collaborating with leading photographers like Rankin, Peter Linbergh, Ben Hassett, and Simon Emmet on editorials for magazines such as Vogue, Numéro, Vanity Fair, Harper’s Bazaar and Another Magazine.
 

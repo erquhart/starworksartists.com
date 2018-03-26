@@ -2,9 +2,9 @@
 kind: artist
 title: Rachel Zoe
 type: stylist
-enquire: alexandra.feldman@starworksgroup.com
-instagram_handle: rachelzoe
 cover: /img/RZE_HEADER.jpg
+instagram_handle: rachelzoe
+enquire: alexandra.feldman@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2010-01_RZE_HBAZAAR_03.jpg
@@ -45,7 +45,7 @@ portfolios:
       - image: /img/starworks-artists_2015-11_MRK_RZE_RZO_UGG_10.jpg
       - image: /img/starworks-artists_2015-11_MRK_RZE_RZO_UGG_21.jpg
       - image: /img/starworks-artists_2015-11_MRK_RZE_RZO_UGG_29.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_rachel-zoe_stylist_red-carpet_01.jpg
       - image: /img/starworks-artists_rachel-zoe_stylist_red-carpet_02.jpg
@@ -81,14 +81,32 @@ portfolios:
       - image: /img/starworks-artists_rachel-zoe_stylist_red-carpet_32.jpg
       - image: /img/starworks-artists_rachel-zoe_stylist_red-carpet_33.jpg
       - image: /img/starworks-artists_rachel-zoe_stylist_red-carpet_34.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260165281
-  - url: 260165273
-  - url: 260165295
-  - url: 260165293
-  - url: 260165269
-  - url: 260165292
+  - poster: 'https://i.vimeocdn.com/video/688816797_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Harper''s Bazaar Behind the Scenes: Kate Hudson'
+    url: 260165281
+  - poster: 'https://i.vimeocdn.com/video/688816787_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Harper''s Bazaar Behind The Scenes: Demi Moore'
+    url: 260165273
+  - poster: 'https://i.vimeocdn.com/video/688816859_1920x1422.jpg?r=pad'
+    ratio: 74.0625%
+    title: 'True Religion: Brand Jeans featuring Candice Swanepoel'
+    url: 260165295
+  - poster: 'https://i.vimeocdn.com/video/688816809_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Pantene ProV: Dare featuring Eva Mendes'
+    url: 260165293
+  - poster: 'https://i.vimeocdn.com/video/688816776_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Almay: IntenseI Color Cosmetics featuring KateHudson'
+    url: 260165269
+  - poster: 'https://i.vimeocdn.com/video/688816801_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Head & Shoulder featuring Sofia Vergara
+    url: 260165292
 ---
 An unparalleled fixture in the fashion world, Rachel Zoe is a distinguished designer, stylist and editor renowned for her effortless take on glamour. Having immersed herself in fashion and design for nearly two decades, Rachel has been heralded as one of the most influential forces working in fashion today.
 
