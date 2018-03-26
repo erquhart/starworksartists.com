@@ -100,20 +100,17 @@ portfolios:
       - image: /img/starworks-artists_shannon-pezzetta_grooming_SPA_G_RC_11.jpg
     title: Red Carpet
 videos:
-  - url: 258320477
-    video:
-      poster: 'https://i.vimeocdn.com/video/686468091_1280x720.jpg?r=pad'
-      ratio: 56.25%
-      title: Penshoppe Spring/Summer 2018 ft. Zayn Malik
-  - url: 260168251
-    video:
-      poster: 'https://i.vimeocdn.com/video/688820582_1280x674.jpg?r=pad'
-      ratio: 52.65624999999999%
-      title: 'High Snobiety Behind the Scenes: Zayn Malik'
-  - url: 260168227
-    video:
-      poster: 'https://i.vimeocdn.com/video/688820555_1280x720.jpg?r=pad'
-      ratio: 56.25%
-      title: 'Elle UK: Icon of Change featuring Zayn Malik'
+  - poster: 'https://i.vimeocdn.com/video/686468091_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Penshoppe Spring/Summer 2018 ft. Zayn Malik
+    url: 258320477
+  - poster: 'https://i.vimeocdn.com/video/688820582_1280x674.jpg?r=pad'
+    ratio: 52.65624999999999%
+    title: 'High Snobiety Behind the Scenes: Zayn Malik'
+    url: 260168251
+  - poster: 'https://i.vimeocdn.com/video/688820555_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Elle UK: Icon of Change featuring Zayn Malik'
+    url: 260168227
 ---
 Makeup artist and beauty expert Shannon Pezzetta sees the faces she works with as blank canvases, ready to be transformed into art. Shannon’s skill as a painter was first cultivated in the studio of her New Jersey childhood home. Her natural talent eventually led to her enrollment in the Hussian School of Art in Philadelphia, where her interest in the medium of makeup emerged. Upon relocating to Los Angeles, her career in makeup artistry and grooming quickly took shape and today she works regularly with some of the top names in entertainment. Shannon’s celebrity clients include Jennifer Hudson, Zayn Malik, Ciara, Anderson Paak, Bellamy Young and Kelly Rowland.
