@@ -85,20 +85,17 @@ portfolios:
       - image: /img/starworks-artists_SPA_RC_23.jpg
     title: Red Carpet
 videos:
-  - url: 260168327
-    video:
-      poster: 'https://i.vimeocdn.com/video/688820676_1280x720.jpg?r=pad'
-      ratio: 56.25%
-      title: 'Stella McCartney: One City One Girl, LA'
-  - url: 260168252
-    video:
-      poster: 'https://i.vimeocdn.com/video/688820600_1280x720.jpg?r=pad'
-      ratio: 56.25%
-      title: 'Jennifer Hudson, "I Still Love You"'
-  - url: 260168299
-    video:
-      poster: 'https://i.vimeocdn.com/video/688820638_1280x720.jpg?r=pad'
-      ratio: 56.25%
-      title: 'Natalie La Rose featuring Jeremih,  "Somebody"'
+  - poster: 'https://i.vimeocdn.com/video/688820676_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Stella McCartney: One City One Girl, LA'
+    url: 260168327
+  - poster: 'https://i.vimeocdn.com/video/688820600_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Jennifer Hudson, "I Still Love You"'
+    url: 260168252
+  - poster: 'https://i.vimeocdn.com/video/688820638_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Natalie La Rose featuring Jeremih,  "Somebody"'
+    url: 260168299
 ---
 Makeup artist and beauty expert Shannon Pezzetta sees the faces she works with as blank canvases, ready to be transformed into art. Shannon’s skill as a painter was first cultivated in the studio of her New Jersey childhood home. Her natural talent eventually led to her enrollment in the Hussian School of Art in Philadelphia, where her interest in the medium of makeup emerged. Upon relocating to Los Angeles, her career in makeup artistry and grooming quickly took shape and today she works regularly with some of the top names in entertainment. Shannon’s celebrity clients include Jennifer Hudson, Zayn Malik, Ciara, Anderson Paak, Bellamy Young and Kelly Rowland.
