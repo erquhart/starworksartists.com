@@ -2,9 +2,9 @@
 kind: artist
 title: Robert Sesnek
 type: makeup
-enquire: caitlin.mazonas@starworksgroup.com
-instagram_handle: robertsesnek
 cover: /img/RSK_HEADER.jpg
+instagram_handle: robertsesnek
+enquire: caitlin.mazonas@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_201511_MARIECLAIRELA_GBARRENGER_JGE_RSK_02.jpg
@@ -66,7 +66,7 @@ portfolios:
       - image: /img/starworks-artists_2013-09_IBY_FADER_04-1.jpg
       - image: /img/starworks-artists_201702_BOLON_UNKNOWN_JYZ_RSK_01.jpg
       - image: /img/starworks-artists_RSK_BOLON_01.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_robert-sesnek_makeup_red-carpet_01.jpg
       - image: /img/starworks-artists_robert-sesnek_makeup_red-carpet_02.jpg
@@ -103,7 +103,7 @@ portfolios:
       - image: /img/starworks-artists_robert-sesnek_makeup_red-carpet_33.jpg
       - image: /img/starworks-artists_robert-sesnek_makeup_red-carpet_34.jpg
       - image: /img/starworks-artists_robert-sesnek_makeup_red-carpet_35.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
   - url: 260853325
   - url: 260164543

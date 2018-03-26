@@ -6,7 +6,7 @@ backend:
 media_folder: 'static/img' # this is where netlify cms places images.
 public_folder: '/img' # this is where gatsby places images
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 collections:
 
@@ -21,7 +21,7 @@ collections:
       - {name: kind, widget: hidden, default: 'artist'}
       - {label: "Name", name: "title", widget: "string", tagname: "h1"}
       - {label: "Type", name: "type", widget: "select", options: ["hair", "makeup", "stylist", "grooming", "manicurist", "color"]}
-      - {label: "Cover Image", name: "cover", widget: "image", required: true, tagname: ""}
+      - {label: "Cover Image", name: "cover", widget: "image", tagname: "", optional: true}
       - {label: "Instagram handle", name: "instagram_handle", widget: "string", tagname: "p", required: false}
       - {label: "Enquire", name: "enquire", widget: "string", tagname: "p", required: false}
       - name: portfolios
