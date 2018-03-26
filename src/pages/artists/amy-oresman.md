@@ -4,6 +4,7 @@ title: Amy Oresman
 type: makeup
 enquire: noelle.keshishian@starworksgroup.com
 instagram_handle: amyoresman
+cover: /img/AON_HEADER.jpg
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-06_AON_HARPERSBAZAARMX_01.jpg

@@ -4,6 +4,7 @@ title: Sami Knight
 type: hair
 enquire: noelle.keshishian@starworksgroup.com
 instagram_handle: samiknighthair
+cover: /img/SKT_HEADER.jpg
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-06_SKT_WMAGKO_01.jpg

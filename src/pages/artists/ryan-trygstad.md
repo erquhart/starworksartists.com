@@ -4,7 +4,7 @@ title: Ryan Trygstad
 type: hair
 enquire: caitlin.mazonas@starworksgroup.com
 instagram_handle: ryantrygstadhair
-#cover: /img/RZE_HEADER.jpg
+cover: /img/RTD_HEADER.jpg
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-09_RTD_ELLECA_01.jpg

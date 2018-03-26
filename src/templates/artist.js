@@ -16,7 +16,8 @@ export default function Template({ data, transition }) {
       type,
       title,
       cover,
-      enquire
+      enquire,
+      videos
     }
   } = artist
   const { html: biography } = artist
@@ -27,7 +28,7 @@ export default function Template({ data, transition }) {
   const followers = data.followers && data.followers.followers
   //const { vimeo: { videos = [] } } = data
   const { vimeo = {} } = data
-  const videos = vimeo ? vimeo.videos : []
+  //const videos = vimeo ? vimeo.videos : []
 
   return (
     <section
@@ -79,21 +80,13 @@ export const gatsbyImageSharpSizes = graphql`
 `
 
 export const pageQuery = graphql`
-  query ArtistByPath($slug: String!, $instagram_handle: String!, $title: String!) {
+  query ArtistByPath($slug: String!, $instagram_handle: String!) {
     followers: instagramPhoto(username: {eq: $instagram_handle}) {
       followers
     }
     instagram: instagramPhoto(username: {eq: $instagram_handle}) {
       images {
         media
-      }
-    }
-    vimeo: vimeoThumbnail(title: {eq: $title}) {
-      videos {
-        name
-        poster
-        id
-        ratio
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
@@ -109,6 +102,12 @@ export const pageQuery = graphql`
               ...GatsbyImageSharpSizes
             }
           }
+        }
+        videos {
+          title
+          poster
+          url
+          ratio
         }
         portfolios {
           title

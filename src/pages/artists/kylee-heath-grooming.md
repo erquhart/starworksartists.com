@@ -4,6 +4,7 @@ title: Kylee Heath
 type: grooming
 enquire: alexandra.feldman@starworksgroup.com
 instagram_handle: kyleeheathhair
+image: /img/KHH_G_HEADER.jpg
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2012-06_KHH_INTERVIEW_01.jpg

@@ -4,6 +4,7 @@ title: Lona Vigi
 type: hair
 enquire: noelle.keshishian@starworksgroup.com
 instagram_handle: lonavigi
+cover: /img/LVI_HEADER.jpg
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-02_LVI_MSN_ELLE_04.jpg

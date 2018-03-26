@@ -4,6 +4,7 @@ title: Marcus Francis
 type: hair
 enquire: samantha.jeudy@starworksgroup.com
 instagram_handle: marcusrfrancis
+cover: /img/MFS_HEADER.jpg
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-02_KYB_MFS_ELLE_01.jpg

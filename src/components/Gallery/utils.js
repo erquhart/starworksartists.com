@@ -8,6 +8,7 @@ export function ratio({ width, height }) {
   return round(width / height, 2);
 }
 
+
 // takes the Gallery's photos prop object, width of the container,
 // margin between photos Gallery prop, and columns Gallery prop.
 // calculates, sizes based on columns and returns the photos object with new height/width props
@@ -23,65 +24,92 @@ export function computeSizes({ photos, columns, width, margin, balanced }) {
     return acc;
   }, []);
 
-  // at this point we could iterate through the array and compare the image formats, and potentially push the last image into the next row.
 
 
-  // how would you push items around in the array
-
-  const skip = false
+  const skip = true
 
   if (balanced && skip) {
 
-    console.log('rows: ', rows)
+    const overflow = []
 
-    let popped
-    let overflow
-    rows = rows.map((row, rowIndex) => {
+    rows = rows.map((sourceRow, rowIndex) => {
 
-      if (overflow) {
-        row.unshift(overflow)
-        overflow = false
+      console.log(`Row ${rowIndex} ===============================`)
+
+      let row
+      if (overflow && overflow.length > 0) {
+        row = overflow.concat(sourceRow)
+        while(overflow.length > 0) { overflow.pop() }
+      } else {
+        row = sourceRow
       }
 
-      // put the popped column onto the front
-      if (popped) {
-        row.unshift(popped);
-        popped = false
-      }
-
-      // if our row is longer the columns
-      if (row.length > columns) {
-        overflow = row.pop()
-        console.log('overflow: ', overflow.src)
-      }
-
-      const landscapes = row.map((column, columnIndex) => {
-        let format
-        if (column.width > 1) {
-          format = `landscape`
-        } else {
-         format = `portrait`
-        }
-        // console.log('column', columnIndex, format)
-        return format === 'landscape' && column
+      const columnPointsArray = row.map(column => {
+        return column.width > 1 ? 2 : 1
       })
 
-      if (landscapes.length > 0) {
-        popped = row.pop()
-        console.log('pop', popped.src)
-        return row
-      } else {
-        return row
+      const points = columnPointsArray.reduce((a, b) => a + b, 0)
+      console.log(`Length: ${row.length}, Points: ${columnPointsArray}, Total: ${points}`)
+
+      if (points > columns) {
+
+        let spliceAtIndex
+        let extra
+
+        if (row.length > columns) {
+
+          //extra = points - columns
+          //spliceAtIndex = row.length - extra
+
+          let counter = 0
+          spliceAtIndex = columnPointsArray.findIndex(val => {
+            counter = counter + val
+            //console.log(`Counter: ${counter}`)
+            return counter >= columns
+          }) + 1
+
+          extra = row.length - spliceAtIndex
+
+          console.log('!!! spliceAtIndex: ', spliceAtIndex)
+          console.log(`!!! extra ${extra}`)
+
+
+        } else {
+          extra = 1
+          spliceAtIndex = row.length - 1
+        }
+
+        console.log(`${points} is more then ${columns} by ${extra}. Cut at index ${spliceAtIndex}`)
+
+        const removed = row.splice(spliceAtIndex, extra)
+
+        removed.length > 0 && removed.forEach(item => overflow.push(item) )
+
+        console.log('remainingRow: ', row)
+        console.log('and overflow: ', overflow)
+        //array.splice(row.length - (1 + extra), extra)
       }
 
-      // we only deal with columns in the last row, so if a row only had 3 columns, the height will be caculated based on the items in the row
+      // is it possible to add on to an array while iterating through it?
+      if (rows.length - 1 === rowIndex) {
+        console.log('END')
+        //console.log('WE GOT TO KEEP GOING!', rows, overflow)
+        //rows.push(overflow)
+      }
+
+      return row
+
     })
+
+    if (overflow) {
+      rows.push(overflow)
+      // we somehow need to repeat the process with these ones
+    }
 
   }
 
 
-
-  console.log('balancedRows: ', rows)
+  //console.log('balancedRows: ', rows)
 
   // calculate total ratio of each row, and adjust each cell height and width
   // accordingly.
@@ -101,22 +129,14 @@ export function computeSizes({ photos, columns, width, margin, balanced }) {
 
     let height
     if (balanced) {
-      if (rowIndex !== lastRowIndex) {
-        height = rowWidth / totalRatio
-      } else {
-        if (row.length === 1) {
-          height = rowWidth / columns / totalRatio
-        } else if (row.length > (columns - 1)) { // this works if 3 is 1 short of a full column, but what if we have more columns?
-          height = rowWidth / row.length / totalRatio
-        } else {
-          height = rowWidth / columns - row.length / totalRatio
-        }
-      }
+
+
+
     } else {
-      height = (rowIndex !== lastRowIndex || row.length > 1) // eslint-disable-line
-        ? rowWidth / totalRatio
-        : rowWidth / columns / totalRatio;
     }
+    height = (rowIndex !== lastRowIndex || row.length > 1) // eslint-disable-line
+      ? rowWidth / totalRatio
+      : rowWidth / columns / totalRatio;
 
     // row.length was columns, that would give you exactly the original ratio if there were X more images of the same ratio. Here we say there are
 

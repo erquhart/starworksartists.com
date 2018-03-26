@@ -4,6 +4,7 @@ title: Gita Bass
 type: makeup
 enquire: caitlin.mazonas@starworksgroup.com
 instagram_handle: gitabass
+cover: /img/GBS_HEADER.jpg
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-10_GBS_MTD_GLAMOURMX_11-1.jpg

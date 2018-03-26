@@ -92,9 +92,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
                 slug
               }
               frontmatter {
-                path
                 kind
-                title
                 instagram_handle
               }
             }
@@ -118,7 +116,6 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             component: path.resolve(`src/templates/artist.js`),
             context: {
               instagram_handle: node.frontmatter.instagram_handle,
-              title: node.frontmatter.title,
               slug: node.fields.slug
             }
           });

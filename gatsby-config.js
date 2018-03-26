@@ -31,7 +31,6 @@ module.exports = {
         name: 'images'
       }
     },
-    'vimeo-thumbnail',
     'instagram-scraper',
     'custom-plugin-sharp',
     'custom-transformer-sharp',

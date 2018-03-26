@@ -4,6 +4,7 @@ title: Kumi Craig
 type: grooming
 enquire: caitlin.mazonas@starworksgroup.com
 instagram_handle: kumicraig
+cover: /img/KCG_HEADER.jpg
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2018-03_KCG_GQ_05.jpg

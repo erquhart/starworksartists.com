@@ -3,6 +3,8 @@ import Waypoint from 'react-waypoint'
 import Img from '../Image'
 import Video from '../Video'
 
+import Responsive from 'react-responsive'
+
 import { Paragraph, HeaderXS, HeaderSM, HeaderMD, HeaderLG } from '../Styled'
 
 
@@ -133,14 +135,36 @@ export class Portfolios extends Component {
                     }
                   })
                 }
-                <Gallery
-                  margin={16}
-                  columns={portfolio.columns || 4}
-                  balanced={!portfolio.columns}
-                  ImageComponent={renderImage}
-                  photos={photos}
-                  onClick={openLightbox}
-                />
+                <Responsive maxWidth={`96rem`}>
+                  <Gallery
+                    margin={16}
+                    columns={portfolio.columns || 3}
+                    balanced={!portfolio.columns}
+                    ImageComponent={renderImage}
+                    photos={photos}
+                    onClick={openLightbox}
+                  />
+                </Responsive>
+                <Responsive minWidth={`96rem`} maxWidth={`146rem`}>
+                  <Gallery
+                    margin={16}
+                    columns={portfolio.columns || 4}
+                    balanced={!portfolio.columns}
+                    ImageComponent={renderImage}
+                    photos={photos}
+                    onClick={openLightbox}
+                  />
+                </Responsive>
+                <Responsive minWidth={`146rem`}>
+                  <Gallery
+                    margin={16}
+                    columns={portfolio.columns || 5}
+                    balanced={!portfolio.columns}
+                    ImageComponent={renderImage}
+                    photos={photos}
+                    onClick={openLightbox}
+                  />
+                </Responsive>
                 </div>
               </Waypoint>
             )
@@ -208,7 +232,7 @@ export class Videos extends Component {
               key={index}
               url={`https://vimeo.com/${video.id}`}
               poster={video.poster}
-              title={video.name}
+              title={video.title}
               ratio={video.ratio}
             />
             </div>

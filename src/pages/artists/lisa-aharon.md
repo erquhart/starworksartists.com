@@ -4,6 +4,7 @@ title: Lisa Aharon
 type: makeup
 enquire: caitlin.mazonas@starworksgroup.com
 instagram_handle: lisaaharon
+cover: /img/LAN_HEADER.jpg
 portfolios:
   - gallery:
       - image: /img/starworks-artists_LAN_P01081_059_51_063_51_v52.jpg

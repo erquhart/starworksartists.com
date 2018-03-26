@@ -4,6 +4,7 @@ title: Michael Ashton
 type: makeup
 enquire: samantha.jeudy@starworksgroup.com
 instagram_handle: michaelashton
+cover: /img/MAN_HEADER.jpg
 portfolios:
   - gallery:
       - image: /img/starworks-artists_MAN_RC_03.jpg

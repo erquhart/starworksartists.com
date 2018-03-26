@@ -4,6 +4,7 @@ title: Jillian Halouska
 type: grooming
 enquire: caitlin.mazonas@starworksgroup.com
 instagram_handle: jillianhalouska
+cover: /img/JHA_G_HEADER.jpg
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-07_JHA_SPEC_02.jpg

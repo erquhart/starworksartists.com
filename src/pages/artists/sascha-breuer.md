@@ -2,7 +2,7 @@
 kind: artist
 title: Sascha Breuer
 type: hair
-cover: /static/img/2018-02_MTD_HEADER.jpg
+cover: /static/img/SBR_HEADER.jpg
 instagram_handle: sascha_breuer
 enquire: rory.aledort@starworksgroup.com
 portfolios:
