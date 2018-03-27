@@ -2,10 +2,9 @@
 kind: artist
 title: Caile Noble
 type: hair
-order: '4'
-enquire: caitlin.mazonas@starworksgroup.com
-instagram_handle: cailenoble
 cover: /img/CNE_HEADER.jpg
+instagram_handle: cailenoble
+enquire: caitlin.mazonas@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2015-09_CNE_WONDERLAND_01.jpg
@@ -77,7 +76,7 @@ portfolios:
       - image: /img/starworks-artists_2016-05_CNE_GLAMOURDE_12.jpg
       - image: /img/starworks-artists_2016-05_CNE_GLAMOURDE_05.jpg
       - image: /img/starworks-artists_2016-05_CNE_GLAMOURDE_02.jpg
-    title: 'Editorial'
+    title: Editorial
   - gallery:
       - image: /img/starworks-artists_2015-00_CNE_GIVENCHY_02.jpg
       - image: /img/starworks-artists_2015-00_CNE_GIVENCHY_05.jpg
@@ -110,7 +109,7 @@ portfolios:
       - image: /img/starworks-artists_2015-09_CNE_LOU&GREY_10.jpg
       - image: /img/starworks-artists_2017-01_CNE_HIGHSUMMER_08.jpg
       - image: /img/starworks-artists_CNE_ACCESSORIZE_FESTIVAL_03.jpg
-    title: 'Advertising'
+    title: Advertising
   - gallery:
       - image: /img/starworks-artists_caile-noble-hair_red-carpet_01.jpg
       - image: /img/starworks-artists_caile-noble-hair_red-carpet_02.jpg
@@ -133,24 +132,72 @@ portfolios:
       - image: /img/starworks-artists_caile-noble-hair_red-carpet_19.jpg
       - image: /img/starworks-artists_caile-noble-hair_red-carpet_20.jpg
       - image: /img/starworks-artists_caile-noble-hair_red-carpet_21.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 259051312
-  - url: 259051617
-  - url: 259051617
-  - url: 259051431
-  - url: 259051496
-  - url: 259051342
-  - url: 259051331
-  - url: 259051570
-  - url: 259051481
-  - url: 259051532
-  - url: 259051372
-  - url: 259051446
-  - url: 259051254
-  - url: 259051281
-  - url: 259051556
-  - url: 259051460
+  - poster: 'https://i.vimeocdn.com/video/687393384_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vogue UK Behind The Scenes: Ashley Graham'
+    url: 259051312
+  - poster: 'https://i.vimeocdn.com/video/687393857_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vogue Japan Behind the Scenes: 200th Issue'
+    url: 259051617
+  - poster: 'https://i.vimeocdn.com/video/687393857_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vogue Japan Behind the Scenes: 200th Issue'
+    url: 259051617
+  - poster: 'https://i.vimeocdn.com/video/687393533_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Harper''s Bazaar: Sofia Carson Sings Disney Songs'
+    url: 259051431
+  - poster: 'https://i.vimeocdn.com/video/687393613_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'MAC x Proenza Schouler: Cool Cleverness'
+    url: 259051496
+  - poster: 'https://i.vimeocdn.com/video/687393559_1920x1440.jpg?r=pad'
+    ratio: 75%
+    title: 'DVF x Current Elliott: Writers Block, directed by Gia Coppola'
+    url: 259051342
+  - poster: 'https://i.vimeocdn.com/video/687393439_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Diesel: Only the Brave featuring Liam Hemsworth'
+    url: 259051331
+  - poster: 'https://i.vimeocdn.com/video/687393766_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Steve Madden featuring Caroline Vreeland
+    url: 259051570
+  - poster: 'https://i.vimeocdn.com/video/687393612_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Lee Jeans Fall/Winter 2013 featuring Faith Picozzi
+    url: 259051481
+  - poster: 'https://i.vimeocdn.com/video/687393676_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Nike Women featuring Maria Clara & Carolina Salgado
+    url: 259051532
+  - poster: 'https://i.vimeocdn.com/video/687393483_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Frizz Ease by John Frieda
+    url: 259051372
+  - poster: 'https://i.vimeocdn.com/video/687393564_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'John Freida: Elevated Waves'
+    url: 259051446
+  - poster: 'https://i.vimeocdn.com/video/687393281_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Billabong x John Freida: Alessa Quizon'
+    url: 259051254
+  - poster: 'https://i.vimeocdn.com/video/687393317_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Billabong x John Freida: Felicity Palmateer'
+    url: 259051281
+  - poster: 'https://i.vimeocdn.com/video/687393728_1920x1079.jpg?r=pad'
+    ratio: 56.19791666666667%
+    title: 'Sofia Carson, "Love Is the Name"'
+    url: 259051556
+  - poster: 'https://i.vimeocdn.com/video/687393569_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Kid Cudi, "Teleport 2 Me"'
+    url: 259051460
 ---
 A first generation Scotsman, Caile Noble was raised in Southern California. After years of traveling the world as a professional cyclist, Caile was inspired to make a change to professional hair styling. His education began at the Vidal Sassoon Academy, after which he started to work for celebrated stylist Serge Normant at the John Frieda Salon. Assisting Serge on high profile fashion editorials and campaigns soon led Caile to pursue his current career in freelance hairstyling.
 
