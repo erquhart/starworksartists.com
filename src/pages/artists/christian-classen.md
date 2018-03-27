@@ -2,10 +2,9 @@
 kind: artist
 title: Christian Classen
 type: stylist
-order: '2'
-enquire: alexandra.feldman@starworksgroup.com
-instagram_handle: chrisclassen
 cover: /img/CCN_HEADER.jpg
+instagram_handle: chrisclassen
+enquire: alexandra.feldman@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2015-10_CCN_LVI_GRAZIAFR_01.jpg
@@ -54,7 +53,7 @@ portfolios:
       - image: /img/starworks-artists_CCN_PORT_17.jpg
       - image: /img/starworks-artists_CCN_PORT_38.jpg
       - image: /img/starworks-artists_CCN_PORT_39.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_christian-classen_stylist_performance_01.jpg
       - image: /img/starworks-artists_christian-classen_stylist_performance_02.jpg
@@ -81,7 +80,7 @@ portfolios:
       - image: /img/starworks-artists_christian-classen_stylist_performance_23.jpg
       - image: /img/starworks-artists_christian-classen_stylist_performance_24.jpg
       - image: /img/starworks-artists_christian-classen_stylist_performance_25.jpg
-    title: 'Performance'
+    title: Performance
   - gallery:
       - image: /img/starworks-artists_christian-classen_stylist_red-carpet_01.jpg
       - image: /img/starworks-artists_christian-classen_stylist_red-carpet_02.jpg
@@ -129,11 +128,20 @@ portfolios:
       - image: /img/starworks-artists_christian-classen_stylist_red-carpet_44.jpg
       - image: /img/starworks-artists_christian-classen_stylist_red-carpet_45.jpg
       - image: /img/starworks-artists_christian-classen_stylist_red-carpet_46.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260501865
-  - url: 260502075
-  - url: 260502385
+  - poster: 'https://i.vimeocdn.com/video/689245933_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Selena Gomez, "Wolves"'
+    url: 260501865
+  - poster: 'https://i.vimeocdn.com/video/689246236_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Selena Gomez "Kill Em With Kindness"
+    url: 260502075
+  - poster: 'https://i.vimeocdn.com/video/689246645_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Bebe Rexha, "The Way I Are"'
+    url: 260502385
 ---
 Christian Classen’s first exposure to fashion came from observing his grandmother work as a wardrobe stylist. Christian’s mother, a visual artist working predominantly with paint and canvas, also played a key role in shaping his refined eye and visual style. At 17 years old, Christian underwent apprenticeships with top stylists in the fashion and entertainment industries. After working for several years as assistant to the celebrated fashion stylist Kate Young, Christian launched his solo career with a succession of highly publicized red carpet and street looks for his principal client Selena Gomez. Christian has also received much recognition for his original costume design for Selena’s 2016 “Revival” tour.
 
