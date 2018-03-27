@@ -1,13 +1,10 @@
 ---
 kind: artist
-templateKey: artist
 title: Mara Roszak
-path: '/artist/mara-roszak'
 type: hair
-order: '12'
 cover: /img/2015-05_MRK_INTERVIEW_06.jpg
-enquire: 'alexandra.feldman@starworksgroup.com'
 instagram_handle: mararoszak
+enquire: alexandra.feldman@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2018-01_MRK_WMAGa_01.jpg
@@ -101,7 +98,7 @@ portfolios:
       - image: /img/starworks-artists_2013-01_MRK_GLAMOURMX_01.jpg
       - image: /img/starworks-artists_2012-08_MRK_GLAMOUR_01.jpg
       - image: /img/starworks-artists_2009-08_MRK_GLAMOURES_03.jpg
-    title: 'Editorial'
+    title: Editorial
   - gallery:
       - image: /img/starworks-artists_2017-12_MRK_JIMMYCHOO_17.jpg
       - image: /img/starworks-artists_2017-12_MRK_JIMMYCHOO_08.jpg
@@ -132,7 +129,7 @@ portfolios:
       - image: /img/starworks-artists_2017-05_MRK_MSN_ELIZABETHARDEN_01.jpg
       - image: /img/starworks-artists_2014-08_MRK_RGN_REVLON_02.jpg
       - image: /img/starworks-artists_2014_01_MRK_RGN_REVLON_01.jpg
-    title: 'Advertising'
+    title: Advertising
   - gallery:
       - image: /img/starworks-artists_MRK_RC_01.jpg
       - image: /img/starworks-artists_MRK_RC_02.jpg
@@ -177,19 +174,52 @@ portfolios:
       - image: /img/starworks-artists_MRK_KYB_01.jpg
       - image: /img/starworks-artists_MRK_KYB_02.jpg
       - image: /img/starworks-artists_MRK_RC_34.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260151962
-  - url: 260304937
-  - url: 260837692
-  - url: 260839074
-  - url: 260151822
-  - url: 260151863
-  - url: 260152009
-  - url: 260152036
-  - url: 260152073
-  - url: 260152059
-  - url: 260152079
+  - poster: 'https://i.vimeocdn.com/video/688799359_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Kenzo World The New Fragrance
+    url: 260151962
+  - poster: 'https://i.vimeocdn.com/video/688994428_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Jimmy Choo: Shimmer in the Dark featuring Cara Delevingne'
+    url: 260304937
+  - poster: 'https://i.vimeocdn.com/video/689673309_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Armani Exchange Fall/Winter 2017 featuring Cara Delevingne
+    url: 260837692
+  - poster: 'https://i.vimeocdn.com/video/689675165_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Rag & Bone: Why Can''t We Get Along featuring Kata Mara'
+    url: 260839074
+  - poster: 'https://i.vimeocdn.com/video/688799206_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Good Girl by Carolina Herrera featuring Karlie Kloss
+    url: 260151822
+  - poster: 'https://i.vimeocdn.com/video/688799243_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Dior Miss Dior featuring Mila Kunis
+    url: 260151863
+  - poster: 'https://i.vimeocdn.com/video/688799481_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Revlon Bold Lacquer Mascara featuring Emma Stone
+    url: 260152009
+  - poster: 'https://i.vimeocdn.com/video/688799471_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Revlon Color Burst Matte & Lacquer Balms featuring Emma Stone
+    url: 260152036
+  - poster: 'https://i.vimeocdn.com/video/688799558_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Revlon: Lash Potion Mascara featuring Emma Stone'
+    url: 260152073
+  - poster: 'https://i.vimeocdn.com/video/688799507_1920x1086.jpg?r=pad'
+    ratio: 56.56250000000001%
+    title: Revlon Grow Luscious Mascara featuring Jessica Biel
+    url: 260152059
+  - poster: 'https://i.vimeocdn.com/video/688799523_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Rimmel London: Lash Accelerator featuring Zooey Deschanel'
+    url: 260152079
 ---
 Growing up in the Laurel Canyon area of Los Angeles, Mara Roszak was exposed to a broad range of aesthetics. Mara's mother was a sculptor and encouraged her to explore all forms of visual art. At the young age of 15, Mara undertook her hairstyling education, and within two years she was working with some of the most celebrated talent in the entertainment industry. The expansion of her career into the editorial and advertising arena soon followed.
 
