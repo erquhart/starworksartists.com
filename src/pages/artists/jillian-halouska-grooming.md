@@ -2,9 +2,9 @@
 kind: artist
 title: Jillian Halouska
 type: grooming
-enquire: caitlin.mazonas@starworksgroup.com
-instagram_handle: jillianhalouska
 cover: /img/JHA_G_HEADER.jpg
+instagram_handle: jillianhalouska
+enquire: caitlin.mazonas@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-07_JHA_SPEC_02.jpg
@@ -50,7 +50,7 @@ portfolios:
       - image: /img/starworks-artists_2014-09_JHA_REVLON_07.jpg
       - image: /img/starworks-artists_2014-09_JHA_REVLON_01.jpg
       - image: /img/starworks-artists_2014-09_JHA_REVLON_05.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_JHA_G_RC_02.jpg
       - image: /img/starworks-artists_JHA_G_RC_01.jpg
@@ -68,9 +68,12 @@ portfolios:
       - image: /img/starworks-artists_JHA_G_RC_12.jpg
       - image: /img/starworks-artists_JHA_G_RC_11.jpg
       - image: /img/starworks-artists_JHA_G_RC_16.jpg
-    title: 'Red carpet'
+    title: Red carpet
 videos:
-  - url: 260856525
+  - poster: 'https://i.vimeocdn.com/video/689698223_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Gant Rugger Spring/Summer 2014
+    url: 260856525
 ---
 Jillian Halouska is a New York City based artist sought after for her hairstyling, makeup and grooming skills. Jillian’s first apprenticeship upon graduation from the Toni & Guy Academy was with renowned hairstylist Edward Tricomi. Since then she has expanded her portfolio with a collection of editorial, advertising and red carpet assignments. Her high energy, attention to detail, and ability to work with both everyday clients and top Hollywood talent have made her a standout among her peers.
 
