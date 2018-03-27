@@ -2,10 +2,9 @@
 kind: artist
 title: Charlotte Tilbury
 type: makeup
-order: '4'
-enquire: caitlin.mazonas@starworksgroup.com
-instagram_handle: ctilburymakeup
 cover: /img/CTY_HEADER.jpg
+instagram_handle: ctilburymakeup
+enquire: caitlin.mazonas@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2018-02_CTY_LOVEUKb_01.jpg
@@ -111,7 +110,7 @@ portfolios:
       - image: /img/starworks-artists_2010-11_CTY_VOGUE_01.jpg
       - image: /img/starworks-artists_2010-11_CTY_VOGUE_07.jpg
       - image: /img/starworks-artists_2010-11_CTY_VOGUE_03.jpg
-    title: 'Editorial'
+    title: Editorial
   - gallery:
       - image: /img/starworks-artists_CTY_ADS_026.jpg
       - image: /img/starworks-artists_CTY_ADS_027.jpg
@@ -144,7 +143,7 @@ portfolios:
       - image: /img/starworks-artists_CTY_ADS_029.jpg
       - image: /img/starworks-artists_CTY_ADS_031.jpg
       - image: /img/starworks-artists_CTY_ADS_030.jpg
-    title: 'Advertising'
+    title: Advertising
   - gallery:
       - image: /img/starworks-artists_CTY_RC_18.jpg
       - image: /img/starworks-artists_CTY_RC_12.jpg
@@ -182,25 +181,76 @@ portfolios:
       - image: /img/starworks-artists_CTY_RC_21.jpg
       - image: /img/starworks-artists_CTY_RC_25.jpg
       - image: /img/starworks-artists_CTY_RC_26.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260498201
-  - url: 259027524
-  - url: 259027483
-  - url: 259027457
-  - url: 259027405
-  - url: 259027428
-  - url: 259027660
-  - url: 259027597
-  - url: 259027571
-  - url: 259027790
-  - url: 259027541
-  - url: 259027380
-  - url: 259027349
-  - url: 259027689
-  - url: 259027714
-  - url: 259027828
-  - url: 259027752
+  - poster: 'https://i.vimeocdn.com/video/689240998_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Chanel Coco Mademoiselle featuring Kiera Knightley
+    url: 260498201
+  - poster: 'https://i.vimeocdn.com/video/687363841_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Burberry Prorsum The Parka featuring Cara Delevingne 2012
+    url: 259027524
+  - poster: 'https://i.vimeocdn.com/video/687363790_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Burberry: Cara Delevingne & Eddie Redmayne'
+    url: 259027483
+  - poster: 'https://i.vimeocdn.com/video/687363761_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Burberry: Cara Delevingne & Eddie Redmayne'
+    url: 259027457
+  - poster: 'https://i.vimeocdn.com/video/687363719_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Burberry Body featuring Cara Delevingne
+    url: 259027405
+  - poster: 'https://i.vimeocdn.com/video/687363730_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Burberry Body featuring Rosie Huntington Whiteley
+    url: 259027428
+  - poster: 'https://i.vimeocdn.com/video/687364012_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Stella McCartney Fall/Winter 2014 featuring Kate Moss
+    url: 259027660
+  - poster: 'https://i.vimeocdn.com/video/687363924_1280x640.jpg?r=pad'
+    ratio: 50%
+    title: Mango Fall/Winter 2012 featuring Kate Moss
+    url: 259027597
+  - poster: 'https://i.vimeocdn.com/video/687363905_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: La Perla Spring/Summer 2014 featuring Cara Delevingne
+    url: 259027571
+  - poster: 'https://i.vimeocdn.com/video/687364191_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Vogue Eyewear featuring Eva Mendes
+    url: 259027790
+  - poster: 'https://i.vimeocdn.com/video/687363866_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Harper''s Bazaar UK Behind The Scenes: Nicole Kidman March 2016'
+    url: 259027541
+  - poster: 'https://i.vimeocdn.com/video/687363652_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'British Vogue: Meets Cara, Suki & Georgia'
+    url: 259027380
+  - poster: 'https://i.vimeocdn.com/video/687363595_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'British Vogue: Cara, Suki & Georgia Play Heads Up'
+    url: 259027349
+  - poster: 'https://i.vimeocdn.com/video/687364036_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: V Magazine featuring Kate Moss & Rihanna
+    url: 259027689
+  - poster: 'https://i.vimeocdn.com/video/687364081_1920x1088.jpg?r=pad'
+    ratio: 56.666666666666664%
+    title: 'Vogue Behind The Scenes: Rooney Mara'
+    url: 259027714
+  - poster: 'https://i.vimeocdn.com/video/687364232_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vogue Japan Behind The Scenes: Miranda Kerr'
+    url: 259027828
+  - poster: 'https://i.vimeocdn.com/video/687364103_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vogue Diaries: Anne Hathaway'
+    url: 259027752
 ---
 Charlotte Tilbury is widely recognized as the preeminent makeup artist and beauty entrepreneur working in fashion and entertainment. Her career spans over twenty years, creating iconic covers for top fashion magazines, keying looks for major designer collections, crafting game-changing fashion and beauty campaigns for the world’s biggest luxury houses, and regularly collaborating with the industry’s most celebrated photographers and fashion editors. She is the founder and creative director of her eponymous makeup and skincare line, Charlotte Tilbury Beauty, which has won more than 50 awards worldwide since its 2014 inception. Charlotte herself is the recipient of the Rodial Award for Best Makeup Artist, the British Fashion Award for Fashion Creator, InStyle Magazine’s Makeup Artist of the Year, the CEW Achiever Award, and she was a 2016 nominee for the Veuve Clicquot Businesswoman of the Year.
 
