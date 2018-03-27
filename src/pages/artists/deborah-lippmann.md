@@ -1,12 +1,10 @@
 ---
 kind: artist
 title: Deborah Lippmann
-path: '/artist/deborah-lippmann'
 type: manicurist
-order: '0'
 cover: /img/DLN_HEADER.jpg
-enquire: 'caitlin.mazonas@starworksgroup.com'
 instagram_handle: deborahlippmann
+enquire: caitlin.mazonas@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2018-01_DLN_VOGUE_01.jpg
@@ -18,9 +16,12 @@ portfolios:
       - image: /img/starworks-artists_DLN_DL_VOGUE_PARIS_FEB_2016.jpg
       - image: /img/starworks-artists_DLN_F13875E3505603008AB1184DE5F452F0.jpg
       - image: /img/starworks-artists_DLN_F137B6DF505603008ADA85E9F7E3594D.jpg
-      - image: /img/starworks-artists_DLN_kendall-jenner-w-magazine-korea-march-2016-cover-2-(1).jpg
-      - image: /img/starworks-artists_DLN_kendall-jenner-photo-shoot-w-korea-march-2016-7.jpg
-      - image: /img/starworks-artists_DLN_kendall-jenner-by-inez-vinoodh-for-w-magazine-korea-march-2016-issue_5.jpg
+      - image: >-
+          /img/starworks-artists_DLN_kendall-jenner-w-magazine-korea-march-2016-cover-2-(1).jpg
+      - image: >-
+          /img/starworks-artists_DLN_kendall-jenner-photo-shoot-w-korea-march-2016-7.jpg
+      - image: >-
+          /img/starworks-artists_DLN_kendall-jenner-by-inez-vinoodh-for-w-magazine-korea-march-2016-issue_5.jpg
       - image: /img/starworks-artists_DLN_W_ASCENE_5.jpg
       - image: /img/starworks-artists_DLN_DL_W_ASCENE_13.jpg
       - image: /img/starworks-artists_DLN_DL_W_ASCENE_6.jpg
@@ -46,7 +47,8 @@ portfolios:
       - image: /img/starworks-artists_DLN_DL_1D1117.jpg
       - image: /img/starworks-artists_DLN_dl_1b-(1).jpg
       - image: /img/starworks-artists_DLN_dl_1a-(2).jpg
-      - image: /img/starworks-artists_DLN_carolyn-murphy-by-patrick-rogers-for-allure-magazine-april-2015-3.jpg
+      - image: >-
+          /img/starworks-artists_DLN_carolyn-murphy-by-patrick-rogers-for-allure-magazine-april-2015-3.jpg
       - image: /img/starworks-artists_DLN_Carolyn-Murphy--Allure-2015--02.jpg
       - image: /img/starworks-artists_DLN_Carolyn-Murphy-Allure-Magazine-4.jpg
       - image: /img/starworks-artists_DLN_dl_3b.jpg
@@ -63,10 +65,13 @@ portfolios:
       - image: /img/starworks-artists_2017-10_DLN_GBS_LOFFICIEL_01.jpg
       - image: /img/starworks-artists_2017-10_DLN_GBS_LOFFICIEL_17.jpg
       - image: /img/starworks-artists_2017-10_DLN_GBS_LOFFICIEL_05.jpg
-      - image: /img/starworks-artists_DLN_anne-hathaway-elle-us-april-2017-issue-2.jpg
+      - image: >-
+          /img/starworks-artists_DLN_anne-hathaway-elle-us-april-2017-issue-2.jpg
       - image: /img/starworks-artists_DLN_AHS-Elleus_002.jpg
-      - image: /img/starworks-artists_DLN_anne-hathaway-elle-us-april-2017-issue-13.jpg
-      - image: /img/starworks-artists_DLN_ben-stiller-penelope-cruz-vogue-cover-february-2016-zoolander-2-00.jpg
+      - image: >-
+          /img/starworks-artists_DLN_anne-hathaway-elle-us-april-2017-issue-13.jpg
+      - image: >-
+          /img/starworks-artists_DLN_ben-stiller-penelope-cruz-vogue-cover-february-2016-zoolander-2-00.jpg
       - image: /img/starworks-artists_DLN_BENSTILLER_PENELOPECRUZ_VOGUE_5.jpg
       - image: /img/starworks-artists_DLN_Ben-Stiller-2016-Vogue-Photo-Shoot-001.jpg
       - image: /img/starworks-artists_DLN_jennifer-lawrence-december-2015-cover.jpg
@@ -76,15 +81,21 @@ portfolios:
       - image: /img/starworks-artists_DLN_Y0GaJuV.jpeg
       - image: /img/starworks-artists_DLN_dl_15a-(1).jpg
       - image: /img/starworks-artists_DLN_dl_16a-(1).jpg
-      - image: /img/starworks-artists_DLN_fashion_scans_remastered-naomi_watts-allure_usa-november_2013-scanned_by_vampirehorde-hq-1.jpg
-      - image: /img/starworks-artists_DLN_fashion_scans_remastered-naomi_watts-allure_usa-.jpg
+      - image: >-
+          /img/starworks-artists_DLN_fashion_scans_remastered-naomi_watts-allure_usa-november_2013-scanned_by_vampirehorde-hq-1.jpg
+      - image: >-
+          /img/starworks-artists_DLN_fashion_scans_remastered-naomi_watts-allure_usa-.jpg
       - image: /img/starworks-artists_DLN_DL_ALLURE_NOV13_01.jpg
-      - image: /img/starworks-artists_DLN_Porter-Magazine-Winter-2016-Alicia-Vikander-by-Ryan-McGinley-6.jpg
-      - image: /img/72_DLN_Porter-Magazine-Winter-2016-Alicia-Vikander-by-Ryan-McGinley-1.jpg
+      - image: >-
+          /img/starworks-artists_DLN_Porter-Magazine-Winter-2016-Alicia-Vikander-by-Ryan-McGinley-6.jpg
+      - image: >-
+          /img/72_DLN_Porter-Magazine-Winter-2016-Alicia-Vikander-by-Ryan-McGinley-1.jpg
       - image: /img/starworks-artists_DLN_DL_ALLURE_SH_AUGUST_2015_COVER.jpg
-      - image: /img/starworks-artists_DLN_Salma-Hayek-Allure-Magazine-Cover-August-2015-1.jpg
+      - image: >-
+          /img/starworks-artists_DLN_Salma-Hayek-Allure-Magazine-Cover-August-2015-1.jpg
       - image: /img/starworks-artists_DLN_JCHASTAIN_01.jpg
-      - image: /img/starworks-artists_DLN_jessica-chastain-the-tree-of-life-f550e.jpeg
+      - image: >-
+          /img/starworks-artists_DLN_jessica-chastain-the-tree-of-life-f550e.jpeg
       - image: /img/starworks-artists_DLN_ELLE_AADAMS.jpg
       - image: /img/starworks-artists_DLN_amy-adams-elle-uk-2.jpg
       - image: /img/starworks-artists_DLN_amy-adams-elle-uk-4.jpg
@@ -98,30 +109,34 @@ portfolios:
       - image: /img/starworks-artists_DLN_V99_COVER10_INEZ-AND-LADY-GAGY-BY-IV.jpg
       - image: /img/starworks-artists_DLN_DL_VMAG_93_3.jpg
       - image: /img/starworks-artists_DLN_DL_VMAN_33.jpg
-      - image: /img/starworks-artists_DLN_1280-qd3qm38hxxtkf4r63cgchdk7hhf2ggmekpn956w7.jpg
+      - image: >-
+          /img/starworks-artists_DLN_1280-qd3qm38hxxtkf4r63cgchdk7hhf2ggmekpn956w7.jpg
       - image: /img/starworks-artists_DLN_DL_VOGUE_BRASIL_MAY2015_COVER.jpg
       - image: /img/starworks-artists_DLN_dl_12a.jpg
       - image: /img/starworks-artists_DLN_dl_13a-(2).jpg
       - image: /img/starworks-artists_DLN_dl_vogue.jpg
       - image: /img/starworks-artists_DLN_dl_15b-(1).jpg
-      - image: /img/starworks-artists_DLN_ct-caitlyn-jenner-vanity-fair-transgenderism-p-001.jpg
+      - image: >-
+          /img/starworks-artists_DLN_ct-caitlyn-jenner-vanity-fair-transgenderism-p-001.jpg
       - image: /img/starworks-artists_DLN_VANITY_FAIR_PARTIAL_01.jpg
       - image: /img/starworks-artists_DLN_dl_15b.jpg
-      - image: /img/starworks-artists_DLN_Sofia-Vergara--Vanity-Fair-Magazine-2015.jpg
+      - image: >-
+          /img/starworks-artists_DLN_Sofia-Vergara--Vanity-Fair-Magazine-2015.jpg
       - image: /img/starworks-artists_DLN_dl_16a-(2).jpg
       - image: /img/starworks-artists_DLN_Q1372786699864701_1.jpg
       - image: /img/starworks-artists_DLN_dl_78f.jpg
       - image: /img/starworks-artists_DLN_W_K_17.jpg
       - image: /img/starworks-artists_DLN_DL_W_4.jpg
       - image: /img/starworks-artists_DLN_dl_14b.jpg
-    title: 'Editorial'
+    title: Editorial
   - gallery:
       - image: /img/starworks-artists_2018-03_DLN_SAINTLAURENT_02.jpg
       - image: /img/starworks-artists_2018-03_DLN_SAINTLAURENT_01.jpg
       - image: /img/starworks-artists_2018-07_DLN_SAINTLAURENT_03.jpg
       - image: /img/starworks-artists_2018-03_DLN_KATESPADE_02.jpg
       - image: /img/starworks-artists_2018-03_DLN_KATESPADE_04.jpg
-      - image: /img/starworks-artists_DLN_DL_DolceandGabbana_SS13_ScarlettJohannsen.jpg
+      - image: >-
+          /img/starworks-artists_DLN_DL_DolceandGabbana_SS13_ScarlettJohannsen.jpg
       - image: /img/starworks-artists_DLN_DL-&-GS_D&G_ScarJo_2.jpg
       - image: /img/starworks-artists_DLN_LaraStoneCalvinKlein.jpg
       - image: /img/starworks-artists_DLN_beauty-refresh-s11.jpg
@@ -140,17 +155,22 @@ portfolios:
       - image: /img/starworks-artists_2011-09_DLN_STJOHN_04.jpg
       - image: /img/starworks-artists_2011-09_DLN_STJOHN_01.jpg
       - image: /img/starworks-artists_2011-09_DLN_STJOHN_07.jpg
-      - image: /img/starworks-artists_DLN_F12c300_18920-ARZ-01G-IV-R1F12T30_DT01S13-1.jpg
-      - image: /img/starworks-artists_DLN_arezzo-campanha-com-sky-ferreira__Lindizzima.jpg
+      - image: >-
+          /img/starworks-artists_DLN_F12c300_18920-ARZ-01G-IV-R1F12T30_DT01S13-1.jpg
+      - image: >-
+          /img/starworks-artists_DLN_arezzo-campanha-com-sky-ferreira__Lindizzima.jpg
       - image: /img/starworks-artists_DLN_DL__16.jpg
       - image: /img/starworks-artists_DLN_H&M_Lana-Del-Rey_1.jpg
       - image: /img/starworks-artists_DLN_EmilyRatajkowskiJasonWuCampaign01.jpg
       - image: /img/starworks-artists_DLN_EmilyRatajkowskiJasonWuCampaign02.jpg
       - image: /img/starworks-artists_2015-09_DLN_ANTHONYVACCARELLO_01.jpg
       - image: /img/starworks-artists_2015-09_DLN_ANTHONYVACCARELLO_02.jpg
-      - image: /img/starworks-artists_DLN_dieselaccessoriesspringsummer14campaign2.jpg
-      - image: /img/starworks-artists_DLN_dieselaccessoriesspringsummer14campaign4-1.jpg
-      - image: /img/starworks-artists_DLN_dieselaccessoriesspringsummer14campaign5.jpg
+      - image: >-
+          /img/starworks-artists_DLN_dieselaccessoriesspringsummer14campaign2.jpg
+      - image: >-
+          /img/starworks-artists_DLN_dieselaccessoriesspringsummer14campaign4-1.jpg
+      - image: >-
+          /img/starworks-artists_DLN_dieselaccessoriesspringsummer14campaign5.jpg
       - image: /img/starworks-artists_MASTER-EDP-FR-SePt-ANGEL-2011.jpg
       - image: /img/starworks-artists_DLN_DL_EvaMendesANGELAd_1.jpg
       - image: /img/starworks-artists_2009-12_DLN_TIFFANY&CO_01.jpg
@@ -163,7 +183,7 @@ portfolios:
       - image: /img/starworks-artists_DLN_dl_19b1605.jpg
       - image: /img/starworks-artists_DLN_MUI_DL_AbsolutAd_1.jpg
       - image: /img/starworks-artists_DLN_MUI_DL_AbsolutAd_3.jpg
-    title: 'Advertising'
+    title: Advertising
   - gallery:
       - image: /img/DLN_RC_01.jpg
       - image: /img/DLN_RC_02.jpg
@@ -225,31 +245,105 @@ portfolios:
       - image: /img/DLN_RC_58.jpg
       - image: /img/DLN_RC_59.jpg
       - image: /img/DLN_RC_60.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 259054544
-  - url: 259054525
-  - url: 259054600
-  - url: 259054558
-  - url: 259054569
-  - url: 259054493
-  - url: 259054463
-  - url: 259054505
-  - url: 259054477
-  - url: 259054487
-  - url: 259054166
-  - url: 259054230
-  - url: 259054245
-  - url: 259054335
-  - url: 260800508
-  - url: 260301660
-  - url: 259054342
-  - url: 259054439
-  - url: 259054358
-  - url: 259054316
-  - url: 259054326
-  - url: 260801262
-  - url: 259054367
-  - url: 259054395
+  - poster: 'https://i.vimeocdn.com/video/687397457_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vogue Arabia: Controlled Abandonment by Inez and Vinoodh'
+    url: 259054544
+  - poster: 'https://i.vimeocdn.com/video/687397427_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'V Magazine: Lady Gaga'
+    url: 259054525
+  - poster: 'https://i.vimeocdn.com/video/687397497_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'W Magazine Korea: Kendall Jenner'
+    url: 259054600
+  - poster: 'https://i.vimeocdn.com/video/687397439_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vogue: Jennifer Lawrence'
+    url: 259054558
+  - poster: 'https://i.vimeocdn.com/video/687397512_1920x1079.jpg?r=pad'
+    ratio: 56.19791666666667%
+    title: 'Vogue Turkey: Gisele Bundchen'
+    url: 259054569
+  - poster: 'https://i.vimeocdn.com/video/687397409_1920x1079.jpg?r=pad'
+    ratio: 56.19791666666667%
+    title: 'Vanity Fair: Lady Gaga'
+    url: 259054493
+  - poster: 'https://i.vimeocdn.com/video/687397308_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vanity Fair: Caitlyn Jenner'
+    url: 259054463
+  - poster: 'https://i.vimeocdn.com/video/687397384_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vanity Fair: Sofia Vergara'
+    url: 259054505
+  - poster: 'https://i.vimeocdn.com/video/687397345_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vanity Fair: Kate Upton'
+    url: 259054477
+  - poster: 'https://i.vimeocdn.com/video/687397353_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vanity Fair: Kerry Washington'
+    url: 259054487
+  - poster: 'https://i.vimeocdn.com/video/687396987_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Allure Magazine: Amy Adams'
+    url: 259054166
+  - poster: 'https://i.vimeocdn.com/video/687397054_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Allure Magazine: Naomi Watts'
+    url: 259054230
+  - poster: 'https://i.vimeocdn.com/video/687397053_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Allure Magazine: Salma Hayek'
+    url: 259054245
+  - poster: 'https://i.vimeocdn.com/video/687397182_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: >-
+      Dolce Gabbana: Street Of Dreams featuring.= Scarlett Johansson & Matthew
+      McConaughey by Martin Scorsese
+    url: 259054335
+  - poster: 'https://i.vimeocdn.com/video/689623864_1280x640.jpg?r=pad'
+    ratio: 50%
+    title: Bvlgari featuring Kirsten Dunst
+    url: 260800508
+  - poster: 'https://i.vimeocdn.com/video/688990191_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: H&M Conscious Collection featuring Vanessa Paradis
+    url: 260301660
+  - poster: 'https://i.vimeocdn.com/video/687397180_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'HM: Blue Velvet ft. Lana Del Rey'
+    url: 259054342
+  - poster: 'https://i.vimeocdn.com/video/687397299_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Thierry Mugler:  Angel ft. Eva Mendes'
+    url: 259054439
+  - poster: 'https://i.vimeocdn.com/video/687397166_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Hugo Boss: Boss The Scent ft.Theo James & Natasha Poly'
+    url: 259054358
+  - poster: 'https://i.vimeocdn.com/video/687397127_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Calvin Klein: Underwear Push Positive'
+    url: 259054316
+  - poster: 'https://i.vimeocdn.com/video/687397134_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Covergirl: Ellen Degeneres'
+    url: 259054326
+  - poster: 'https://i.vimeocdn.com/video/689624869_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Covergirl featuring Sofia Vergara & Ellen Degeneres
+    url: 260801262
+  - poster: 'https://i.vimeocdn.com/video/687397206_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Lady Gaga, "Born This Way"'
+    url: 259054367
+  - poster: 'https://i.vimeocdn.com/video/687397304_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Lady Gaga, "Judas"'
+    url: 259054395
 ---
 Deborah Lippmann is the go‐to manicurist for top fashion publications and brands from Vogue, W, V Magazine, Vanity Fair, Harper’s Bazaar, and ELLE, to Rodarte, Chanel, Marchesa, Miu Miu and Versace. After years of experience in the industry, her eponymous line of lacquers and treatments for nails, hands, and feet are as sought-after as her talent. Deborah has collaborated extensively with a long list of renowned photographers including Inez van Lamsweerde and Vinoodh Matadin, Willy Vanderperre, Steven Meisel, Mario Testino, Norman Jean Roy, Steven Klein, Annie Leibovitz, Karl Lagerfeld and Patrick Demarchelier. Her celebrity clients include Lady Gaga, Angelina Jolie, Marion Cotillard, Jennifer Lawrence, Kate Winslet, Lupita Nyongo, Dakota Johnson, Alicia Vikander, Gisele Bündchen, Gigi Hadid and Kendall Jenner.
