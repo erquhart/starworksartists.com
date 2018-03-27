@@ -1,12 +1,10 @@
 ---
 kind: artist
 title: Jillian Dempsey
-path: '/artist/jillian-dempsey'
 type: makeup
-order: '6'
 cover: /img/JDY_HEADER.jpg
-enquire: 'samantha.jeudy@starworksgroup.com'
 instagram_handle: jilliandempsey
+enquire: samantha.jeudy@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-06-19_DAZED_01.jpg
@@ -90,7 +88,7 @@ portfolios:
       - image: /img/starworks-artists_2006-11_JAN_JDY_TVOGUE_01.jpg
       - image: /img/starworks-artists_2004-05_JDY_DAZEDCONFUSED_01.jpg
       - image: /img/starworks-artists_2009-09_AAL_JDY_DAZED_06.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_JCO_JDY_RC_07.jpg
       - image: /img/starworks-artists_JCO_JDY_RC_14.jpg
@@ -127,13 +125,32 @@ portfolios:
       - image: /img/starworks-artists_JDY_RC_09.jpg
       - image: /img/starworks-artists_JDY_RC_10.jpg
       - image: /img/starworks-artists_JDY_RC_08.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260297926
-  - url: 259974074
-  - url: 259974103
-  - url: 259974060
-  - url: 259974050
+  - poster: 'https://i.vimeocdn.com/video/688985465_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: >-
+      New York Times Magazine: 9 Kisses featuring Chadwick Boseman & Kristen
+      Stewart
+    url: 260297926
+  - poster: 'https://i.vimeocdn.com/video/688570539_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: >-
+      New York Times: Wide Awake ft. Jennifer Lawrenc edirected by Tierney
+      Gearon
+    url: 259974074
+  - poster: 'https://i.vimeocdn.com/video/688570567_1920x1079.jpg?r=pad'
+    ratio: 56.19791666666667%
+    title: Tag Heuer featuring Patrick Dempsey
+    url: 259974103
+  - poster: 'https://i.vimeocdn.com/video/688570562_1920x1280.jpg?r=pad'
+    ratio: 66.66666666666666%
+    title: CISCO featuring Ellen Page
+    url: 259974060
+  - poster: 'https://i.vimeocdn.com/video/688570537_1920x1280.jpg?r=pad'
+    ratio: 66.66666666666666%
+    title: CISCO featuring Ellen Page (1)
+    url: 259974050
 ---
 A devotion to her craft and a unique perspective have defined makeup artist Jillian Dempsey’s career. Jillian’s style is characterized by a sincere appreciation for beauty and keen eye for color.  Respected for her warm disposition and genuine, down-to-earth personality, her talents are valued by A-list celebrities and photographers alike.
 

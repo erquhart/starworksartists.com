@@ -1,12 +1,10 @@
 ---
 kind: artist
 title: Jenny Cho
-path: '/artist/jenny-cho'
 type: hair
-order: '8'
-cover: '/img/JCO_HEADER.jpg'
-enquire: 'alexandra.feldman@starworksgroup.com'
-instagram_handle: 'jennychohair'
+cover: /img/JCO_HEADER.jpg
+instagram_handle: jennychohair
+enquire: alexandra.feldman@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2016-11_JCO_KLE_ELLEKR_01.jpg
@@ -85,7 +83,8 @@ portfolios:
       - image: /img/starworks-artists_201505_MARIECLAIREUK_DROEMER_JC_01.jpg
       - image: /img/starworks-artists_201505_MARIECLAIREUK_DROEMER_JC_03.jpg
       - image: /img/starworks-artists_201505_MARIECLAIREUK_DROEMER_JC_09.jpg
-      - image: /img/starworks-artists_201311_HARPERSBAZAARRUS_BLEACHEREVERARD_JC_01.jpg
+      - image: >-
+          /img/starworks-artists_201311_HARPERSBAZAARRUS_BLEACHEREVERARD_JC_01.jpg
       - image: /img/starworks-artists_201209_INTERVIEWRU_KISWARIENKO_JC_05.jpg
       - image: /img/starworks-artists_201209_INTERVIEWRU_KISWARIENKO_JC_12.jpg
       - image: /img/starworks-artists_201603_VANITYFAIR_ALEIBOVITZ_JC_01.jpg
@@ -109,7 +108,7 @@ portfolios:
       - image: /img/starworks-artists_201601_BOLON_KZFENG_JC_02.jpg
       - image: /img/starworks-artists_201601_BOLON_KZFENG_JC_06.jpg
       - image: /img/starworks-artists_2017-06_JCO_DIORADDICT_01.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_JCO_RC_10.jpg
       - image: /img/starworks-artists_JCO_RC_06.jpg
@@ -168,19 +167,52 @@ portfolios:
       - image: /img/starworks-artists_JCO_RC_38.jpg
       - image: /img/starworks-artists_JCO_RC_39.jpg
       - image: /img/starworks-artists_JCO_RC_16.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 259783732
-  - url: 259783720
-  - url: 259785671
-  - url: 259785126
-  - url: 259783753
-  - url: 259783747
-  - url: 259785106
-  - url: 259785582
-  - url: 259785608
-  - url: 259783698
-  - url: 259783712
+  - poster: 'https://i.vimeocdn.com/video/688328140_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Dior Addict Lacquer Stick: The LA lip story ft. Jennifer Lawrence'
+    url: 259783732
+  - poster: 'https://i.vimeocdn.com/video/688328132_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Dior Addict Lacquer Stick ft. Jennifer Lawrence
+    url: 259783720
+  - poster: 'https://i.vimeocdn.com/video/688330692_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'VS: Aspirational featuring Kirsten Dunst'
+    url: 259785671
+  - poster: 'https://i.vimeocdn.com/video/688329970_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Miss Vogue Australia Behind The Scenes: Elle Fanning'
+    url: 259785126
+  - poster: 'https://i.vimeocdn.com/video/688328178_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'ELLE UK Behind The Scenes: Anne Hathaway'
+    url: 259783753
+  - poster: 'https://i.vimeocdn.com/video/688328197_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Elle UK Behind The Scenes: Amanda Seyfried'
+    url: 259783747
+  - poster: 'https://i.vimeocdn.com/video/688329953_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Kuro featuring Miranda Kerr
+    url: 259785106
+  - poster: 'https://i.vimeocdn.com/video/688330609_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Sam Smith, "I''m Not The Only One"'
+    url: 259785582
+  - poster: 'https://i.vimeocdn.com/video/688330634_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'The Killers, "Just Another Girl"'
+    url: 259785608
+  - poster: 'https://i.vimeocdn.com/video/688328155_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Dev, "Kiss It"'
+    url: 259783698
+  - poster: 'https://i.vimeocdn.com/video/688328141_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Dev, "Naked"'
+    url: 259783712
 ---
 Hairstylist Jenny Cho is an expert in versatility. Her unique, organic approach to hair allows her to create innovative looks that highlight her subjects’ natural beauty.
 

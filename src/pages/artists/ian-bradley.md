@@ -2,9 +2,9 @@
 kind: artist
 title: Ian Bradley
 type: stylist
-enquire: caitlin.mazonas@starworksgroup.com
-instagram_handle: iancogneato
 cover: /img/IBY_HEADER.jpg
+instagram_handle: iancogneato
+enquire: caitlin.mazonas@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_IBY_003.jpg
@@ -109,22 +109,64 @@ portfolios:
       - image: /img/starworks-artists_IBY_165.jpg
       - image: /img/starworks-artists_IBY_174.jpg
       - image: /img/starworks-artists_IBY_173.jpg
-    title: 'Portfolio'
+    title: Portfolio
 videos:
-  - url: 259748768
-  - url: 259748624
-  - url: 259748641
-  - url: 259748755
-  - url: 259748724
-  - url: 259748551
-  - url: 259748531
-  - url: 259748589
-  - url: 259748440
-  - url: 259748618
-  - url: 259748670
-  - url: 259748487
-  - url: 260806237
-  - url: 259748678
+  - poster: 'https://i.vimeocdn.com/video/688282343_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'W Magazine: Bella Hadid'
+    url: 259748768
+  - poster: 'https://i.vimeocdn.com/video/688282168_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Elle.com: Four Girls One Look "Eyes"'
+    url: 259748624
+  - poster: 'https://i.vimeocdn.com/video/688282246_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Elle.com: Four Girls, One Look "Lips"'
+    url: 259748641
+  - poster: 'https://i.vimeocdn.com/video/688282345_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Visionaire x Gap: Solar Collection'
+    url: 259748755
+  - poster: 'https://i.vimeocdn.com/video/688282297_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Vashtie x Puma Autumn/Winter 2015
+    url: 259748724
+  - poster: 'https://i.vimeocdn.com/video/688282121_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Converse featuring Miley Cyrus
+    url: 259748551
+  - poster: 'https://i.vimeocdn.com/video/688282036_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Converse First Day Feels x Millie Bobby Brown
+    url: 259748531
+  - poster: 'https://i.vimeocdn.com/video/688282214_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Converse: Public Access'
+    url: 259748589
+  - poster: 'https://i.vimeocdn.com/video/688282239_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Adidas Originals: The Shoe String Messengers'
+    url: 259748440
+  - poster: 'https://i.vimeocdn.com/video/688282178_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Degen Fall/Winter 2012
+    url: 259748618
+  - poster: 'https://i.vimeocdn.com/video/688282180_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Magnum: Vie Magnifique presents Be True To Your Pleasure'
+    url: 259748670
+  - poster: 'https://i.vimeocdn.com/video/688282049_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Billionaire Boys Club Holiday 2012
+    url: 259748487
+  - poster: 'https://i.vimeocdn.com/video/689632037_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Sky Ferreira, "I Blame Myself"'
+    url: 260806237
+  - poster: 'https://i.vimeocdn.com/video/688282290_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Sleigh Bells featuring Tink, "That Did It"'
+    url: 259748678
 ---
 Ian Bradley is a stylist living and working in New York City. His work is influenced by the culture of downtown New York and clean, classic American sportswear inspired by icons like Carolyn Bessette-Kennedy, Aaliyah, and the early work of Isaac Mizrahi. Bradley moved to New York City to study fashion at the Fashion Institute of Technology. Afterwards, he assisted several stylists including Sally Lyndley, Andre Walker, and Jay Massacret while also independently working on a number of editorial and runway projects.
 

@@ -1,12 +1,10 @@
 ---
 kind: artist
 title: Fiona Stiles
-path: '/artist/fiona-stiles'
 type: makeup
-order: '4'
 cover: /img/FSS_HEADER.jpg
-enquire: 'alexandra.feldman@starworksgroup.com'
 instagram_handle: fionastiles
+enquire: alexandra.feldman@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-08_FSS_JRO_HARPERSBAZAARART_01.jpg
@@ -46,7 +44,8 @@ portfolios:
       - image: /img/starworks-artists_201204_HARPERSBAZAARTR_KBIRAND_FS_01.jpg
       - image: /img/starworks-artists_201204_HARPERSBAZAARTR_KBIRAND_FS_09.jpg
       - image: /img/starworks-artists_201204_HARPERSBAZAARTR_KBIRAND_FS_21.jpg
-      - image: /img/starworks-artists_FS_NET-A-PORTERMAGAZINE_KORAYBIRAND_MODEL_JUN212.jpg
+      - image: >-
+          /img/starworks-artists_FS_NET-A-PORTERMAGAZINE_KORAYBIRAND_MODEL_JUN212.jpg
       - image: /img/starworks-artists_201206_EDIT_KBIRAND_FS_GC_02.jpg
       - image: /img/starworks-artists_201206_EDIT_KBIRAND_FS_GC_12.jpg
       - image: /img/starworks-artists_201508_GLAMOURUK_DKETTELA_EG_FS_06.jpg
@@ -110,7 +109,7 @@ portfolios:
       - image: /img/starworks-artists_201508_NEWYORK_NJEANROY_FS_05.jpg
       - image: /img/starworks-artists_201203_T_CBIRD_FS_MA_04.jpg
       - image: /img/starworks-artists_201203_T_CBIRD_FS_MA_01.jpg
-    title: 'Editorial'
+    title: Editorial
   - gallery:
       - image: /img/starworks-artists_201303_GUESS_YTSAI_FS_04.jpg
       - image: /img/starworks-artists_201303_GUESS_YTSAI_FS_GPS_09.jpg
@@ -148,12 +147,13 @@ portfolios:
       - image: /img/starworks-artists_201003_BEACHBUNNY_YTSAIa_FS_06.jpg
       - image: /img/starworks-artists_201003_BEACHBUNNY_YTSAIb_FS_01.jpg
       - image: /img/starworks-artists_201003_BEACHBUNNY_YTSAIb_FS_03.jpg
-      - image: /img/starworks-artists_FS_GA_VINCE-CAMUTO-FRAGRANCE_YU-TSAI_AW-11_01.jpg
+      - image: >-
+          /img/starworks-artists_FS_GA_VINCE-CAMUTO-FRAGRANCE_YU-TSAI_AW-11_01.jpg
       - image: /img/starworks-artists_201309_BEBE_DROEMER_ESW_FS_01.jpg
       - image: /img/starworks-artists_201509_MOVADO_YTSAI_FS_02.jpg
       - image: /img/starworks-artists_200900_REVLON_UNKNOWN_FS_01.jpg
       - image: /img/starworks-artists_201409_PANTENE_KPOWERS_FS_02.jpg
-    title: 'Advertising'
+    title: Advertising
   - gallery:
       - image: /img/starworks-artists_FSS_RC_01.jpg
       - image: /img/starworks-artists_FSS_RC_02.jpg
@@ -192,23 +192,68 @@ portfolios:
       - image: /img/starworks-artists_FSS_RC_31.jpg
       - image: /img/starworks-artists_FSS_RC_32.jpg
       - image: /img/starworks-artists_FSS_RC_33.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 259064500
-  - url: 259064089
-  - url: 259064223
-  - url: 259064084
-  - url: 259064264
-  - url: 259064263
-  - url: 259064245
-  - url: 259064111
-  - url: 259064189
-  - url: 259064180
-  - url: 259064179
-  - url: 259064206
-  - url: 259064233
-  - url: 259064465
-  - url: 259064451
+  - poster: 'https://i.vimeocdn.com/video/687410178_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vogue Thailand: January Issue featuring Chrissy Teigen'
+    url: 259064500
+  - poster: 'https://i.vimeocdn.com/video/687409697_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'HARPER''S BAZAAR:  Caroline Murphy'
+    url: 259064089
+  - poster: 'https://i.vimeocdn.com/video/687409893_1280x716.jpg?r=pad'
+    ratio: 55.93750000000001%
+    title: 'New York Times Magazine: Making A Scene Directed by Janusz Kaminski'
+    url: 259064223
+  - poster: 'https://i.vimeocdn.com/video/687409668_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'GILT: Lily Aldridge''s Fall Refresh with Blue Print'
+    url: 259064084
+  - poster: 'https://i.vimeocdn.com/video/687409888_1920x1280.jpg?r=pad'
+    ratio: 66.66666666666666%
+    title: 'REVLON: Color Stay Mineral Foundation featuring Halle Berry'
+    url: 259064264
+  - poster: 'https://i.vimeocdn.com/video/687409894_1920x1280.jpg?r=pad'
+    ratio: 66.66666666666666%
+    title: 'Revlon: Color Stay Ultimate Liquid Lipstick featuring Halle Berry'
+    url: 259064263
+  - poster: 'https://i.vimeocdn.com/video/687409880_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'REVLON: Color Stay Aqua Mineral Makeup featuring Halle Berry'
+    url: 259064245
+  - poster: 'https://i.vimeocdn.com/video/687409732_1920x1280.jpg?r=pad'
+    ratio: 66.66666666666666%
+    title: 'L''Oreal: Elseve Liss-Intense'
+    url: 259064111
+  - poster: 'https://i.vimeocdn.com/video/687409834_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'NEUTROGENA: Neutrogena Ultra Sheer featuring Jen Garner'
+    url: 259064189
+  - poster: 'https://i.vimeocdn.com/video/687409810_1920x1280.jpg?r=pad'
+    ratio: 66.66666666666666%
+    title: 'NEUTROGENA: Neutrogena Shine Control Daily Scrub featuring Gabriel Union'
+    url: 259064180
+  - poster: 'https://i.vimeocdn.com/video/687409771_1920x1280.jpg?r=pad'
+    ratio: 66.66666666666666%
+    title: 'NEUTROGENA: Complete Acne Therapy System featuring Gabriel Union'
+    url: 259064179
+  - poster: 'https://i.vimeocdn.com/video/687409817_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'NEUTROGENA: Rapid Wrinkle Repair'
+    url: 259064206
+  - poster: 'https://i.vimeocdn.com/video/687409878_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'NEUTROGENA: Visibly Even Daily Moisturizer'
+    url: 259064233
+  - poster: 'https://i.vimeocdn.com/video/687410097_1920x1571.jpg?r=pad'
+    ratio: 81.82291666666667%
+    title: Vittel featuring David Bowie
+    url: 259064465
+  - poster: 'https://i.vimeocdn.com/video/687410083_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: VINCE CAMUTO FRAGRANCE
+    url: 259064451
 ---
 Makeup artist Fiona Stiles brings a fresh, instinctive approach to creating beautiful faces for publications and global media outlets across the fashion and entertainment industries. Some of the world’s most recognizable faces trust her implicitly, as do a roster of internationally-celebrated photographers and directors.
 
