@@ -2,10 +2,9 @@
 kind: artist
 title: Derek Yuen
 type: hair
-order: '8'
-enquire: rory.aledort@starworksgroup.com
-instagram_handle: dereksyuen
 cover: /img/DYN_HEADER.jpg
+instagram_handle: dereksyuen
+enquire: rory.aledort@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2015-09_DYN_JDY_FASTCOMPANY_041.jpg
@@ -86,7 +85,7 @@ portfolios:
       - image: /img/starworks-artists_DYN_dyn_42.jpg
       - image: /img/starworks-artists_2015-04_DYN_DENIM_01.jpg
       - image: /img/starworks-artists_2015-04_DYN_DENIM_02.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_DYN_RC_01.jpg
       - image: /img/starworks-artists_DYN_RC_02.jpg
@@ -120,14 +119,32 @@ portfolios:
       - image: /img/starworks-artists_DYN_RC_28.jpg
       - image: /img/starworks-artists_DYN_RC_29.jpg
       - image: /img/starworks-artists_DYN_RC_30.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260135653
-  - url: 260135673
-  - url: 260135664
-  - url: 260135657
-  - url: 260135689
-  - url: 260135611
+  - poster: 'https://i.vimeocdn.com/video/688778016_1280x1280.jpg?r=pad'
+    ratio: 100%
+    title: 'Violet Grey: Giorgio Armani Lip Maestro'
+    url: 260135653
+  - poster: 'https://i.vimeocdn.com/video/688778049_1280x1280.jpg?r=pad'
+    ratio: 100%
+    title: 'Violet Grey: Laura Mercier Matte Caviar Stick'
+    url: 260135673
+  - poster: 'https://i.vimeocdn.com/video/688778007_1280x1280.jpg?r=pad'
+    ratio: 100%
+    title: 'Violet Grey: Blue Lip Shine'
+    url: 260135664
+  - poster: 'https://i.vimeocdn.com/video/688777993_1280x1280.jpg?r=pad'
+    ratio: 100%
+    title: 'Violet Grey: Chantecaille Beaute Liquid Lumiere'
+    url: 260135657
+  - poster: 'https://i.vimeocdn.com/video/688778251_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vogue.com: Helen Maroulis'
+    url: 260135689
+  - poster: 'https://i.vimeocdn.com/video/688777984_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Dua Lipa x Gallant, live at In The Room'
+    url: 260135611
 ---
 Known for his effortless creative techniques and precision cutting, hairstylist Derek Yuen is making his mark in the beauty and entertainment industries. His work has been featured in editorial and advertising assignments for noted publications and brands, red carpet events with leading Hollywood talent, and collection shows during New York Fashion Week. Trained at Bumble & bumble and Vidal Sassoon, and a strong believer in continuing education, Derek’s teaching credentials include Wella, Goldwell and Chromastics Color.
 
