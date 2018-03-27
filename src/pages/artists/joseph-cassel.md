@@ -2,10 +2,9 @@
 kind: artist
 title: Joseph Cassell
 type: stylist
-order: '5'
-enquire: noelle.keshishian@starworksgroup.com
-instagram_handle: josephcassell1
 cover: /img/JCL_HEADER.jpg
+instagram_handle: josephcassell1
+enquire: noelle.keshishian@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-08_JCL_REPUTATION_01.jpg
@@ -57,7 +56,7 @@ portfolios:
       - image: /img/starworks-artists_2009-JCL_SNL_011.jpg
       - image: /img/starworks-artists_2017-11-11_JCL_SNL_01.jpg
       - image: /img/starworks-artists_2017-11-11_JCL_SNL_02.jpg
-    title: 'Print'
+    title: Print
   - gallery:
       - image: /img/starworks-artists_joseph-cassel_stylist_performance_01.jpg
       - image: /img/starworks-artists_joseph-cassel_stylist_performance_02.jpg
@@ -95,7 +94,7 @@ portfolios:
       - image: /img/starworks-artists_joseph-cassel_stylist_performance_34.jpg
       - image: /img/starworks-artists_joseph-cassel_stylist_performance_35.jpg
       - image: /img/starworks-artists_joseph-cassel_stylist_performance_36.jpg
-    title: 'Performance'
+    title: Performance
   - gallery:
       - image: /img/starworks-artists_joseph-cassel_stylist_red-carpet_001.jpg
       - image: /img/starworks-artists_joseph-cassel_stylist_red-carpet_002.jpg
@@ -201,20 +200,56 @@ portfolios:
       - image: /img/starworks-artists_joseph-cassel_stylist_red-carpet_102.jpg
       - image: /img/starworks-artists_joseph-cassel_stylist_red-carpet_103.jpg
       - image: /img/starworks-artists_joseph-cassel_stylist_red-carpet_104.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260821307
-  - url: 259781539
-  - url: 260819453
-  - url: 260302819
-  - url: 260820398
-  - url: 259783236
-  - url: 259782768
-  - url: 259782702
-  - url: 259783207
-  - url: 258902765
-  - url: 259781588
-  - url: 259780551
+  - poster: 'https://i.vimeocdn.com/video/689652236_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Taylor Swift, "Delicate"'
+    url: 260821307
+  - poster: 'https://i.vimeocdn.com/video/688325347_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Taylor Swift, "End Game"'
+    url: 259781539
+  - poster: 'https://i.vimeocdn.com/video/689649722_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Taylor Swift, "Ready For It"'
+    url: 260819453
+  - poster: 'https://i.vimeocdn.com/video/688991705_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Taylor Swift, "Bad Blood"'
+    url: 260302819
+  - poster: 'https://i.vimeocdn.com/video/689650938_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Taylor Swift, "Shake It Off"'
+    url: 260820398
+  - poster: 'https://i.vimeocdn.com/video/688327548_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Taylor Swift, "Wildest Dreams"'
+    url: 259783236
+  - poster: 'https://i.vimeocdn.com/video/688326953_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Taylor Swift, "Out Of The Woods"'
+    url: 259782768
+  - poster: 'https://i.vimeocdn.com/video/688326875_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Taylor Swift, "Blank Space"'
+    url: 259782702
+  - poster: 'https://i.vimeocdn.com/video/688327696_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Taylor Swift, "Style"'
+    url: 259783207
+  - poster: 'https://i.vimeocdn.com/video/687206325_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Olivia Holt, "History"'
+    url: 258902765
+  - poster: 'https://i.vimeocdn.com/video/688325377_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Olivia Holt, "Phoenix"'
+    url: 259781588
+  - poster: 'https://i.vimeocdn.com/video/688324079_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Calvin Harris, "How Deep Is Your Love" ft. Gigi Hadid'
+    url: 259780551
 ---
 After earning his degree in musical theater and opera performance in Nashville, Joseph Cassell chose a career behind the scenes in the recording industry as an A&R director and producer. He soon began styling his own artists for photo shoots, album packaging and video shoots. After 12 years in the music business, he started his own company, providing imaging and wardrobe services to celebrity clientele, record labels and ad agencies. Over the past 15 years he has styled numerous fashion shoots, music world tours and award-winning music videos. Joseph has designed for film and television as well as created iconic looks for major advertisers in global print and commercial campaigns shot by top industry photographers and directors.
 
