@@ -2,9 +2,9 @@
 kind: artist
 title: Kara Yoshimoto Bua
 type: makeup
-cover: '/img/KYB_HEADER.jpg'
-enquire: 'samantha.jeudy@starworksgroup.com'
-instagram_handle: 'karayoshimotobua'
+cover: /img/KYB_HEADER.jpg
+instagram_handle: karayoshimotobua
+enquire: samantha.jeudy@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-12_KYB_ELLE_01.jpg
@@ -102,7 +102,7 @@ portfolios:
       - image: /img/starworks-artists_2013-02_KYB_REVLON_01.jpg
       - image: /img/starworks-artists_2012-08_KYB_REVLON_01.jpg
       - image: /img/starworks-artists_2012-08_KYB_REVLON_01.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_AAL_KYB_RC_14.jpg
       - image: /img/starworks-artists_AAL_KYB_RC_13.jpg
@@ -147,17 +147,44 @@ portfolios:
       - image: /img/starworks-artists_AAL_KYB_RC_12.jpg
       - image: /img/starworks-artists_AAL_KYB_RC_11.jpg
       - image: /img/starworks-artists_KYB_RC_26.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260138764
-  - url: 260304143
-  - url: 260138734
-  - url: 260139081
-  - url: 260138756
-  - url: 260138838
-  - url: 260138840
-  - url: 260138692
-  - url: 260798479
+  - poster: 'https://i.vimeocdn.com/video/688781960_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Harper''s Bazaar Behind The Scenes: Marion Cotillard'
+    url: 260138764
+  - poster: 'https://i.vimeocdn.com/video/688993324_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Violet Grey Behind the Scenes: Diane Kruger'
+    url: 260304143
+  - poster: 'https://i.vimeocdn.com/video/688781936_1280x676.jpg?r=pad'
+    ratio: 52.81250000000001%
+    title: 'GQ Behind The Scenes: Rosario Dawson'
+    url: 260138734
+  - poster: 'https://i.vimeocdn.com/video/688782357_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'VVV Magazine Behind The Scenes: Isla Fisher'
+    url: 260139081
+  - poster: 'https://i.vimeocdn.com/video/688781967_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'InStyle Behind The Scenes: Diane Kruger (1)'
+    url: 260138756
+  - poster: 'https://i.vimeocdn.com/video/688782050_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Revlon Color Stay Whipped Creme Foundation featuring Halle Berry
+    url: 260138838
+  - poster: 'https://i.vimeocdn.com/video/688782055_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Revlon Photo Ready Primer Shadow featuring Halle Berry
+    url: 260138840
+  - poster: 'https://i.vimeocdn.com/video/688781840_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Closer by Halle Berry
+    url: 260138692
+  - poster: 'https://i.vimeocdn.com/video/689623206_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Justin Timberlake, "Man of the Woods" featuring Jessica Biel'
+    url: 260798479
 ---
 Kara Yoshimoto Bua was raised in the Santa Cruz Mountains by an artist mother and philosopher father. Her early visual and spiritual experience laid the foundation for a career in makeup artistry that accentuates the idiosyncrasies of individual beauty and overall wellness. Kara’s remarkable eye for color and visual harmony, combined with her expertise in holistic skincare, have made her one of the most original and accomplished artists in the field today. Her entertainment clientele includes the most celebrated talent in the industry, and her extensive work in fashion has dually influenced the refined modern aesthetic and emphasis on natural skin that characterizes her work.
 
