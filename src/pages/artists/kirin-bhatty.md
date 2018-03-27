@@ -2,9 +2,9 @@
 kind: artist
 title: Kirin Bhatty
 type: makeup
-enquire: noelle.keshishian@starworksgroup.com
-instagram_handle: kirinstagram
 cover: /img/KBY_HEADER.jpg
+instagram_handle: kirinstagram
+enquire: noelle.keshishian@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-09_KBY_MFS_ELLEIN_01.jpg
@@ -61,7 +61,7 @@ portfolios:
       - image: /img/starworks-artists_2015-06_KBY_AAPPAREL_04.jpg
       - image: /img/starworks-artists_2014-06-02_KBY_SMASHBOX_02.jpg
       - image: /img/starworks-artists_2013-12_KBY_SMASHBOX_01.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_AAL_KBY_RC_01.jpg
       - image: /img/starworks-artists_KBY_RC_03.jpg
@@ -102,15 +102,36 @@ portfolios:
       - image: /img/starworks-artists_KBY_RC_23.jpg
       - image: /img/starworks-artists_KBY_RC_26.jpg
       - image: /img/starworks-artists_KBY_RC_24.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260825055
-  - url: 260825100
-  - url: 260826364
-  - url: 260825086
-  - url: 260826706
-  - url: 260825073
-  - url: 260303588
+  - poster: 'https://i.vimeocdn.com/video/689657066_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Teen Vogue: One Minute with Maddie Ziegler'
+    url: 260825055
+  - poster: 'https://i.vimeocdn.com/video/689657088_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'New York Times Magazine: 9 Kisses featuring Rosario Dawson & Jenny Slate'
+    url: 260825100
+  - poster: 'https://i.vimeocdn.com/video/689658780_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'ESTEE LAUDER: Modern Muse Moments featuring Cody Horn'
+    url: 260826364
+  - poster: 'https://i.vimeocdn.com/video/689657095_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: SmashboxWonderVision
+    url: 260825086
+  - poster: 'https://i.vimeocdn.com/video/689659213_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: American Apparel Denim Summer 2015
+    url: 260826706
+  - poster: 'https://i.vimeocdn.com/video/689657078_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Living Proof: No Frizz'
+    url: 260825073
+  - poster: 'https://i.vimeocdn.com/video/688992693_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Rock The Vote: TURN OUT FOR WHAT'
+    url: 260303588
 ---
 Los Angeles native and UC Berkeley graduate Kirin Bhatty became a professional makeup artist after a brief stint in publishing. Inspired by beauty images in the magazine she worked for, Kirin began assisting on-set, contributing in any way she could to build a career in makeup. Today, with her characteristic emphasis on glowing skin, Kirin collaborates with top photographers on fashion editorials and advertising, as well as creating memorable looks for red carpet events. Kirin’s editorial clients include Vanity Fair, V Magazine, CR Fashion Book, Teen Vogue, ELLE, Marie Claire and Vs. Magazine. Her celebrity clients include Freida Pinto, Jessica Paré, Florence Welch, Jenny Slate, Rosario Dawson, Zoe Kazan and Kiernan Shipka.
 
