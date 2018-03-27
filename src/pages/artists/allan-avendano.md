@@ -2,9 +2,9 @@
 kind: artist
 title: Allan Avendano
 type: makeup
-enquire: noelle.keshishian@starworksgroup.com
-instagram_handle: allanface
 cover: /img/AAO_HEADER.jpg
+instagram_handle: allanface
+enquire: noelle.keshishian@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_allan-avendano_makeup_editorial_01.jpg
@@ -83,11 +83,14 @@ portfolios:
       - image: /img/starworks-artists_allan-avendano_makeup_editorial_74.jpg
       - image: /img/starworks-artists_allan-avendano_makeup_editorial_75.jpg
       - image: /img/starworks-artists_allan-avendano_makeup_editorial_76.jpg
-    title: 'Editorial'
+    title: Editorial
   - gallery:
-      - image: /img/starworks-artists_AAO_yutsai-image-yutsairedcampaignfw1320jpg-539f8338cf429-1400.jpg
-      - image: /img/starworks-artists_AAO_yutsai-image-yutsairedcampaignfw1301jpg-539f831978682-1400.jpg
-      - image: /img/starworks-artists_AAO_yutsai-image-yutsairedcampaignfw1314jpg-539f832fc50bb-1400.jpg
+      - image: >-
+          /img/starworks-artists_AAO_yutsai-image-yutsairedcampaignfw1320jpg-539f8338cf429-1400.jpg
+      - image: >-
+          /img/starworks-artists_AAO_yutsai-image-yutsairedcampaignfw1301jpg-539f831978682-1400.jpg
+      - image: >-
+          /img/starworks-artists_AAO_yutsai-image-yutsairedcampaignfw1314jpg-539f832fc50bb-1400.jpg
       - image: /img/starworks-artists_AAO_mudo_ss14_1.jpg
       - image: /img/starworks-artists_AAO_mudo_ss14_5.jpg
       - image: /img/starworks-artists_AAO_mudo_ss14_3.jpg
@@ -99,17 +102,24 @@ portfolios:
       - image: /img/starworks-artists_2016-08_AAO_JRO_GUESS_01.jpg
       - image: /img/starworks-artists_2017-03_AAO_JRO_GUESS_07.jpg
       - image: /img/starworks-artists_2016-08_AAO_JRO_GUESS_02.jpg
-      - image: /img/starworks-artists_AAO_yutsai-image-yutsaifreesoulfw1311jpg-52fbc67707a3f-1400.jpg
-      - image: /img/starworks-artists_AAO_yutsai-image-yutsaifreesoulfw1308jpg-52fbc6676147a-1400-1.jpg
-      - image: /img/starworks-artists_AAO_yutsai-image-yutsaifreesoulfw1303jpg-52fbc651ec7c6-1400.jpg
-      - image: /img/starworks-artists_AAO_yutsai-image-yutsaifreesoulss1402jpg-52fbbbc30351c-1400.jpg
-      - image: /img/starworks-artists_AAO_yutsai-image-yutsaifreesoulss1409jpg-52fbbbf36de8f-1400.jpg
+      - image: >-
+          /img/starworks-artists_AAO_yutsai-image-yutsaifreesoulfw1311jpg-52fbc67707a3f-1400.jpg
+      - image: >-
+          /img/starworks-artists_AAO_yutsai-image-yutsaifreesoulfw1308jpg-52fbc6676147a-1400-1.jpg
+      - image: >-
+          /img/starworks-artists_AAO_yutsai-image-yutsaifreesoulfw1303jpg-52fbc651ec7c6-1400.jpg
+      - image: >-
+          /img/starworks-artists_AAO_yutsai-image-yutsaifreesoulss1402jpg-52fbbbc30351c-1400.jpg
+      - image: >-
+          /img/starworks-artists_AAO_yutsai-image-yutsaifreesoulss1409jpg-52fbbbf36de8f-1400.jpg
       - image: /img/starworks-artists_AAO_490_GUESS_JEANS_SP2014_13.jpg
       - image: /img/starworks-artists_AAO_490_GUESS_JEANS_SP2014_12.jpg
       - image: /img/starworks-artists_AAO_DITA1.jpg
       - image: /img/starworks-artists_AAO_DITA2.jpg
-      - image: /img/starworks-artists_AAO_yutsai-image-yutsaibeachbunnycandiceswanepoel2jpg-52faa1a3cdf42-1400-1.jpg
-      - image: /img/starworks-artists_AAO_yutsai-image-yutsaibeachbunnycandiceswanepoel1jpg-52faa19baa955-1400.jpg
+      - image: >-
+          /img/starworks-artists_AAO_yutsai-image-yutsaibeachbunnycandiceswanepoel2jpg-52faa1a3cdf42-1400-1.jpg
+      - image: >-
+          /img/starworks-artists_AAO_yutsai-image-yutsaibeachbunnycandiceswanepoel1jpg-52faa19baa955-1400.jpg
       - image: /img/starworks-artists_2018-01_AAO_OUAI_05.jpg
       - image: /img/starworks-artists_2018-01_AAO_OUAI_13.jpg
       - image: /img/starworks-artists_2018-01_AAO_OUAI_11.jpg
@@ -119,11 +129,15 @@ portfolios:
       - image: /img/starworks-artists_2018-03_AAO_WAM_MATERIALGIRL_03.jpg
       - image: /img/starworks-artists_2018-03_AAO_WAM_MATERIALGIRL_02.jpg
       - image: /img/starworks-artists_2018-03_AAO_WAM_MATERIALGIRL_04.jpg
-      - image: /img/starworks-artists_AAO_yutsai-image-yutsaicocacolafifa2014brasil8jpg-539b82010d02c-1400.jpg
-      - image: /img/starworks-artists_AAO_yutsai-image-yutsaicocacolafifa2014brasil4jpg-539b81ed09291-1400.jpg
-      - image: /img/starworks-artists_AAO_yutsai-image-yutsaicocacolashareacoke01jpg-53c0667d6d0f3-1400.jpg
-      - image: /img/starworks-artists_AAO_yutsai-image-yutsaicocacolashareacoke10jpg-53c0667823127-1400.jpg
-    title: 'Advertising'
+      - image: >-
+          /img/starworks-artists_AAO_yutsai-image-yutsaicocacolafifa2014brasil8jpg-539b82010d02c-1400.jpg
+      - image: >-
+          /img/starworks-artists_AAO_yutsai-image-yutsaicocacolafifa2014brasil4jpg-539b81ed09291-1400.jpg
+      - image: >-
+          /img/starworks-artists_AAO_yutsai-image-yutsaicocacolashareacoke01jpg-53c0667d6d0f3-1400.jpg
+      - image: >-
+          /img/starworks-artists_AAO_yutsai-image-yutsaicocacolashareacoke10jpg-53c0667823127-1400.jpg
+    title: Advertising
   - gallery:
       - image: /img/starworks-artists_AAO_MFS_RC_01.jpg
       - image: /img/starworks-artists_AAO_MFS_RC_03.jpg
@@ -165,23 +179,68 @@ portfolios:
       - image: /img/starworks-artists_AAO_RC_23.jpg
       - image: /img/starworks-artists_AAO_RC_36.jpg
       - image: /img/starworks-artists_AAO_RC_34.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 258875599
-  - url: 258875685
-  - url: 258875464
-  - url: 258875558
-  - url: 258875540
-  - url: 258875714
-  - url: 260492403
-  - url: 258875583
-  - url: 258875738
-  - url: 258875087
-  - url: 258875133
-  - url: 258875119
-  - url: 258875447
-  - url: 258875346
-  - url: 258875758
+  - poster: 'https://i.vimeocdn.com/video/687170677_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Harpers Bazaar Singapore: Meghan Collison'
+    url: 258875599
+  - poster: 'https://i.vimeocdn.com/video/687170809_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'LOVE Advent 2015: Day 19 Zendaya by Doug Inglish'
+    url: 258875685
+  - poster: 'https://i.vimeocdn.com/video/687170501_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Galore: Zendaya Transforms From Disney Star to Bombshell'
+    url: 258875464
+  - poster: 'https://i.vimeocdn.com/video/687170725_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Guess: Jeans Holiday 2017 featuring Camila Cabello 30seconds'
+    url: 258875558
+  - poster: 'https://i.vimeocdn.com/video/687170600_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Guess: Jeans Fall 2017 Campaign featuring Camila Cabello'
+    url: 258875540
+  - poster: 'https://i.vimeocdn.com/video/687170921_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Marith Franois Girbud Fall Winter 2013: Red Campaign'
+    url: 258875714
+  - poster: 'https://i.vimeocdn.com/video/689233413_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'G by GUESS: Motion Denim Campaign 60 sec'
+    url: 260492403
+  - poster: 'https://i.vimeocdn.com/video/687170645_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'GUESS: Spring 2014 Jeans Campaign'
+    url: 258875583
+  - poster: 'https://i.vimeocdn.com/video/687170876_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Mudo Collection: llkbahar Yaz 2014 featuring Jessica Stam'
+    url: 258875738
+  - poster: 'https://i.vimeocdn.com/video/687170005_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Beach Bunny: Bridal featuring ChrissyTeigen'
+    url: 258875087
+  - poster: 'https://i.vimeocdn.com/video/687170219_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Beach Bunny: Old Hollywood Collection featuring Candice Swanepoel'
+    url: 258875133
+  - poster: 'https://i.vimeocdn.com/video/687170004_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Beach Bunny: Bronze Summer 2013 featuring Irina Shayk'
+    url: 258875119
+  - poster: 'https://i.vimeocdn.com/video/687170447_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Free Soul Collection Fall Winter 2013-14
+    url: 258875447
+  - poster: 'https://i.vimeocdn.com/video/687170358_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Dylan George 2012 Campaign: Abbot Main'
+    url: 258875346
+  - poster: 'https://i.vimeocdn.com/video/687170894_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'REVEAL: Algenist Color Drop'
+    url: 258875758
 ---
 At a very early age, Allan Avendaño was enamored by the glamour of old Hollywood. Thinking he may find his path in the entertainment industry, he pursued a Bachelor of Science in Communications and acquired a job in television production. Upon realizing his true interest in beauty and fashion, he switched gears and began working for a fashion magazine. Given the responsibility of booking talent for shoots, Allan assigned himself as makeup artist on an editorial job, laying the foundation for his current career.
 
