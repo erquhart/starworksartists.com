@@ -50,22 +50,20 @@ function computeColumns(data) {
   return columns
 }
 
-
 function computeFirsts (data) {
 
   if (!data.length > 0) { return [] }
 
   return data.length > 0 && data.map(column => {
 
-    const first = column.filter((artist, index) => {
-      return artist.first
-    })
+    const firsts = column.filter(artist => artist.first)
 
-    const last = column.filter((artist, index) => {
-      return artist.last
-    })
+    //const last = column.filter((artist, index) => { return artist.last })
 
-    return first.length > 0 ? first[0].type : ''
+    const firstArray = firsts.map(item => item.type.replace(/\s/g, '').replace(/-([a-z])/g, function (g) { return g[1].toUpperCase() }))
+    return firstArray.length > 0 ? firstArray : []
+
+    //return first.length > 0 ? first[0].type : ''
   })
 
 }
@@ -114,7 +112,8 @@ class ArtistsPage extends Component {
       inViewKey: 'hair',
       columns,
       columnFirsts: computeFirsts(columns),
-      columnFirstOrLast: computeFirstOrLast(columns)
+      columnFirstOrLast: computeFirstOrLast(columns),
+      scrolling: false
     }
 
   }
@@ -123,6 +122,8 @@ class ArtistsPage extends Component {
 
     const { data } = this.props
     //console.log('columns: ', computeColumns(data, ROWS))
+
+    //this.setState({scrolling: true})
 
     if (this.props.location.hash) {
       // console.log('this.props.location.hash: ', this.props.location.hash)
@@ -136,6 +137,7 @@ class ArtistsPage extends Component {
 
     if (typeof(prevState.vwUnits) === 'undefined') {
       // console.log('vwUnits is undefined!')
+      //this.setState({scrolling: true})
       if (this.props.location.hash) {
         // console.log('this.props.location.hash: ', this.props.location.hash)
         this.scrollToSection(this.props.location.hash.replace('#', ''))
@@ -173,12 +175,34 @@ class ArtistsPage extends Component {
 
   }
 
-  scrollToSection = (key) => {
+  scrollToSection = (key, onClick) => {
     // here "key" is the name of the type
     // we search for the value in columnFirsts and
     // return the index, which we use as a dom ref
-    const index = this.state.columnFirsts.findIndex(value => key === value)
-    ScrollTop(this[index.toString()], {duration: 500, offset: 0, align: 'top'})
+    const index = this.state.columnFirsts.findIndex(value => {
+      // test if key is present within the nested array
+      const exists = value.findIndex(item => item === key)
+      return exists > -1
+    })
+
+    //console.log('scrolling')
+
+    if (onClick) this.setState({scrolling: key})
+
+    if (index >= 0) {
+      const self = this
+      ScrollTop(this[index.toString()], {duration: 500, offset: 0, align: 'top'}, function() { self.handleScrollComplete(index, key) })
+    }
+
+  }
+
+  handleScrollComplete = (index, key) => {
+    //console.log('handleScrollComplete!')
+    this.setState({
+      scrolling: false,
+      inViewKey: key,
+      inViewIndex: index
+    })
   }
 
   handleChange = ({percentage, inView, index}) => {
@@ -194,16 +218,26 @@ class ArtistsPage extends Component {
       // not really it would need another array
       // here I could probably just changet the inViewIndex
 
-      this.setState({
-        inViewKey: this.state.columnFirstOrLast[index],
-        inViewIndex: index
-      })
+      if (!this.state.scrolling) {
+        this.setState({
+          inViewKey: this.state.columnFirstOrLast[index],
+          inViewIndex: index
+        })
+      }
+
+      // if a column has multiple lasts we need to create a way
+      // to set them as active. This is all based on scroll percentage
+      // and there are literally no more columns, and I can't think of a
+      // way to put those others in new columns without changing their display
+
+      if (index === this.state.columnFirsts.length - 1) {
+        // last column, in this case we know they are all there
+      }
     }
 
   }
 
   handleOnHover = (key) => {
-    console.log('handleOnHover: ', key)
     this.setState({inViewKey: key})
   }
 

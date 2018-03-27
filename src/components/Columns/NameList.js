@@ -5,7 +5,7 @@ import { HeaderLG } from '../Styled'
 import { EASE } from '../../utils/presets'
 import { get } from 'lodash'
 
-const NameList = ({ onHover, inViewKey, column, handleClick }, { setBase64 }) => (
+const NameList = ({ onHover, index, inView, inViewKey, column, handleClick }, { setBase64 }) => (
 
 
   <div
@@ -17,10 +17,13 @@ const NameList = ({ onHover, inViewKey, column, handleClick }, { setBase64 }) =>
     {
       column.map(({slug, cover, title, type, first, last }) => {
 
+        const key = type.replace(/\s/g, '').replace(/-([a-z])/g, function (g) { return g[1].toUpperCase() })
+
+
         const onMouseEnter = () => {
           const base64 = get(cover, 'childImageSharp.sizes.base64', '')
           if (setBase64) setBase64(base64)
-          if (onHover) onHover(type)
+          if (onHover) onHover(key)
         }
 
         return (
@@ -33,7 +36,8 @@ const NameList = ({ onHover, inViewKey, column, handleClick }, { setBase64 }) =>
               //willChange: `opacity, filter`,
               willChange: `opacity`,
               //filter: type == inViewKey ? `` : `blur(2px)`,
-              opacity: type == inViewKey ? 1 : 0.2,
+              opacity: key == inViewKey ? 1 : 0.2,
+              pointerEvents: index == inView ? 'auto' : 'none',
               transition: `opacity 300ms ${EASE}`,
               marginBottom: last ? '2.5rem' : 0
             }}

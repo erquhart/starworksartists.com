@@ -29,7 +29,7 @@ export default class Item extends Component {
       let opacity
       if (nextProps.active) {
 
-        console.log('nextProps.active!', this.props.title)
+        // console.log('nextProps.active!', this.props.title)
         opacity = 1
       } else {
         opacity = 0.3
@@ -52,8 +52,7 @@ export default class Item extends Component {
     if (this.props.onClick) {
       const key = this.props.title.replace(/\s/g, '').replace(/-([a-z])/g, function (g) { return g[1].toUpperCase() })
       // .replace(/\s/g, '')
-      console.log('key: ', key)
-      this.props.onClick(key)
+      this.props.onClick(key, true)
     }
   }
 

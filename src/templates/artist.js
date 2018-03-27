@@ -21,14 +21,9 @@ export default function Template({ data, transition }) {
     }
   } = artist
   const { html: biography } = artist
-  //const { instagram: { edges: insta = [] } } = data
   const { instagram = {} } = data
   const insta = instagram ? instagram.images : []
-  //const { followers: { followers } } = data
   const followers = data.followers && data.followers.followers
-  //const { vimeo: { videos = [] } } = data
-  const { vimeo = {} } = data
-  //const videos = vimeo ? vimeo.videos : []
 
   return (
     <section

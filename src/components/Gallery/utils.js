@@ -15,7 +15,7 @@ function balancer(rows, columns) {
 
   let grid = rows.map((sourceRow, rowIndex) => {
 
-    console.log(`Row ${rowIndex} ===============================`)
+    //console.log(`Row ${rowIndex} ===============================`)
 
     let row
     if (overflow && overflow.length > 0) {
@@ -30,7 +30,7 @@ function balancer(rows, columns) {
     })
 
     const points = columnPointsArray.reduce((a, b) => a + b, 0)
-    console.log(`Length: ${row.length}, Points: ${columnPointsArray}, Total: ${points}`)
+    //console.log(`Length: ${row.length}, Points: ${columnPointsArray}, Total: ${points}`)
 
     if (points > (columns + 1)) {
 
@@ -47,22 +47,22 @@ function balancer(rows, columns) {
 
         extra = row.length - spliceAtIndex
 
-        console.log('!!! spliceAtIndex: ', spliceAtIndex)
-        console.log(`!!! extra ${extra}`)
+        //console.log('!!! spliceAtIndex: ', spliceAtIndex)
+        //console.log(`!!! extra ${extra}`)
 
       } else {
         extra = 1
         spliceAtIndex = row.length - 1
       }
 
-      console.log(`${points} is more then ${columns} by ${extra}. Cut at index ${spliceAtIndex}`)
+      //console.log(`${points} is more then ${columns} by ${extra}. Cut at index ${spliceAtIndex}`)
 
       const removed = row.splice(spliceAtIndex, extra)
 
       removed.length > 0 && removed.forEach(item => overflow.push(item) )
 
-      console.log('remainingRow: ', row)
-      console.log('and overflow: ', overflow)
+      //console.log('remainingRow: ', row)
+      //console.log('and overflow: ', overflow)
     }
 
     return row
@@ -81,7 +81,7 @@ function balancer(rows, columns) {
     }, []);
 
     if (overflowRow.length > 0) {
-      console.log('STILL MORE TO GO!', overflowRow)
+      //console.log('STILL MORE TO GO!', overflowRow)
       grid = grid.concat(balancer(overflowRow, columns))
     }
   }
@@ -146,11 +146,11 @@ export function computeSizes({ photos, columns, width, margin, balanced }) {
         })
         const points = columnPointsArray.reduce((a, b) => a + b, 0)
 
-        console.log('LAST: totalRatio:', totalRatio, ' rowWidth: ', rowWidth)
+        //console.log('LAST: totalRatio:', totalRatio, ' rowWidth: ', rowWidth)
 
         // width = 2143
         // totalRatio = 3.59
-        console.log('LAST: ', row, ' points: ', columnPointsArray,' total: ', points)
+        //console.log('LAST: ', row, ' points: ', columnPointsArray,' total: ', points)
 
 
         if (row.length === 1) {
@@ -180,7 +180,7 @@ export function computeSizes({ photos, columns, width, margin, balanced }) {
           // in that case this is better:
           // height = rowWidth / columns
           // but how to detect that situtation automatically?
-          console.log('LAST: points', height)
+          //console.log('LAST: points', height)
 
         }
 
@@ -202,7 +202,7 @@ export function computeSizes({ photos, columns, width, margin, balanced }) {
 
     return row.map(photo => {
       if (rowIndex === lastRowIndex) {
-        console.log('LAST: height / width', round(height, 1), round(height * ratio(photo), 1))
+        //console.log('LAST: height / width', round(height, 1), round(height * ratio(photo), 1))
       }
       return ({
         ...photo,
@@ -212,6 +212,6 @@ export function computeSizes({ photos, columns, width, margin, balanced }) {
     });
   });
   //debugger;
-  //console.log('rowsWithSizes: ', rowsWithSizes)
+  ////console.log('rowsWithSizes: ', rowsWithSizes)
   return rowsWithSizes.reduce((acc, row) => [...acc, ...row], []);
 }
