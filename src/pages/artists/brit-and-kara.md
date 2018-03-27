@@ -3,8 +3,8 @@ kind: artist
 title: Brit & Kara
 type: stylist
 cover: /img/BAK_HEADER.jpg
-enquire: 'alexandra.feldman@starworksgroup.com'
 instagram_handle: elkin
+enquire: alexandra.feldman@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-12_BAK_SHAPE_09.jpg
@@ -62,7 +62,7 @@ portfolios:
       - image: /img/starworks-artists_2017-10_BAK_POPKIT_02.jpg
       - image: /img/starworks-artists_2017-10_BAK_POPKIT_04.jpg
       - image: /img/starworks-artists_2017-10_BAK_POPKIT_11.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/BAK_RC_01.jpg
       - image: /img/BAK_RC_02.jpg
@@ -104,15 +104,32 @@ portfolios:
       - image: /img/BAK_RC_38.jpg
       - image: /img/BAK_RC_39.jpg
       - image: /img/BAK_RC_40.jpg
-    columns: 6
-    title: 'Red carpet'
+    title: Red carpet
 videos:
-  - url: 258903397
-  - url: 258903415
-  - url: 258903409
-  - url: 258903402
-  - url: 260497101
-  - url: 260497087
+  - poster: 'https://i.vimeocdn.com/video/687207190_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'AerieREAL: Emma Roberts'
+    url: 258903397
+  - poster: 'https://i.vimeocdn.com/video/687207195_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Neutrogena China 2017 ft. Emma Roberts
+    url: 258903415
+  - poster: 'https://i.vimeocdn.com/video/687207194_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Emma Roberts Celebrate M&M's 75th Birthday
+    url: 258903409
+  - poster: 'https://i.vimeocdn.com/video/687207193_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Emma Roberts Celebrate M&M's 75th Birthday
+    url: 258903402
+  - poster: 'https://i.vimeocdn.com/video/689239541_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Grace VanderWaal, "So Much More Than This"'
+    url: 260497101
+  - poster: 'https://i.vimeocdn.com/video/689239548_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Grace VanderWaal, "Moonlight"'
+    url: 260497087
 ---
 Stylist and designer team Brit and Kara captured the fashion world’s attention in 2011 when they launched their womenswear label, ELKIN. Hailed as ‘ones to watch’ by top media outlets, they became known for their feminine, darkly romantic, and effortlessly cool aesthetic. ELKIN quickly became the go-to wardrobe for Hollywood’s top young talent, including Brie Larson, Zosia Mamet, Dakota Johnson, Langley Fox Hemingway and Emma Roberts.
 
