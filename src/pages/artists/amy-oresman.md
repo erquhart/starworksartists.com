@@ -2,9 +2,9 @@
 kind: artist
 title: Amy Oresman
 type: makeup
-enquire: noelle.keshishian@starworksgroup.com
-instagram_handle: amyoresman
 cover: /img/AON_HEADER.jpg
+instagram_handle: amyoresman
+enquire: noelle.keshishian@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-06_AON_HARPERSBAZAARMX_01.jpg
@@ -58,7 +58,7 @@ portfolios:
       - image: /img/starworks-artists_23_2018-01_AAL_AON_JCL_NEUTROGENA_02.jpg
       - image: /img/starworks-artists_2017-01_AON_JRO_JCL_NEUTROGENA_02.jpg
       - image: /img/starworks-artists_AON_69.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: starworks-artists_AON_RC_02.jpg
       - image: starworks-artists_AON_RC_04.jpg
@@ -87,16 +87,42 @@ portfolios:
       - image: starworks-artists_AON_RC_20.jpg
       - image: starworks-artists_AON_RC_30.jpg
       - image: starworks-artists_AON_RC_29.jpg
-    title: 'Red carpet'
+    title: Red carpet
 videos:
-  - url: 260296725
-  - url: 260495734
-  - url: 260495713
-  - url: 260296960
-  - url: 260496302
-  - url: 258902774
-  - url: 260490804
-  - url: 260296689
+  - poster: 'https://i.vimeocdn.com/video/689237170_1280x675.jpg?r=pad'
+    ratio: 52.734375%
+    title: 'Vogue Mexico: Eiza Gonzalez'
+    url: 260296725
+  - poster: 'https://i.vimeocdn.com/video/689237715_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Neutrogena Light Therapy Mask featuring Olivia Holt
+    url: 260495734
+  - poster: 'https://i.vimeocdn.com/video/689237691_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Neutrogena featuring Olivia Holt & Cade Holt
+    url: 260495713
+  - poster: 'https://i.vimeocdn.com/video/688984138_1920x1093.jpg?r=pad'
+    ratio: 56.92708333333334%
+    title: Neutrogena Wave Sonic featuring Hayden Panettiere
+    url: 260296960
+  - poster: 'https://i.vimeocdn.com/video/689238459_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Neutrogena Oil Free Acne Stress Control featuring Emma Roberts
+    url: 260496302
+  - poster: 'https://i.vimeocdn.com/video/687206322_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Wipe For Water: Earth Day Month featuring Kristen Bell'
+    url: 258902774
+  - poster: 'https://i.vimeocdn.com/video/689231269_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Neutrogena: Trick to Clearer Skinin Just 1 Week featuring Eiza Gonzalezs'
+    url: 260490804
+  - poster: 'https://i.vimeocdn.com/video/688983801_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: >-
+      Neutrogena Oil Free Acne Wash Pink Grapefruit Facial Cleanser featuring
+      Bella Thorne
+    url: 260296689
 ---
 With more than 10 years of experience in the industry, makeup artist Amy Oresman’s work has appeared on the covers of ELLE, Harper’s Bazaar, InStyle, Glamour and GQ. As a media-trained beauty expert, Amy is a frequent contributor to features in top magazines, beauty blogs and television productions. Amy has worked with renowned fashion photographers including Peter Lindbergh, David LaChapelle, Mert Alas and Marcus Piggott, and Patrick Demarchelier. Her celebrity clients include Zoe Saldana, Hayden Panettiere, Emma Roberts, David Beckham and Pink. Her advertising clients include Armani, Jimmy Choo, Dooney & Bourke, Neutrogena, Paul Mitchell, Candies and H & M.
 Amy lives in Los Angeles.
