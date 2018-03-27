@@ -2,9 +2,9 @@
 kind: artist
 title: Gita Bass
 type: makeup
-enquire: caitlin.mazonas@starworksgroup.com
-instagram_handle: gitabass
 cover: /img/GBS_HEADER.jpg
+instagram_handle: gitabass
+enquire: caitlin.mazonas@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-10_GBS_MTD_GLAMOURMX_11-1.jpg
@@ -51,14 +51,17 @@ portfolios:
       - image: /img/starworks-artists_GBS_highlights-4.jpg
       - image: /img/starworks-artists_GBS_highlights-3.jpg
       - image: /img/starworks-artists_GBS_gb1_katespade2.jpg
-      - image: /img/starworks-artists_GBS_New-Outtakes-of-Bryce-Dallas-Howard-by-Kate-Spade-bryce-dallas-howard-19163563-612-791.jpg
+      - image: >-
+          /img/starworks-artists_GBS_New-Outtakes-of-Bryce-Dallas-Howard-by-Kate-Spade-bryce-dallas-howard-19163563-612-791.jpg
       - image: /img/starworks-artists3563-612-791.jpg
       - image: /img/starworks-artists_GBS_gb1_katespadestair1.jpg
       - image: /img/starworks-artists_GBS_tina-fey-20.jpg
       - image: /img/starworks-artists_GBS_Nutrisse-Tina-Fey-Spread-2012.jpg
-      - image: /img/starworks-artists_GBS_Ondrea_Barbe_Garnier_UL_Transformer_Tina_Fey.jpg
+      - image: >-
+          /img/starworks-artists_GBS_Ondrea_Barbe_Garnier_UL_Transformer_Tina_Fey.jpg
       - image: /img/starworks-artists_GBS_scan-140724-12_28_49-Local_User001.jpg
-      - image: /img/starworks-artists_GBS_2253_3827ab45-b47d-433e-8584-5c8ef17d6f22.jpg
+      - image: >-
+          /img/starworks-artists_GBS_2253_3827ab45-b47d-433e-8584-5c8ef17d6f22.jpg
       - image: /img/starworks-artists_2014-08_GBS_GARNIER_01.jpg
       - image: /img/starworks-artists_GBS_De-Constructed-Move-It-Page-2014.jpg
       - image: /img/starworks-artists_2014-09_GBS_GARNIER_02.jpg
@@ -103,16 +106,40 @@ portfolios:
       - image: /img/starworks-artists_GBS_RC_23.jpg
       - image: /img/starworks-artists_GBS_RC_22.jpg
       - image: /img/starworks-artists_GBS_RC_09.jpg
-    title: 'Red carpet'
+    title: Red carpet
 videos:
-  - url: 259745946
-  - url: 259745964
-  - url: 259745967
-  - url: 259746008
-  - url: 259746043
-  - url: 259746022
-  - url: 259746015
-  - url: 259746006
+  - poster: 'https://i.vimeocdn.com/video/688278792_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'American Express: Salad Bargaining featuring Tina Fey'
+    url: 259745946
+  - poster: 'https://i.vimeocdn.com/video/688278897_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'AMEX: Tina Fey''s Most Trusted Doggie Treat'
+    url: 259745964
+  - poster: 'https://i.vimeocdn.com/video/688278793_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'AMEX: Tina Fey Out and About Running Errands EveryDay Moments'
+    url: 259745967
+  - poster: 'https://i.vimeocdn.com/video/688278845_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Garnier Fructis featuring Tina Fey
+    url: 259746008
+  - poster: 'https://i.vimeocdn.com/video/688278918_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Garnier: Ultra Life Transformer Featuring Tina Fey'
+    url: 259746043
+  - poster: 'https://i.vimeocdn.com/video/688278948_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Garnier Nutrisse Ultra Color featuring Blanca Soto
+    url: 259746022
+  - poster: 'https://i.vimeocdn.com/video/688278879_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Garnier Luminous Hair featuring Kate Walsh
+    url: 259746015
+  - poster: 'https://i.vimeocdn.com/video/688278830_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Garnier Anti-Sun Damage Daily Moisturizer featuring Kate Walsh
+    url: 259746006
 ---
 A native Australian, makeup artist Gita Bass has worked extensively in Europe and New York across multiple arenas, including fashion editorials, advertising campaigns, red carpet events and runway shows. Her extensive experience, innate talent and enthusiasm for her work have given her an esteemed reputation in the field. Gita possesses a unique ability to incorporate a fresh approach to makeup while maintaining a trademark emphasis on classic beauty.
 
