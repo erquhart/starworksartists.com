@@ -2,10 +2,9 @@
 kind: artist
 title: Bobby Eliot
 type: hair
-order: '3'
-enquire: 'alexandra.feldman@starworksgroup.com'
-instagram_handle: bobbyeliot
 cover: /img/BET_HEADER.jpg
+instagram_handle: bobbyeliot
+enquire: alexandra.feldman@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_BET_PORT_01.jpg
@@ -58,7 +57,7 @@ portfolios:
       - image: /img/starworks-artists_BET_PORT_42.jpg
       - image: /img/starworks-artists_BET_PORT_43.jpg
       - image: /img/starworks-artists_BET_PORT_44.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_BET_KMS_RC_01.jpg
       - image: /img/starworks-artists_BET_RC_13.jpg
@@ -97,15 +96,36 @@ portfolios:
       - image: /img/starworks-artists_BET_RC_19.jpg
       - image: /img/starworks-artists_BET_RC_22.jpg
       - image: /img/starworks-artists_BET_RC_17.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 258904074
-  - url: 260497729
-  - url: 258904061
-  - url: 258904066
-  - url: 258904055
-  - url: 258904096
-  - url: 258904091
+  - poster: 'https://i.vimeocdn.com/video/687208114_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'KENZO Spring 2014: Automobile Waltz'
+    url: 258904074
+  - poster: 'https://i.vimeocdn.com/video/689240338_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Moet & Chandon: The Now'
+    url: 260497729
+  - poster: 'https://i.vimeocdn.com/video/687208087_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: ASOS Meets Jena Malone
+    url: 258904061
+  - poster: 'https://i.vimeocdn.com/video/687208086_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Diet Coke: Because I Can featuring Gillian Jacobs'
+    url: 258904066
+  - poster: 'https://i.vimeocdn.com/video/687208093_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Anastasia Edit by EliasTahan
+    url: 258904055
+  - poster: 'https://i.vimeocdn.com/video/687208141_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Teen Vogue's All Access ft. Debby Ryan
+    url: 258904096
+  - poster: 'https://i.vimeocdn.com/video/687208148_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Hailee Steinfeld, "Rock Bottom"'
+    url: 258904091
 ---
 Los Angeles native Bobby Eliot is quickly becoming one of the industry’s most sought-after hairstylists. After completing his education at the prestigious Vidal Sassoon Academy, he continued training under their tutelage and subsequently joined their creative team.   Bobby has worked alongside top photographers including Collier Schorr, Richard Burbridge, Alexei Hay, Rankin, Yu Tsai, Elias Tahan, and We Are The Rhoads. Drawing inspiration from iconic models, classic Hollywood glamour, fashion, music and film, his work has been featured in Vogue Brazil, Vogue Russia, Teen Vogue, ELLE, Harper’s Bazaar, Marie Claire, Purple and Jalouse. He has collaborated on major brand campaigns including Paige Denim, Nasty Gal, Chinese Laundry, Habitual Denim, and Nike.
 
