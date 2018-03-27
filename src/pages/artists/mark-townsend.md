@@ -3,8 +3,8 @@ kind: artist
 title: Mark Townsend
 type: hair
 cover: /img/2018-02_MTD_HEADER.jpg
-enquire: 'noelle.keshishian@starworksgroup.com'
-instagram_handle: 'marktownsend1'
+instagram_handle: marktownsend1
+enquire: noelle.keshishian@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-10_DLN_MTD_VOGUEES_01.jpg
@@ -99,7 +99,7 @@ portfolios:
       - image: /img/starworks-artists_2016-06_MTD_OLIVERPEOPLES_06.jpg
       - image: /img/starworks-artists_2015-04_LHN_MTD_OPEOPLES_03.jpg
       - image: /img/starworks-artists_2015-04_LHN_MTD_OPEOPLES_02.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_MTD_RC_01.jpg
       - image: /img/starworks-artists_MTD_RC_02.jpg
@@ -137,23 +137,72 @@ portfolios:
       - image: /img/starworks-artists_MTD_RC_23.jpg
       - image: /img/starworks-artists_MTD_RC_24.jpg
       - image: /img/starworks-artists_MTD_RC_25.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260160581
-  - url: 260160629
-  - url: 260160638
-  - url: 260160787
-  - url: 260160792
-  - url: 260160816
-  - url: 260160645
-  - url: 260160521
-  - url: 260160649
-  - url: 260160849
-  - url: 260160471
-  - url: 260160453
-  - url: 260160566
-  - url: 260160561
-  - url: 260160800
+  - poster: 'https://i.vimeocdn.com/video/688810777_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Gucci x Harper''s Bazaar: Secret Garden featuring Dakota Johnson'
+    url: 260160581
+  - poster: 'https://i.vimeocdn.com/video/688810946_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Jimmy Choo Behind the Scenes: Dakota Fanning'
+    url: 260160629
+  - poster: 'https://i.vimeocdn.com/video/688810840_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Juicy Couture: California Dreaming'
+    url: 260160638
+  - poster: 'https://i.vimeocdn.com/video/688811039_1920x1440.jpg?r=pad'
+    ratio: 75%
+    title: 'Revlon: Grow luscious Mascara featuring JessicaBiel'
+    url: 260160787
+  - poster: 'https://i.vimeocdn.com/video/688811073_1920x1422.jpg?r=pad'
+    ratio: 74.0625%
+    title: 'Revlon: Jus tBitten Lipstain featuring Jessica Biel'
+    url: 260160792
+  - poster: 'https://i.vimeocdn.com/video/688811117_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'SKII: Facial Treatment Essence featuring Kate Bosworth'
+    url: 260160816
+  - poster: 'https://i.vimeocdn.com/video/688810854_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'L''Oreal Paris: Visible Lift Blur Foundation Featuring Andie MacDowell'
+    url: 260160645
+  - poster: 'https://i.vimeocdn.com/video/688810671_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Dove: Keep on Doing Your Favorite Things featuring Lea Michele'
+    url: 260160521
+  - poster: 'https://i.vimeocdn.com/video/688810900_1920x1280.jpg?r=pad'
+    ratio: 66.66666666666666%
+    title: Lux Body Wash featuring RachelWeiz
+    url: 260160649
+  - poster: 'https://i.vimeocdn.com/video/688811116_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Target: Fringe Benefits'
+    url: 260160849
+  - poster: 'https://i.vimeocdn.com/video/688810658_1920x1440.jpg?r=pad'
+    ratio: 75%
+    title: 'Avon: U by Ungaro featuring Reese Witherspoon'
+    url: 260160471
+  - poster: 'https://i.vimeocdn.com/video/688810616_1920x1440.jpg?r=pad'
+    ratio: 75%
+    title: 'Avon: Protogo Lipstick featuring Reese Witherspoon'
+    url: 260160453
+  - poster: 'https://i.vimeocdn.com/video/688810742_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: >-
+      Esquire: A Woman We Love featuring Jennifer Lawrence, directed by Nino
+      Muoz
+    url: 260160566
+  - poster: 'https://i.vimeocdn.com/video/688810737_1920x1082.jpg?r=pad'
+    ratio: 56.35416666666666%
+    title: >-
+      Esquire: 2010's Sexiest Woman Alive featuring Minka Kelly, directed by Yu
+      Tsai
+    url: 260160561
+  - poster: 'https://i.vimeocdn.com/video/688811067_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Rolling Stone Behind the Scenes with Jennifer Lawrence
+    url: 260160800
 ---
 Whether sleek, sophisticated or edgy, fashion and celebrity hairdresser Mark Townsend knows how to bring out the beauty in everyone. His confident attitude and keen attention to detail have rendered Mark Townsend one of the most highly regarded hair stylists in the business. Mark has been fortunate to create beautiful hairstyles for some of Hollywood’s leading ladies including Rachel McAdams, Dakota Johnson, Gal Gadot, Elizabeth Olsen, Mary Kate & Ashley Olsen, Jennifer Lawrence and many more.
 

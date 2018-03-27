@@ -2,9 +2,9 @@
 kind: artist
 title: Marcus Francis
 type: hair
-enquire: samantha.jeudy@starworksgroup.com
-instagram_handle: marcusrfrancis
 cover: /img/MFS_HEADER.jpg
+instagram_handle: marcusrfrancis
+enquire: samantha.jeudy@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-02_KYB_MFS_ELLE_01.jpg
@@ -27,8 +27,10 @@ portfolios:
       - image: /img/starworks-artists_MFS_1-2.jpg
       - image: /img/starworks-artists_MFS_4.jpg
       - image: /img/starworks-artists_MFS_5.jpg
-      - image: /img/starworks-artists_MFS_lizzy-caplan-elle-canada-november-2014-01.jpg
-      - image: /img/starworks-artists_MFS_lizzy-caplan-elle-canada-november-2014-021.jpg
+      - image: >-
+          /img/starworks-artists_MFS_lizzy-caplan-elle-canada-november-2014-01.jpg
+      - image: >-
+          /img/starworks-artists_MFS_lizzy-caplan-elle-canada-november-2014-021.jpg
       - image: /img/starworks-artists_2014-11_MFS_ELLECA_0211.jpg
       - image: /img/starworks-artists_MFS_image1.jpg
       - image: /img/starworks-artists_2015-10-06_KYB_MFS_VIOLETGREY_121.jpg
@@ -42,7 +44,8 @@ portfolios:
       - image: /img/starworks-artists_2015-06-11_MFS_JMARGUILES_09.jpg
       - image: /img/starworks-artists_2015-06-11_MFS_JMARGUILES_08.jpg
       - image: /img/starworks-artists_2015-06-11_MFS_JMARGUILES_07.jpg
-      - image: /img/starworks-artists_MFS_Amy_Adams_for_L_Officiel_Paris_February_2014_1.jpg
+      - image: >-
+          /img/starworks-artists_MFS_Amy_Adams_for_L_Officiel_Paris_February_2014_1.jpg
       - image: /img/starworks-artists_2014-03_MFS_SSO_LOFFICIEL_04.jpg
       - image: /img/starworks-artists_MFS_mf-24.jpg
       - image: /img/starworks-artists_MFS_marcus-francis-23-1.jpg
@@ -87,7 +90,7 @@ portfolios:
       - image: /img/starworks-artists_MFS_scan-140912-15_09_47-Local_User001.jpg
       - image: /img/starworks-artists_MFS_scan-140912-15_09_47-Local_User001-copy.jpg
       - image: /img/starworks-artists_MFS_scan-140912-15_04_50-Local_User001.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_MFS_RC_14.jpg
       - image: /img/starworks-artists_MFS_RC_27.jpg
@@ -123,19 +126,52 @@ portfolios:
       - image: /img/starworks-artists_MFS_RC_10.jpg
       - image: /img/starworks-artists_MFS_RC_04.jpg
       - image: /img/starworks-artists_MFS_RC_03.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260840945
-  - url: 260147080
-  - url: 260147006
-  - url: 260841483
-  - url: 260496302
-  - url: 260146859
-  - url: 260146844
-  - url: 260146855
-  - url: 260146891
-  - url: 260146961
-  - url: 260146973
+  - poster: 'https://i.vimeocdn.com/video/689677620_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'New York Times Great Performers: Saoirse Ronan'
+    url: 260840945
+  - poster: 'https://i.vimeocdn.com/video/688792967_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vogue Italia: Kerry Washington, directed by Mark Seliger'
+    url: 260147080
+  - poster: 'https://i.vimeocdn.com/video/688792854_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'The Lab TV: Lake Bell'
+    url: 260147006
+  - poster: 'https://i.vimeocdn.com/video/689678383_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Esquire: Jessica Pare'
+    url: 260841483
+  - poster: 'https://i.vimeocdn.com/video/689238459_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Neutrogena Oil Free Acne Stress Control featuring Emma Roberts
+    url: 260496302
+  - poster: 'https://i.vimeocdn.com/video/688792662_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Fidelia Lingerie featuring Gisele Bundchen
+    url: 260146859
+  - poster: 'https://i.vimeocdn.com/video/688792652_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Donna Mizani featuring Kristin Cavallari
+    url: 260146844
+  - poster: 'https://i.vimeocdn.com/video/688792675_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Enterprise: If Only featuring Kristen Bell'
+    url: 260146855
+  - poster: 'https://i.vimeocdn.com/video/688792705_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Hailee Steinfeld, "Love Myself"'
+    url: 260146891
+  - poster: 'https://i.vimeocdn.com/video/688792812_1920x1409.jpg?r=pad'
+    ratio: 73.38541666666667%
+    title: 'Lykke Li, "Solarium"'
+    url: 260146961
+  - poster: 'https://i.vimeocdn.com/video/688792828_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Lykke Li, "Untitled"'
+    url: 260146973
 ---
 From major fashion shows to high-profile celebrity shoots, Marcus Francis’s precision, style and inimitable expertise in creating beautiful hairstyles have made him one of the most sought-after artists in the fashion and entertainment industries.
 

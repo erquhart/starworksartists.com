@@ -2,9 +2,9 @@
 kind: artist
 title: Lisa Aharon
 type: makeup
-enquire: caitlin.mazonas@starworksgroup.com
-instagram_handle: lisaaharon
 cover: /img/LAN_HEADER.jpg
+instagram_handle: lisaaharon
+enquire: caitlin.mazonas@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_LAN_P01081_059_51_063_51_v52.jpg
@@ -54,13 +54,16 @@ portfolios:
       - image: /img/starworks-artists_LAN_ewa-NY-selection-7.jpg
       - image: /img/starworks-artists_LAN_shot7-006568.jpg
       - image: /img/starworks-artists_LAN_shot3-006247.jpg
-      - image: /img/starworks-artists_LAN_shot4-00642428GeoffBarrenger27sconflictedcopy2013-02-2629.jpg
+      - image: >-
+          /img/starworks-artists_LAN_shot4-00642428GeoffBarrenger27sconflictedcopy2013-02-2629.jpg
       - image: /img/starworks-artists_LAN_9w.jpg
       - image: /img/starworks-artists_LAN_8w.jpg
       - image: /img/starworks-artists_LAN_7w.jpg
       - image: /img/starworks-artists_LAN_tumblr_magxj9uDUy1rtat3xo1_1280.jpg
-      - image: /img/starworks-artists_LAN_Pulp4-Fall-Winter-2011Corinna-Studier-Natalia-Siodmiak.jpg
-      - image: /img/starworks-artists_LAN_Pulp4-Fall-Winter-2011Corinna-Studier-Natalia-Siodmiak-1.jpg
+      - image: >-
+          /img/starworks-artists_LAN_Pulp4-Fall-Winter-2011Corinna-Studier-Natalia-Siodmiak.jpg
+      - image: >-
+          /img/starworks-artists_LAN_Pulp4-Fall-Winter-2011Corinna-Studier-Natalia-Siodmiak-1.jpg
       - image: /img/starworks-artists_LAN_pulp-0412-remains-03.jpg
       - image: /img/starworks-artists_LAN_cosmo-military-glam-04.jpg
       - image: /img/starworks-artists_LAN_cosmo-military-glam-06.jpg
@@ -95,9 +98,11 @@ portfolios:
       - image: /img/starworks-artists_LAN_Mens_Spring15_DM_HR-2.jpg
       - image: /img/starworks-artists_2016-03_LAN_HOLTSWOMEN_03-1.jpg
       - image: /img/starworks-artists_2016-03_LAN_HOLTSWOMEN_02-1.jpg
-      - image: /img/starworks-artists_LAN_gxxl_56fb19b4-b95c-4824-93e3-6ca40a771fd0-1.jpg
-      - image: /img/starworks-artists_LAN_gxxl_574de34f-6214-48e9-acb0-65590a771fd0-1.jpg
-    title: 'Portfolio'
+      - image: >-
+          /img/starworks-artists_LAN_gxxl_56fb19b4-b95c-4824-93e3-6ca40a771fd0-1.jpg
+      - image: >-
+          /img/starworks-artists_LAN_gxxl_574de34f-6214-48e9-acb0-65590a771fd0-1.jpg
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_LAN_RC_03.jpg
       - image: /img/starworks-artists_LAN_RC_01.jpg
@@ -128,23 +133,68 @@ portfolios:
       - image: /img/starworks-artists_LAN_RC_07.jpg
       - image: /img/starworks-artists_LAN_RC_27.jpg
       - image: /img/starworks-artists_LAN_RC_14.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260118755
-  - url: 260118812
-  - url: 260118903
-  - url: 260118684
-  - url: 260828964
-  - url: 260118594
-  - url: 260118570
-  - url: 260118822
-  - url: 260118695
-  - url: 260118878
-  - url: 260119032
-  - url: 260119011
-  - url: 260118725
-  - url: 260118636
-  - url: 260118975
+  - poster: 'https://i.vimeocdn.com/video/688755687_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Florence + The Machine, "Lover to Lover"'
+    url: 260118755
+  - poster: 'https://i.vimeocdn.com/video/688755923_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Florence + The Machine, "Third Eye" (The Odyssey Chapter 4)'
+    url: 260118812
+  - poster: 'https://i.vimeocdn.com/video/688755895_1920x1086.jpg?r=pad'
+    ratio: 56.56250000000001%
+    title: Saturday Night Live featuring Florence Welch
+    url: 260118903
+  - poster: 'https://i.vimeocdn.com/video/688755697_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Florence + The Machine, "God Only Knows" live on BBC Music'
+    url: 260118684
+  - poster: 'https://i.vimeocdn.com/video/689662111_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Jenna Malone, "The Shoe His Gorgeousness"'
+    url: 260828964
+  - poster: 'https://i.vimeocdn.com/video/688755445_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Alexander Wang Fall '12 featuring Shalom Harlow
+    url: 260118594
+  - poster: 'https://i.vimeocdn.com/video/688755410_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Alexander Wang Directed by Matt Bieler
+    url: 260118570
+  - poster: 'https://i.vimeocdn.com/video/688755773_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Kaelen Spring/Summer 2014
+    url: 260118822
+  - poster: 'https://i.vimeocdn.com/video/688755625_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Charles David Spring/Summer 2010
+    url: 260118695
+  - poster: 'https://i.vimeocdn.com/video/688755821_1920x1083.jpg?r=pad'
+    ratio: 56.40625%
+    title: Ralph Lauren Rugby Fall/Winter 2008
+    url: 260118878
+  - poster: 'https://i.vimeocdn.com/video/688756017_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Who What Wear x Amazon Fashion: Kate Cassidy'
+    url: 260119032
+  - poster: 'https://i.vimeocdn.com/video/688756064_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'V Magazine: Crystal Renn'
+    url: 260119011
+  - poster: 'https://i.vimeocdn.com/video/688755682_1920x1440.jpg?r=pad'
+    ratio: 75%
+    title: 'Feist, "My Moon My Man"'
+    url: 260118725
+  - poster: 'https://i.vimeocdn.com/video/688755535_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Arcade Fire, "After Life" live on Saturday Night Live'
+    url: 260118636
+  - poster: 'https://i.vimeocdn.com/video/688756112_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Warpaint, "New Song" live on The Tonight Show'
+    url: 260118975
 ---
 Native Canadian Lisa Aharon began her career as a makeup artist while attending the Vancouver Film School. Starting as an assistant on feature films, Lisa soon expanded her work into fashion and took a coveted position on the fashion week team of celebrated makeup artist Dick Page. After several years, Lisa relocated to New York City to assist renowned editorial artist Aaron de Mey. She has since built an impressive body of editorial, advertising and red carpet work.
 

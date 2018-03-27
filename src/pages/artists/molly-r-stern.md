@@ -1,12 +1,10 @@
 ---
 kind: artist
 title: Molly R. Stern
-path: '/artist/molly-r-stern'
 type: makeup
-order: '13'
 cover: /img/MSN_HEADER.jpg
-enquire: 'alexandra.feldman@starworksgroup.com'
 instagram_handle: mollyrstern
+enquire: alexandra.feldman@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-09_DLN_MRK_MSN_ELLEUK_01.jpg
@@ -100,7 +98,7 @@ portfolios:
       - image: /img/starworks-artists_2017-05_MRK_MSN_ELIZABETHARDEN_01.jpg
       - image: /img/starworks-artists_2015-03_AAL_MSN_AKLEIN_05.jpg
       - image: /img/starworks-artists_2015-03_AAL_MSN_AKLEIN_18.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/01_MRK_MSN_RC_01.jpg
       - image: /img/02_MRK_MSN_RC_12.jpg
@@ -144,17 +142,44 @@ portfolios:
       - image: /img/40_MSN_RC_20.jpg
       - image: /img/41_MSN_RC_22.jpg
       - image: /img/42_MSN_RC_19.jpg
-    title: 'Red carpet'
+    title: Red carpet
 videos:
-  - url: 260156208
-  - url: 260304937
-  - url: 260837692
-  - url: 260304923
-  - url: 260156306
-  - url: 260156214
-  - url: 260156284
-  - url: 260156289
-  - url: 260300204
+  - poster: 'https://i.vimeocdn.com/video/688804843_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Calvin Klein Eternity featuring Jake Gyllenhaal
+    url: 260156208
+  - poster: 'https://i.vimeocdn.com/video/688994428_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Jimmy Choo: Shimmer in the Dark featuring Cara Delevingne'
+    url: 260304937
+  - poster: 'https://i.vimeocdn.com/video/689673309_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Armani Exchange Fall/Winter 2017 featuring Cara Delevingne
+    url: 260837692
+  - poster: 'https://i.vimeocdn.com/video/688994351_1920x1079.jpg?r=pad'
+    ratio: 56.19791666666667%
+    title: 'Esquire UK Behind the Scenes: Cara Delevingne'
+    url: 260304923
+  - poster: 'https://i.vimeocdn.com/video/688805005_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vogue: 73 Q''s with Reese Witherspoon'
+    url: 260156306
+  - poster: 'https://i.vimeocdn.com/video/688804866_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Gotham Magazine Behind the Scenes: Kirsten Dunst'
+    url: 260156214
+  - poster: 'https://i.vimeocdn.com/video/688804934_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Seventh Generation: Bay Bay featuring Maya Rudolph'
+    url: 260156284
+  - poster: 'https://i.vimeocdn.com/video/688804942_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Seventh Generation: Common Scents featuring Maya Rudolph'
+    url: 260156289
+  - poster: 'https://i.vimeocdn.com/video/688988322_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'InStyle Behind the Scenes: Reese Witherspoon'
+    url: 260300204
 ---
 “A woman looks beautiful when she feels beautiful” is the credo guiding the work of makeup artist Molly R. Stern. For over 25 years, Molly has been a trusted artist and influencer in Hollywood. Known to emphasize and enhance what is uniquely beautiful about each woman she touches, her creative and fresh approach to makeup has garnered respect and loyalty among Hollywood’s elite talent, renowned fashion photographers and top beauty brands. Molly is considered one of the foremost voices in the beauty industry, creating iconic looks with her characteristic style. Her advice, wisdom and beauty tips are regularly featured in international print publications including Allure, InStyle and ELLE, and her trend forecasting and product picks are frequently highlighted on top editorial beauty sites including Refinery29, Violet Grey and Byrdie. Molly has an engaged social media presence on Facebook and Twitter, and she inspires her Instagram audience of over 30K followers daily with positive messaging and her signature hashtag #LOVEyourself.
 

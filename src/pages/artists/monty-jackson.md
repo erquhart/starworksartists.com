@@ -2,9 +2,9 @@
 kind: artist
 title: Monty Jackson
 type: stylist
-enquire: 'alexandra.feldman@starworksgroup.com'
-instagram_handle: mrmontyjackson
 cover: /img/MJN_HEADER.jpg
+instagram_handle: mrmontyjackson
+enquire: alexandra.feldman@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_MJN_PORT_01.jpg
@@ -85,7 +85,7 @@ portfolios:
       - image: /img/starworks-artists_201602_JUSTJAREDCOM_JCAMPBELL_CK_MJN_01.jpg
       - image: /img/starworks-artists_201602_JUSTJAREDCOM_JCAMPBELL_CK_MJN_08.jpg
       - image: /img/starworks-artists_201602_JUSTJAREDCOM_JCAMPBELL_CK_MJN_07.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/MJN_RC_01.jpg
       - image: /img/MJN_RC_02.jpg
@@ -155,20 +155,63 @@ portfolios:
       - image: /img/MJN_RC_66.jpg
       - image: /img/MJN_RC_67.jpg
       - image: /img/MJN_RC_68.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260148699
-  - url: 260149219
-  - url: 260149242
-  - url: 260149256
-  - url: 260149226
-  - url: 260847096
-  - url: 260847106
-  - url: 260847109
-  - url: 260149193
-  - url: 260149177
-  - url: 260847225
-  - url: 260847204
-  - url: 260148693
-  - url: 260148664
+  - poster: 'https://i.vimeocdn.com/video/688795095_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Vanity Fair: Colton Haynes and Skyler Samuels'
+    url: 260148699
+  - poster: 'https://i.vimeocdn.com/video/688795757_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Michael Buble, "Nobody But Me" (2)'
+    url: 260149219
+  - poster: 'https://i.vimeocdn.com/video/688795751_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Skylar Grey, "Clarity"'
+    url: 260149242
+  - poster: 'https://i.vimeocdn.com/video/688795789_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Skylar Grey, "Coming Home"'
+    url: 260149256
+  - poster: 'https://i.vimeocdn.com/video/688795779_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Skip Marley, "Calm Down"'
+    url: 260149226
+  - poster: 'https://i.vimeocdn.com/video/689685700_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Mayer Hawthorne, "Cosmic Love"'
+    url: 260847096
+  - poster: 'https://i.vimeocdn.com/video/689685710_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Mayer Hawthorne, "Crime"'
+    url: 260847106
+  - poster: 'https://i.vimeocdn.com/video/689685722_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Mayer Hawthorne, "Love Like That"'
+    url: 260847109
+  - poster: 'https://i.vimeocdn.com/video/688795715_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Loote, "Out Of My Head"'
+    url: 260149193
+  - poster: 'https://i.vimeocdn.com/video/688795683_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Loote, "High Without Your Love"'
+    url: 260149177
+  - poster: 'https://i.vimeocdn.com/video/689685841_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Tuxedo, "Do It"'
+    url: 260847225
+  - poster: 'https://i.vimeocdn.com/video/689685878_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Tuxedo, "Number One"'
+    url: 260847204
+  - poster: 'https://i.vimeocdn.com/video/688795081_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'FANDANGO: Phones'
+    url: 260148693
+  - poster: 'https://i.vimeocdn.com/video/688795040_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'FANDANGO: Dating Tips'
+    url: 260148664
 ---
+Test

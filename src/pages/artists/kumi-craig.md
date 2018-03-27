@@ -2,9 +2,9 @@
 kind: artist
 title: Kumi Craig
 type: grooming
-enquire: caitlin.mazonas@starworksgroup.com
-instagram_handle: kumicraig
 cover: /img/KCG_HEADER.jpg
+instagram_handle: kumicraig
+enquire: caitlin.mazonas@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2018-03_KCG_GQ_05.jpg
@@ -81,8 +81,10 @@ portfolios:
       - image: /img/starworks-artists_KCG_201504_ROLLINGSTONE_TWENNER_KU_01.jpg
       - image: /img/starworks-artists_KCG_201503_HOLLYWOODREPORTER_MMOBLEY_KU_02.jpg
       - image: /img/starworks-artists_KCG_201503_HOLLYWOODREPORTER_MMOBLEY_KU_05.jpg
-      - image: /img/starworks-artists_KCG_ku_nuvo_brianbowensmith_ethanhawke_winter11.jpg
-      - image: /img/starworks-artists_KCG_ku_nuvo_brianbowensmith_ethanhawke_winter11_2.jpg
+      - image: >-
+          /img/starworks-artists_KCG_ku_nuvo_brianbowensmith_ethanhawke_winter11.jpg
+      - image: >-
+          /img/starworks-artists_KCG_ku_nuvo_brianbowensmith_ethanhawke_winter11_2.jpg
       - image: /img/starworks-artists_2017-09_KCG_GQ_01.jpg
       - image: /img/starworks-artists_KCG_201409_GQKR_HJANGHYUN_KU_01.jpg
       - image: /img/starworks-artists_KCG_GyllenhallCover.jpg
@@ -93,7 +95,8 @@ portfolios:
       - image: /img/starworks-artists_KCG_PhelpsCover.jpg
       - image: /img/starworks-artists_KCG_TracyMorganCove.jpg
       - image: /img/starworks-artists_KCG_ku_port036.jpg
-      - image: /img/starworks-artists_KCG_201509_HERRINGHERRING_HERRINGHERRING_KU_MFR_01.jpg
+      - image: >-
+          /img/starworks-artists_KCG_201509_HERRINGHERRING_HERRINGHERRING_KU_MFR_01.jpg
       - image: /img/starworks-artists_KCG_JohnStewartWiredCov.jpg
       - image: /img/starworks-artists_KCG_REMSpinCov.jpg
       - image: /img/starworks-artists_KCG_201509_NFLxHUGOBOSS_HBROWN_KU_01.jpg
@@ -105,7 +108,7 @@ portfolios:
       - image: /img/starworks-artists_KCG_201403_BERGDORFGOODMAN_MBROOKES_KU_09.jpg
       - image: /img/starworks-artists_KCG_201403_BERGDORFGOODMAN_MBROOKES_KU_01.jpg
       - image: /img/starworks-artists_KCG_201403_BERGDORFGOODMAN_MBROOKES_KU_05.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/KCG_RC_01.jpg
       - image: /img/KCG_RC_02.jpg
@@ -148,13 +151,28 @@ portfolios:
       - image: /img/KCG_RC_39.jpg
       - image: /img/KCG_RC_40.jpg
       - image: /img/KCG_RC_41.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 259976393
-  - url: 255811019
-  - url: 255810399
-  - url: 259976410
-  - url: 259976404
+  - poster: 'https://i.vimeocdn.com/video/688573610_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'New York Times Great Performers: Timothee Chalamet'
+    url: 259976393
+  - poster: 'https://i.vimeocdn.com/video/683315304_1280x793.jpg?r=pad'
+    ratio: 61.953125%
+    title: 'GQ: Timothee Chalamet Has Arrived Right on Time'
+    url: 255811019
+  - poster: 'https://i.vimeocdn.com/video/683314496_1920x1172.jpg?r=pad'
+    ratio: 61.04166666666667%
+    title: 'GQ: Timothee Chalamet Has Arrived Right on Time'
+    url: 255810399
+  - poster: 'https://i.vimeocdn.com/video/688573637_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'W Magazine: Dane Dehaan'
+    url: 259976410
+  - poster: 'https://i.vimeocdn.com/video/688573640_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'W Magazine: Chris Hemsworth'
+    url: 259976404
 ---
 Through her countless collaborations with top actors, musicians, athletes and media personalities, groomer Kumi Craig has become a mainstay in the worlds of celebrity and fashion. Kumi began her career doing special effects makeup for film in her native British Columbia, but saw her career expand and thrive when she relocated to New York City and discovered her niche in men’s grooming.
 

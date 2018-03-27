@@ -2,10 +2,9 @@
 kind: artist
 title: Kylee Heath
 type: hair
-order: '11'
-enquire: alexandra.feldman@starworksgroup.com
-instagram_handle: kyleeheathhair
 cover: /img/KHH_HEADER.jpg
+instagram_handle: kyleeheathhair
+enquire: alexandra.feldman@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-08_KHH_LOVE_01.jpg
@@ -26,9 +25,12 @@ portfolios:
       - image: /img/starworks-artists_201602_EDIT_SKIM_J_J_KM_KHH_02.jpg
       - image: /img/starworks-artists_201602_EDIT_SKIM_J_J_KM_KHH_13.jpg
       - image: /img/starworks-artists_201602_EDIT_SKIM_J_J_KM_KHH_07.jpg
-      - image: /img/starworks-artists_201603_HARPERSBAZAARSA_MVRIENSMCGRATH_KM_KHH_01.jpg
-      - image: /img/starworks-artists_201603_HARPERSBAZAARSA_MVRIENSMCGRATH_KM_KHH_05.jpg
-      - image: /img/starworks-artists_201603_HARPERSBAZAARSA_MVRIENSMCGRATH_KM_KHH_09.jpg
+      - image: >-
+          /img/starworks-artists_201603_HARPERSBAZAARSA_MVRIENSMCGRATH_KM_KHH_01.jpg
+      - image: >-
+          /img/starworks-artists_201603_HARPERSBAZAARSA_MVRIENSMCGRATH_KM_KHH_05.jpg
+      - image: >-
+          /img/starworks-artists_201603_HARPERSBAZAARSA_MVRIENSMCGRATH_KM_KHH_09.jpg
       - image: /img/starworks-artists_2016-11_KHH_TOWNCOUNTRY_03.jpg
       - image: /img/starworks-artists_2016-11_KHH_TOWNCOUNTRY_02.jpg
       - image: /img/starworks-artists_2016-11_KHH_FLAUNT_01-2.jpg
@@ -61,14 +63,15 @@ portfolios:
       - image: /img/starworks-artists_201510_NYLON_FTOLENTINO_KHH_TSW_02.jpg
       - image: /img/starworks-artists_201506_GLAMOURMX_CSMITH_J_J_KM_KHH_LAN_01.jpg
       - image: /img/starworks-artists_201506_GLAMOURMX_CSMITH_J_J_KM_KHH_LAN_10.jpg
-      - image: /img/starworks-artists_201501_COVERGIRL_MDIBATTISTA_AJ_KM_KHH_RZS_01.jpg
+      - image: >-
+          /img/starworks-artists_201501_COVERGIRL_MDIBATTISTA_AJ_KM_KHH_RZS_01.jpg
       - image: /img/starworks-artists_KHH1.jpg
       - image: /img/starworks-artists_201500_VIMMIAACTIVE_MRUSCH_KHH_05.jpg
       - image: /img/starworks-artists_201500_VIMMIAACTIVE_MRUSCH_KHH_12.jpg
       - image: /img/starworks-artists_201500_VIMMIAACTIVE_MRUSCH_KHH_14.jpg
       - image: /img/starworks-artists_2017-06_FSS_KHH_TORYBURCH_01.jpg
       - image: /img/starworks-artists_2017-06_FSS_KHH_TORYBURCH_02.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_KHH_MSN_RC_02.jpg
       - image: /img/starworks-artists_KHH_RC_01.jpg
@@ -112,17 +115,46 @@ portfolios:
       - image: /img/starworks-artists_KHH_RC_29.jpg
       - image: /img/starworks-artists_KHH_RC_30.jpg
       - image: /img/starworks-artists_KHH_RC_31.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 259981345
-  - url: 259981233
-  - url: 259981229
-  - url: 259981227
-  - url: 259981221
-  - url: 259981289
-  - url: 259981302
-  - url: 259981339
-  - url: 259981247
+  - poster: 'https://i.vimeocdn.com/video/688579890_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'The Rolling Stones, "Ride Em Down" featuring Kristen Stewart'
+    url: 259981345
+  - poster: 'https://i.vimeocdn.com/video/688579761_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: CoverGirl Ultra Smooth Foundation Applicator featuring Sofia Vergara
+    url: 259981233
+  - poster: 'https://i.vimeocdn.com/video/688579755_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: CoverGirl Outlast Stay Luminous Foundation featuring Sofia Vergara
+    url: 259981229
+  - poster: 'https://i.vimeocdn.com/video/688579738_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: >-
+      CoverGirl Olay Simply Ageless Foundation featuring Sofia Vergara & Ellen
+      Degeneres
+    url: 259981227
+  - poster: 'https://i.vimeocdn.com/video/688579745_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Avon featuring Sofia Vergara
+    url: 259981221
+  - poster: 'https://i.vimeocdn.com/video/688579851_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Nordstrom: Acts of Service featuring Tessa Thompson'
+    url: 259981289
+  - poster: 'https://i.vimeocdn.com/video/688579847_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Nordstrom: A Partnership featuring Samantha Harris'
+    url: 259981302
+  - poster: 'https://i.vimeocdn.com/video/688579878_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Rooms to Go featuring Sofia Vergara & Cindy Crawford
+    url: 259981339
+  - poster: 'https://i.vimeocdn.com/video/688579777_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Head and Shoulders Instant Relief featuring Sofia Vergara
+    url: 259981247
 ---
 Northern California native Kylee Heath knew early that her love of hairstyling would lead her to pursue a career in Los Angeles. Kylee’s talent was recognized shortly after graduating from the Paul Mitchell School, where she was selected for the coveted position of on-stage assistant instructor for Paul Mitchell Signature events. After excelling at the Angus Mitchell Salon in Beverly Hills, Kylee went on to assist renowned hairstylists Renato Campora, Giannandrea and Jenny Cho. These experiences gave her the opportunity to key looks for Vogue’s annual fashion show as well as the Marchesa collections during New York Fashion Week.
 

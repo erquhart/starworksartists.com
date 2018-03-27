@@ -2,9 +2,9 @@
 kind: artist
 title: Matthew VanLeeuwen
 type: makeup
-enquire: noelle.keshishian@starworksgroup.com
-instagram_handle: makeupmatthew
 cover: /img/MVL_HEADER.jpg
+instagram_handle: makeupmatthew
+enquire: noelle.keshishian@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2014-09_MVL_HARPERSRU_01.jpg
@@ -18,9 +18,11 @@ portfolios:
       - image: /img/starworks-artists_2011-08_MVL_VOGUEES_05.jpg
       - image: /img/starworks-artists_2011-08_MVL_VOGUEES_08.jpg
       - image: /img/starworks-artists_2011-08_MVL_VOGUEES_06.jpg
-      - image: /img/starworks-artists_salma-hayek-elle-magazine-mexico-september-2014-issue_1.jpg
+      - image: >-
+          /img/starworks-artists_salma-hayek-elle-magazine-mexico-september-2014-issue_1.jpg
       - image: /img/starworks-artists_2014-09_MVL_ELLEMX_09.jpg
-      - image: /img/starworks-artists_salma-hayek-elle-magazine-mexico-september-2014-issue_8.jpg
+      - image: >-
+          /img/starworks-artists_salma-hayek-elle-magazine-mexico-september-2014-issue_8.jpg
       - image: /img/starworks-artists_2014-09_MVL_ELLEMX_08.jpg
       - image: /img/starworks-artists_2014-05_HARPERSAU_01.jpg
       - image: /img/starworks-artists_2014-05_HARPERSAU_03.jpg
@@ -30,7 +32,8 @@ portfolios:
       - image: /img/starworks-artists_2015-04_GIA_MVL_HARPERSRU_16.jpg
       - image: /img/starworks-artists_2010-01_MVL_HARPERSUK_01.jpg
       - image: /img/starworks-artists_2010-01_MVL_HARPERSUK_06.jpg
-      - image: /img/starworks-artists_scarlett-johannson-harpers-bazaar-magazine-january-2010-01.jpg
+      - image: >-
+          /img/starworks-artists_scarlett-johannson-harpers-bazaar-magazine-january-2010-01.jpg
       - image: /img/starworks-artists_2016-08_MVL_FLAUNT_02.jpg
       - image: /img/starworks-artists_2016-08_MVL_FLAUNT_04.jpg
       - image: /img/starworks-artists_2016-09_CNI_MVL_MARIECLAIREFR_01.jpg
@@ -88,7 +91,7 @@ portfolios:
       - image: /img/starworks-artists_2017-03_GIA_MVL_JESSICASIMPSON_10.jpg
       - image: /img/starworks-artists_2012-03_MVL_HSTERN_02.jpg
       - image: /img/starworks-artists_2011-00_MVL_HSTERN_09.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_MVL_RC_09.jpg
       - image: /img/starworks-artists_MVL_RC_07.jpg
@@ -129,11 +132,20 @@ portfolios:
       - image: /img/starworks-artists_MVL_RC_33.jpg
       - image: /img/starworks-artists_MVL_RC_01.jpg
       - image: /img/starworks-artists_MVL_RC_05.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260163722
-  - url: 260163687
-  - url: 260163738
+  - poster: 'https://i.vimeocdn.com/video/688814747_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: H.Stern featuring Bar Refaeli
+    url: 260163722
+  - poster: 'https://i.vimeocdn.com/video/688814764_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Bior: Deep Cleaning Charcoal Strips featuring Brittany Snow'
+    url: 260163687
+  - poster: 'https://i.vimeocdn.com/video/688814788_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'LeAnn Rimes, "The Story"'
+    url: 260163738
 ---
 Matthew VanLeeuwen has made his mark in the beauty industry with an approach to makeup that showcases his clients’ true beauty. Matthew’s elegant sensibility has attracted high-profile clients from his early days as a Makeup Forever counter artist at Barneys up until today with a bi-coastal clientele that includes Jennifer Lopez, Penelope Cruz, Scarlett Johansson, Salma Hayek, Annette Bening and Emily Blunt. Matthew’s collaborative nature continues to make him a favorite among some of the most celebrated photographers in the fashion and beauty industries. Matthew has worked on editorials for top publications including Vogue, ELLE, Harper’s Bazaar, Allure, Marie Claire, Glamour and InStyle.
 
