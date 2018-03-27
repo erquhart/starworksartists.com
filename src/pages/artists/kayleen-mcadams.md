@@ -2,7 +2,6 @@
 kind: artist
 title: Kayleen McAdams
 type: makeup
-cover: /static/img/2015-05_MRK_INTERVIEW_06.jpg
 instagram_handle: kayleenmcadams
 enquire: noelle.keshishian@starworksgroup.com
 portfolios:
