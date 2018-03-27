@@ -155,6 +155,7 @@ portfolios:
       - image: /img/MJN_RC_66.jpg
       - image: /img/MJN_RC_67.jpg
       - image: /img/MJN_RC_68.jpg
+    columns: 6
     title: Red Carpet
 videos:
   - poster: 'https://i.vimeocdn.com/video/688795095_1280x720.jpg?r=pad'

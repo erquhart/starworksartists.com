@@ -200,6 +200,7 @@ portfolios:
       - image: /img/starworks-artists_joseph-cassel_stylist_red-carpet_102.jpg
       - image: /img/starworks-artists_joseph-cassel_stylist_red-carpet_103.jpg
       - image: /img/starworks-artists_joseph-cassel_stylist_red-carpet_104.jpg
+    columns: 6
     title: Red Carpet
 videos:
   - poster: 'https://i.vimeocdn.com/video/689652236_1280x720.jpg?r=pad'

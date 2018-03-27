@@ -154,6 +154,7 @@ portfolios:
       - image: /img/starworks-artists_jenny-ricker_stylist_red-carpet_80.jpg
       - image: /img/starworks-artists_jenny-ricker_stylist_red-carpet_81.jpg
       - image: /img/starworks-artists_jenny-ricker_stylist_red-carpet_82.jpg
+    columns: 6
     title: Red Carpet
 videos:
   - poster: 'https://i.vimeocdn.com/video/688571713_1280x720.jpg?r=pad'

@@ -104,6 +104,7 @@ portfolios:
       - image: /img/BAK_RC_38.jpg
       - image: /img/BAK_RC_39.jpg
       - image: /img/BAK_RC_40.jpg
+    columns: 6
     title: Red carpet
 videos:
   - poster: 'https://i.vimeocdn.com/video/687207190_1280x720.jpg?r=pad'

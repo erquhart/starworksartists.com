@@ -30,6 +30,7 @@ collections:
         optional: true
         fields:
           - {label: 'Title', name: 'title', widget: 'string'}
+          - {label: 'Columns', name: 'columns', widget: 'number', min: 3, max: 9}
           - name: gallery
             label: Gallery
             widget: gallery

@@ -128,6 +128,7 @@ portfolios:
       - image: /img/starworks-artists_christian-classen_stylist_red-carpet_44.jpg
       - image: /img/starworks-artists_christian-classen_stylist_red-carpet_45.jpg
       - image: /img/starworks-artists_christian-classen_stylist_red-carpet_46.jpg
+    columns: 6
     title: Red Carpet
 videos:
   - poster: 'https://i.vimeocdn.com/video/689245933_1280x720.jpg?r=pad'

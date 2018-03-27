@@ -81,6 +81,7 @@ portfolios:
       - image: /img/starworks-artists_rachel-zoe_stylist_red-carpet_32.jpg
       - image: /img/starworks-artists_rachel-zoe_stylist_red-carpet_33.jpg
       - image: /img/starworks-artists_rachel-zoe_stylist_red-carpet_34.jpg
+    columns: 6
     title: Red Carpet
 videos:
   - poster: 'https://i.vimeocdn.com/video/688816797_1280x720.jpg?r=pad'
