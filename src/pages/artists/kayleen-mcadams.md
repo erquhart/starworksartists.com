@@ -2,15 +2,21 @@
 kind: artist
 title: Kayleen McAdams
 type: makeup
-enquire: noelle.keshishian@starworksgroup.com
+cover: /static/img/2015-05_MRK_INTERVIEW_06.jpg
 instagram_handle: kayleenmcadams
+enquire: noelle.keshishian@starworksgroup.com
 portfolios:
   - gallery:
-      - image: /img/starworks-artists_KMS_201603_HARPERSBAZAARSA_MVRIENSMCGRATH_KM_KYH_01-1.jpg
-      - image: /img/starworks-artists_KMS_201603_HARPERSBAZAARSA_MVRIENSMCGRATH_KM_KYH_05-1.jpg
-      - image: /img/starworks-artists_KMS_201603_HARPERSBAZAARSA_MVRIENSMCGRATH_KM_KYH_09-1.jpg
-      - image: /img/starworks-artists_KMS_201407_VANITYFAIR_NJEANROY_AJ_DAI_KM_01-2.jpg
-      - image: /img/starworks-artists_KMS_201407_VANITYFAIR_NJEANROY_AJ_DAI_KM_02-1.jpg
+      - image: >-
+          /img/starworks-artists_KMS_201603_HARPERSBAZAARSA_MVRIENSMCGRATH_KM_KYH_01-1.jpg
+      - image: >-
+          /img/starworks-artists_KMS_201603_HARPERSBAZAARSA_MVRIENSMCGRATH_KM_KYH_05-1.jpg
+      - image: >-
+          /img/starworks-artists_KMS_201603_HARPERSBAZAARSA_MVRIENSMCGRATH_KM_KYH_09-1.jpg
+      - image: >-
+          /img/starworks-artists_KMS_201407_VANITYFAIR_NJEANROY_AJ_DAI_KM_01-2.jpg
+      - image: >-
+          /img/starworks-artists_KMS_201407_VANITYFAIR_NJEANROY_AJ_DAI_KM_02-1.jpg
       - image: /img/starworks-artists_KMS_201602_EDIT_SKIM_J_J_KM_KYH_02-1.jpg
       - image: /img/starworks-artists_KMS_201602_EDIT_SKIM_J_J_KM_KYH_13-1.jpg
       - image: /img/starworks-artists_KMS_201602_EDIT_SKIM_J_J_KM_KYH_07-1.jpg
@@ -40,17 +46,25 @@ portfolios:
       - image: /img/starworks-artists_KMS_201508_SEVENTEEN_DISIDRO_KM_01.jpg
       - image: /img/starworks-artists_KMS_201508_SEVENTEEN_DISIDRO_KM_03.jpg
       - image: /img/starworks-artists_KMS_201508_SEVENTEEN_DISIDRO_KM_02.jpg
-      - image: /img/starworks-artists_KMS_KM_INSTYLETHAILAND_GENESISRODRIGUEZ_FEB13_01.jpg
-      - image: /img/starworks-artists_KMS_KM_INSTYLETHAILAND_GENESISRODRIGUEZ_FEB13_02.jpg
+      - image: >-
+          /img/starworks-artists_KMS_KM_INSTYLETHAILAND_GENESISRODRIGUEZ_FEB13_01.jpg
+      - image: >-
+          /img/starworks-artists_KMS_KM_INSTYLETHAILAND_GENESISRODRIGUEZ_FEB13_02.jpg
       - image: /img/starworks-artists_KMS_201209_LATINA_YTSAI_KM_04-1.jpg
       - image: /img/starworks-artists_KMS_201209_LATINA_YTSAI_KM_02.jpg
-      - image: /img/starworks-artists_KMS_km_malibu_sherylneilds_rosariodawson_octnov10.jpg
-      - image: /img/starworks-artists_KMS_km_malibu_sherylneilds_rosariodawson_octnov10_2-1.jpg
+      - image: >-
+          /img/starworks-artists_KMS_km_malibu_sherylneilds_rosariodawson_octnov10.jpg
+      - image: >-
+          /img/starworks-artists_KMS_km_malibu_sherylneilds_rosariodawson_octnov10_2-1.jpg
       - image: /img/starworks-artists_KMS_201309_BYRDIE_JCOIT_KM_03-1.jpg
-      - image: /img/starworks-artists_KMS_201507_STYLISTUK_BBOWENSMITH_AF_CWD_KM_03.jpg
-      - image: /img/starworks-artists_KMS_201507_STYLISTUK_BBOWENSMITH_AF_CWD_KM_06-1.jpg
-      - image: /img/starworks-artists_KMS_KM_AUDREYMAG_DIANAKING_MAGGIEQ_WINTER13-6.jpg
-      - image: /img/starworks-artists_KMS_KM_AUDREYMAG_DIANAKING_MAGGIEQ_WINTER13-2.jpg
+      - image: >-
+          /img/starworks-artists_KMS_201507_STYLISTUK_BBOWENSMITH_AF_CWD_KM_03.jpg
+      - image: >-
+          /img/starworks-artists_KMS_201507_STYLISTUK_BBOWENSMITH_AF_CWD_KM_06-1.jpg
+      - image: >-
+          /img/starworks-artists_KMS_KM_AUDREYMAG_DIANAKING_MAGGIEQ_WINTER13-6.jpg
+      - image: >-
+          /img/starworks-artists_KMS_KM_AUDREYMAG_DIANAKING_MAGGIEQ_WINTER13-2.jpg
       - image: /img/starworks-artists_KMS_201211_GLAMOURUK_WCHIN_JA_KM_03-1.jpg
       - image: /img/starworks-artists_KMS_201211_GLAMOURUK_WCHIN_JA_KM_04.jpg
       - image: /img/starworks-artists_KMS_201406_LOULOU_GCHARBONNEAU_IU_KM_ML_04.jpg
@@ -61,7 +75,8 @@ portfolios:
       - image: /img/starworks-artists_2017-11-20_KMS_ZSH_WWD_05.jpg
       - image: /img/starworks-artists_KMS_201607_VIOLETGREY_GAROCH_DAI_KM_KYH_01.jpg
       - image: /img/starworks-artists_KMS_201607_VIOLETGREY_GAROCH_DAI_KM_KYH_03.jpg
-      - image: /img/starworks-artists_KMS_KM_LAB_JUSTINCLOSE_LAKEBELL_SPRING2012-3.jpg
+      - image: >-
+          /img/starworks-artists_KMS_KM_LAB_JUSTINCLOSE_LAKEBELL_SPRING2012-3.jpg
       - image: /img/starworks-artists_KMS_KM_LAB_JUSTINCLOSE_LAKEBELL_SPRING2012.jpg
       - image: /img/starworks-artists_KMS_201306_LADYGUNN_SFISHER_AZ_CER_KM_01.jpg
       - image: /img/starworks-artists_KMS_201306_LADYGUNN_SFISHER_AZ_CER_KM_05.jpg
@@ -76,13 +91,14 @@ portfolios:
       - image: /img/starworks-artists_2015-09_KMS_LORDTAYLOR_01.jpg
       - image: /img/starworks-artists_KMS_201400_SOFIAVERGARA_CSMITH_KM_RZS_01.jpg
       - image: /img/starworks-artists_KMS_201509_LOVE_CSMITH_J_J_KM_01.jpg
-      - image: /img/starworks-artists_KMS_201501_COVERGIRL_MDIBATTISTA_AJ_KM_KYH_RZS_01-1.jpg
+      - image: >-
+          /img/starworks-artists_KMS_201501_COVERGIRL_MDIBATTISTA_AJ_KM_KYH_RZS_01-1.jpg
       - image: /img/starworks-artists_2015-00_KMS_COVERGIRL_01.jpg
       - image: /img/starworks-artists_KMS_201608_AVON_WCHIN_J_J_KM_KYH_01.jpg
       - image: /img/starworks-artists_KMS_201608_AVON_WCHIN_J_J_KM_KYH_04.jpg
       - image: /img/starworks-artists_KMS_201300_DIETPEPSI_UNKNOWN_JA_KM_02.jpg
       - image: /img/starworks-artists_KMS_201300_DIETPEPSI_UNKNOWN_JA_KM_03.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_KMS_MTD_RC_06.jpg
       - image: /img/starworks-artists_KMS_MTD_RC_02.jpg
@@ -127,14 +143,32 @@ portfolios:
       - image: /img/starworks-artists_KMS_RC_36.jpg
       - image: /img/starworks-artists_KMS_RC_15.jpg
       - image: /img/starworks-artists_KMS_RC_32.jpg
-    title: 'Red carpet'
+    title: Red carpet
 videos:
-  - url: 260136506
-  - url: 260136467
-  - url: 260136446
-  - url: 260136528
-  - url: 260136561
-  - url: 260136488
+  - poster: 'https://i.vimeocdn.com/video/688779117_1280x525.jpg?r=pad'
+    ratio: 41.01562499999999%
+    title: 'Oliver Peoples: Stage 9 featuring Bar Paly'
+    url: 260136506
+  - poster: 'https://i.vimeocdn.com/video/688779033_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Diet Pepsi featuring Sofia Vergara
+    url: 260136467
+  - poster: 'https://i.vimeocdn.com/video/688778991_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Diet Pepsi featuring Sofia Vergara
+    url: 260136446
+  - poster: 'https://i.vimeocdn.com/video/688779119_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Rooms To Go featuring the Sofia Vergara Collection
+    url: 260136528
+  - poster: 'https://i.vimeocdn.com/video/688779169_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Rooms To Go featuring the Sofia Vergara Collection
+    url: 260136561
+  - poster: 'https://i.vimeocdn.com/video/688779092_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Leighton Meester, "Heartstrings"'
+    url: 260136488
 ---
 Kayleen McAdams’ eye for beauty, and dedication to the technicalities of makeup artistry, has led to a remarkable career in the beauty industry. Kayleen’s work is characterized by her emphasis on refined bone structure and clean, natural makeup with selective pops of color.
 
