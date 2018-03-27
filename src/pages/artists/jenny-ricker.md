@@ -2,10 +2,9 @@
 kind: artist
 title: Jenny Ricker
 type: stylist
-order: '4'
-enquire: caitlin.mazonas@starworksgroup.com
-instagram_handle: jennyricker
 cover: /img/JRR_HEADER.jpg
+instagram_handle: jennyricker
+enquire: caitlin.mazonas@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2016-04_JRR_GQIT_01.jpg
@@ -71,7 +70,7 @@ portfolios:
       - image: /img/starworks-artists_JRR_441.jpg
       - image: /img/starworks-artists_JRR_431.jpg
       - image: /img/starworks-artists_JRR_401.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_jenny-ricker_stylist_red-carpet_01.jpg
       - image: /img/starworks-artists_jenny-ricker_stylist_red-carpet_02.jpg
@@ -155,10 +154,16 @@ portfolios:
       - image: /img/starworks-artists_jenny-ricker_stylist_red-carpet_80.jpg
       - image: /img/starworks-artists_jenny-ricker_stylist_red-carpet_81.jpg
       - image: /img/starworks-artists_jenny-ricker_stylist_red-carpet_82.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 259975008
-  - url: 259974986
+  - poster: 'https://i.vimeocdn.com/video/688571713_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Hugo Boss Fragrance Behind The Scenes ft. Zac Efron
+    url: 259975008
+  - poster: 'https://i.vimeocdn.com/video/688571684_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'AT&T: Diego Boneta (English)'
+    url: 259974986
 ---
 A graduate of NYU’s Tisch School of the Arts, Jenny Ricker first became interested in the world of fashion styling while working as an agent for Ford Models. Ricker began by assisting some of the top fashion stylists in Los Angeles and has gone on to become one of the most sought after men’s celebrity stylists in Hollywood.
 
