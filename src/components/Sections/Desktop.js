@@ -230,7 +230,7 @@ export class Videos extends Component {
             >
             <Video
               key={index}
-              url={`https://vimeo.com/${video.id}`}
+              url={`https://vimeo.com/${video.url}`}
               poster={video.poster}
               title={video.title}
               ratio={video.ratio}
