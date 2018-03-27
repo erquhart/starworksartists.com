@@ -2,10 +2,9 @@
 kind: artist
 title: Christopher Naselli
 type: hair
-order: '6'
-enquire: caitlin.mazonas@starworksgroup.com
-instagram_handle: cnaselli
 cover: /img/CNI_HEADER.jpg
+instagram_handle: cnaselli
+enquire: caitlin.mazonas@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-03_CNI_GQDE_03-1.jpg
@@ -60,7 +59,7 @@ portfolios:
       - image: /img/starworks-artists_0000-00_CNI_0000_00791.jpg
       - image: /img/starworks-artists_0000-00_CNI_0000_0081.jpg
       - image: /img/starworks-artists_0000-00_CNI_0000_0082.jpg
-    title: 'Portfolio'
+    title: Portfolio
   - gallery:
       - image: /img/starworks-artists_CNI_RC_09.jpg
       - image: /img/starworks-artists_CNI_CTY_RC_03.jpg
@@ -106,9 +105,12 @@ portfolios:
       - image: /img/starworks-artists_CNI_RC_34.jpg
       - image: /img/starworks-artists_CNI_RC_26.jpg
       - image: /img/starworks-artists_CNI_RC_30.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 260798479
+  - poster: 'https://i.vimeocdn.com/video/689623206_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Justin Timberlake, "Man of the Woods" featuring Jessica Biel'
+    url: 260798479
 ---
 Christopher Naselli is an accomplished hairstylist whose work has earned him a loyal following among New York City’s creative community. Raised by his hairstylist mother in New York, Christopher spent afternoons in her salon watching 1970s street style explode around him. He became passionate about the aesthetics of beauty and set a course at an early age to perfect his technique.
 
