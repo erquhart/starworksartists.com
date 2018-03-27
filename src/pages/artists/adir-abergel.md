@@ -3,8 +3,8 @@ kind: artist
 title: Adir Abergel
 type: hair
 cover: /img/AAL_HEADER_02.jpg
-enquire: 'samantha.jeudy@starworksgroup.com'
 instagram_handle: hairbyadir
+enquire: samantha.jeudy@starworksgroup.com
 portfolios:
   - gallery:
       - image: /img/starworks-artists_2017-03_AAL_VMAG_01.jpg
@@ -102,7 +102,7 @@ portfolios:
       - image: /img/starworks-artists_2008-04_AAL_MQH_JALOUSE_04.jpg
       - image: /img/starworks-artists_2009-12_AAL_MCLAIRERU_01.jpg
       - image: /img/starworks-artists_2014-05_AAL_MCLAIRE_07.jpg
-    title: 'Editorial'
+    title: Editorial
   - gallery:
       - image: /img/starworks-artists_2017-09_AAL_CHANEL_02.jpg
       - image: /img/starworks-artists_2017-05_AAL_CHANEL_06.jpg
@@ -135,7 +135,7 @@ portfolios:
       - image: /img/starworks-artists_2011-10_AAL_COLEHAAN_04.jpg
       - image: /img/starworks-artists_2015-09_AAL_KYB_NIKE_07.jpg
       - image: /img/starworks-artists_2015-09_AAL_KYB_NIKE_04.jpg
-    title: 'Advertising'
+    title: Advertising
   - gallery:
       - image: /img/starworks-artists_AAL_KYB_RC_01.jpg
       - image: /img/starworks-artists_AAL_KYB_RC_02.jpg
@@ -189,23 +189,74 @@ portfolios:
       - image: /img/starworks-artists_AAL_RC_16.jpg
       - image: /img/starworks-artists_AAL_RC_18.jpg
       - image: /img/starworks-artists_AAL_RC_37.jpg
-    title: 'Red Carpet'
+    title: Red Carpet
 videos:
-  - url: 255787883
-  - url: 255787895
-  - url: 255787885
-  - url: 255788320
-  - url: 260297926
-  - url: 260297393
-  - url: 255788081
-  - url: 260296689
-  - url: 260490817
-  - url: 260490804
-  - url: 260490777
-  - url: 260298605
-  - url: 255788022
-  - url: 255787816
-  - url: 255787648
+  - poster: 'https://i.vimeocdn.com/video/683285814_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Chanel: Gabrielle The Fragrance Film featuring Kristen Stewart'
+    url: 255787883
+  - poster: 'https://i.vimeocdn.com/video/683285791_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Chanel: Ombre Premiere Blue featuring Kristen Stewart by Mario Testino'
+    url: 255787895
+  - poster: 'https://i.vimeocdn.com/video/683285824_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Chanel: Ombre Premiere Red featuring Kristen Stewart by Mario Testino'
+    url: 255787885
+  - poster: 'https://i.vimeocdn.com/video/683286426_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'VS Magazine: New York Stories featuring Kirsten Dunst'
+    url: 255788320
+  - poster: 'https://i.vimeocdn.com/video/688985465_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: >-
+      New York Times Magazine: 9 Kisses featuring Chadwick Boseman & Kristen
+      Stewart
+    url: 260297926
+  - poster: 'https://i.vimeocdn.com/video/688984720_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Neutrogena featuring Eiza Gonzalez
+    url: 260297393
+  - poster: 'https://i.vimeocdn.com/video/683286094_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Neutrogena: Makeup That is Good For Your Skin featuring Jennifer Garner'
+    url: 255788081
+  - poster: 'https://i.vimeocdn.com/video/688983801_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: >-
+      Neutrogena Oil Free Acne Wash Pink Grapefruit Facial Cleanser featuring
+      Bella Thorne
+    url: 260296689
+  - poster: 'https://i.vimeocdn.com/video/689231300_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Neutrogena Ultra Gentle Daily Cleanser featuring Jennifer Garner
+    url: 260490817
+  - poster: 'https://i.vimeocdn.com/video/689231269_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Neutrogena: Trick to Clearer Skinin Just 1 Week featuring Eiza Gonzalezs'
+    url: 260490804
+  - poster: 'https://i.vimeocdn.com/video/689231257_1920x1080.jpg?r=pad'
+    ratio: 56.25%
+    title: Neutrogena Oil-Free Acne Wash Pink Grapefruit featuring Eiza Gonzalez
+    url: 260490777
+  - poster: 'https://i.vimeocdn.com/video/688986259_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Porsche Compete featuring Maria Sharapova
+    url: 260298605
+  - poster: 'https://i.vimeocdn.com/video/683286045_1920x1008.jpg?r=pad'
+    ratio: 52.5%
+    title: >-
+      Marks and Spencer: Autumn Winter 2011 featuring Rosie Huntington Whiteley
+      and Ryan Reynolds
+    url: 255788022
+  - poster: 'https://i.vimeocdn.com/video/683285723_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: 'Capital One Venture: Websites Galore ft. Jennifer Garner'
+    url: 255787816
+  - poster: 'https://i.vimeocdn.com/video/683285544_1280x720.jpg?r=pad'
+    ratio: 56.25%
+    title: Capital One Featuring Jennifer Garner
+    url: 255787648
 ---
 A visual artist first and foremost, Adir Abergel fuses the boundaries between fashion, art and celebrity in a way that few Hollywood hairstylists have managed to do. Using hair as his principal medium, Adir challenges red carpet conventions to exquisite effect, integrating beauty and originality into a single expression. He is the creative force behind some of the most memorable moments in celebrity hairstyling, and has been instrumental in constructing the distinctive styles of such influential talent as Rooney Mara, Kristen Stewart, Marion Cotillard, Gwyneth Paltrow, Kirsten Dunst, Anne Hathaway and Reese Witherspoon.
 
