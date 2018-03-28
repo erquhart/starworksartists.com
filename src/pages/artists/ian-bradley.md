@@ -24,8 +24,6 @@ portfolios:
       - image: /img/starworks-artists_IBY_097.jpg
       - image: /img/starworks-artists_IBY_100.jpg
       - image: /img/starworks-artists_IBY_098.jpg
-      - image: /img/starworks-artists_IBY_001.jpg
-      - image: /img/starworks-artists_IBY_010.jpg
       - image: /img/starworks-artists_IBY_002.jpg
       - image: /img/starworks-artists_IBY_104.jpg
       - image: /img/starworks-artists_IBY_106.jpg
@@ -37,8 +35,6 @@ portfolios:
       - image: /img/starworks-artists_IBY_025.jpg
       - image: /img/starworks-artists_IBY_026.jpg
       - image: /img/starworks-artists_IBY_024.jpg
-      - image: /img/starworks-artists_IBY_003.jpg
-      - image: /img/starworks-artists_IBY_004.jpg
       - image: /img/starworks-artists_IBY_005.jpg
       - image: /img/starworks-artists_IBY_068.jpg
       - image: /img/starworks-artists_IBY_069.jpg
@@ -85,8 +81,6 @@ portfolios:
       - image: /img/starworks-artists_IBY_111.jpg
       - image: /img/starworks-artists_IBY_006.jpg
       - image: /img/starworks-artists_2012-02_IBY_THEHUNDREDS_06.jpg
-      - image: /img/starworks-artists_IBY_007.jpg
-      - image: /img/starworks-artists_IBY_008.jpg
       - image: /img/starworks-artists_IBY_147.jpg
       - image: /img/starworks-artists_IBY_150.jpg
       - image: /img/starworks-artists_IBY_009.jpg
