@@ -135,7 +135,7 @@ export class Portfolios extends Component {
                     }
                   })
                 }
-                <Responsive maxWidth={`96rem`}>
+                <Responsive maxWidth={`75rem`}>
                   <Gallery
                     margin={16}
                     columns={portfolio.columns || 3}
@@ -145,7 +145,7 @@ export class Portfolios extends Component {
                     onClick={openLightbox}
                   />
                 </Responsive>
-                <Responsive minWidth={`96rem`} maxWidth={`146rem`}>
+                <Responsive minWidth={`75rem`} maxWidth={`100rem`}>
                   <Gallery
                     margin={16}
                     columns={portfolio.columns || 4}
@@ -155,7 +155,7 @@ export class Portfolios extends Component {
                     onClick={openLightbox}
                   />
                 </Responsive>
-                <Responsive minWidth={`146rem`}>
+                <Responsive minWidth={`100rem`}>
                   <Gallery
                     margin={16}
                     columns={portfolio.columns || 5}

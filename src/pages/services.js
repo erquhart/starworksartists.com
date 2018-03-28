@@ -98,9 +98,9 @@ class ServicesPage extends Component {
         onWheel={ this.onScrollStart }
       >
         <Menu
-          isHovered={this.state.isHovered}
-          onMouseEnter={this.onMouseEnter}
-          onMouseLeave={this.onMouseLeave}
+          //isHovered={this.state.isHovered}
+          //onMouseEnter={this.onMouseEnter}
+          //onMouseLeave={this.onMouseLeave}
           sections={
             services && services.edges.map(
               ({ node: { fields, frontmatter }}) => frontmatter.title)

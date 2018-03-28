@@ -220,9 +220,9 @@ class Desktop extends Component {
             marginLeft: '6rem'
           }}>
             <Menu
-              isHovered={this.state.isHovered}
-              onMouseEnter={this.onMouseEnter}
-              onMouseLeave={this.onMouseLeave}
+              //isHovered={this.state.isHovered}
+              //onMouseEnter={this.onMouseEnter}
+              //onMouseLeave={this.onMouseLeave}
               isCover={this.context.isCover || this.context.lightboxIsOpen}
               type={biography.type}
               sections={sections && sections.map(section => section.title)}

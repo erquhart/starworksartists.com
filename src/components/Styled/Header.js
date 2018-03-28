@@ -64,7 +64,7 @@ export const HeaderMD = ({ children, style, uppercase, blur, weight }) => (
       [MIN_MOBILE_MQ]: {
         ...basekick({
           typeSizeModifier: 1.5,
-          typeRowSpan: 3.25,
+          typeRowSpan: 4,
         }),
       },
       ...style
