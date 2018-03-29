@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: swartists/starworksartists.com
   branch: development # Branch to update (optional; defaults to master)
 
@@ -37,9 +37,6 @@ collections:
             required: true
             fields:
               - {name: image, label: Image, widget: image, class: 'gallery'}
-              - {name: 'fullscreen', label: 'Fullscreen', widget: 'boolean', default: false }
-              - {name: 'focalX', label: 'Focal X', widget: 'number', default: 0, valueType: 'int', min: 0, max: 100}
-              - {name: 'focalY', label: 'Focal Y', widget: 'number', default: 0, valueType: 'int', min: 0, max: 100}
       - name: videos
         label: Videos
         widget: list
