@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: swartists/starworksartists.com
   branch: development # Branch to update (optional; defaults to master)
 
