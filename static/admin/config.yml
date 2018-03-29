@@ -20,7 +20,7 @@ collections:
     fields:
       - {name: kind, widget: hidden, default: 'artist'}
       - {label: "Name", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Type", name: "type", widget: "select", options: ["hair", "makeup", "stylist", "grooming", "manicurist", "color"]}
+      - {label: "Type", name: "type", widget: "select", options: ["hair", "makeup", "stylist", "grooming", "manicurist", "special-bookings"]}
       - {label: "Cover Image", name: "cover", widget: "image", tagname: "", optional: true}
       - {label: "Instagram handle", name: "instagram_handle", widget: "string", tagname: "p", required: false}
       - {label: "Enquire", name: "enquire", widget: "string", tagname: "p", required: false}
