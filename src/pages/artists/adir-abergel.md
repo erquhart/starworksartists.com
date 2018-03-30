@@ -191,71 +191,41 @@ portfolios:
       - image: /img/starworks-artists_AAL_RC_37.jpg
     title: Red Carpet
 videos:
-  - poster: 'https://i.vimeocdn.com/video/683285814_1280x720.jpg?r=pad'
-    ratio: 56.25%
-    title: 'Chanel: Gabrielle The Fragrance Film featuring Kristen Stewart'
+  - title: 'Chanel: Gabrielle The Fragrance Film featuring Kristen Stewart'
     url: 255787883
-  - poster: 'https://i.vimeocdn.com/video/683285791_1280x720.jpg?r=pad'
-    ratio: 56.25%
-    title: 'Chanel: Ombre Premiere Blue featuring Kristen Stewart by Mario Testino'
+  - title: 'Chanel: Ombre Premiere Blue featuring Kristen Stewart by Mario Testino'
     url: 255787895
-  - poster: 'https://i.vimeocdn.com/video/683285824_1280x720.jpg?r=pad'
-    ratio: 56.25%
-    title: 'Chanel: Ombre Premiere Red featuring Kristen Stewart by Mario Testino'
+  - title: 'Chanel: Ombre Premiere Red featuring Kristen Stewart by Mario Testino'
     url: 255787885
-  - poster: 'https://i.vimeocdn.com/video/683286426_1920x1080.jpg?r=pad'
-    ratio: 56.25%
-    title: 'VS Magazine: New York Stories featuring Kirsten Dunst'
+  - title: 'VS Magazine: New York Stories featuring Kirsten Dunst'
     url: 255788320
-  - poster: 'https://i.vimeocdn.com/video/688985465_1280x720.jpg?r=pad'
-    ratio: 56.25%
-    title: >-
+  - title: >-
       New York Times Magazine: 9 Kisses featuring Chadwick Boseman & Kristen
       Stewart
     url: 260297926
-  - poster: 'https://i.vimeocdn.com/video/688984720_1280x720.jpg?r=pad'
-    ratio: 56.25%
-    title: Neutrogena featuring Eiza Gonzalez
+  - title: Neutrogena featuring Eiza Gonzalez
     url: 260297393
-  - poster: 'https://i.vimeocdn.com/video/683286094_1280x720.jpg?r=pad'
-    ratio: 56.25%
-    title: 'Neutrogena: Makeup That is Good For Your Skin featuring Jennifer Garner'
+  - title: 'Neutrogena: Makeup That is Good For Your Skin featuring Jennifer Garner'
     url: 255788081
-  - poster: 'https://i.vimeocdn.com/video/688983801_1280x720.jpg?r=pad'
-    ratio: 56.25%
-    title: >-
+  - title: >-
       Neutrogena Oil Free Acne Wash Pink Grapefruit Facial Cleanser featuring
       Bella Thorne
     url: 260296689
-  - poster: 'https://i.vimeocdn.com/video/689231300_1280x720.jpg?r=pad'
-    ratio: 56.25%
-    title: Neutrogena Ultra Gentle Daily Cleanser featuring Jennifer Garner
+  - title: Neutrogena Ultra Gentle Daily Cleanser featuring Jennifer Garner
     url: 260490817
-  - poster: 'https://i.vimeocdn.com/video/689231269_1920x1080.jpg?r=pad'
-    ratio: 56.25%
-    title: 'Neutrogena: Trick to Clearer Skinin Just 1 Week featuring Eiza Gonzalezs'
+  - title: 'Neutrogena: Trick to Clearer Skinin Just 1 Week featuring Eiza Gonzalezs'
     url: 260490804
-  - poster: 'https://i.vimeocdn.com/video/689231257_1920x1080.jpg?r=pad'
-    ratio: 56.25%
-    title: Neutrogena Oil-Free Acne Wash Pink Grapefruit featuring Eiza Gonzalez
+  - title: Neutrogena Oil-Free Acne Wash Pink Grapefruit featuring Eiza Gonzalez
     url: 260490777
-  - poster: 'https://i.vimeocdn.com/video/688986259_1280x720.jpg?r=pad'
-    ratio: 56.25%
-    title: Porsche Compete featuring Maria Sharapova
+  - title: Porsche Compete featuring Maria Sharapova
     url: 260298605
-  - poster: 'https://i.vimeocdn.com/video/683286045_1920x1008.jpg?r=pad'
-    ratio: 52.5%
-    title: >-
+  - title: >-
       Marks and Spencer: Autumn Winter 2011 featuring Rosie Huntington Whiteley
       and Ryan Reynolds
     url: 255788022
-  - poster: 'https://i.vimeocdn.com/video/683285723_1280x720.jpg?r=pad'
-    ratio: 56.25%
-    title: 'Capital One Venture: Websites Galore ft. Jennifer Garner'
+  - title: 'Capital One Venture: Websites Galore ft. Jennifer Garner'
     url: 255787816
-  - poster: 'https://i.vimeocdn.com/video/683285544_1280x720.jpg?r=pad'
-    ratio: 56.25%
-    title: Capital One Featuring Jennifer Garner
+  - title: Capital One Featuring Jennifer Garner
     url: 255787648
 ---
 A visual artist first and foremost, Adir Abergel fuses the boundaries between fashion, art and celebrity in a way that few Hollywood hairstylists have managed to do. Using hair as his principal medium, Adir challenges red carpet conventions to exquisite effect, integrating beauty and originality into a single expression. He is the creative force behind some of the most memorable moments in celebrity hairstyling, and has been instrumental in constructing the distinctive styles of such influential talent as Rooney Mara, Kristen Stewart, Marion Cotillard, Gwyneth Paltrow, Kirsten Dunst, Anne Hathaway and Reese Witherspoon.
@@ -263,3 +233,7 @@ A visual artist first and foremost, Adir Abergel fuses the boundaries between fa
 Adir’s work is characterized by the ingenuity of his approach and the strong interpersonal relationships he shares with his clients. His greatest gratification comes from fostering confidence in women and helping them embrace the idiosyncrasies of their beauty. Entrepreneurial in all aspects of his career, Adir is often uniquely positioned at the helm of the broad visual aspects of image making, including art direction and creative collaboration. He has built an impressive portfolio of editorial and advertising commissions, and is today a frequent collaborator of renowned fashion photographers including Mario Testino, Peter Lindbergh, Jean-Baptiste Mondino, Hedi Slimane, Juergen Teller, Annie Leibovitz, Terry Richardson and Ben Hassett. Adir’s editorial clients include Vogue, W, Dazed & Confused, Harper’s Bazaar, ELLE, V, Wonderland and Vs, and he has created looks for major brand campaigns including Dior, Chanel, Hermès, L’Oréal, Nike and Neutrogena.
 
 Touted as the “Hit Maker of Hollywood Hairdos” by The Wall Street Journal, Adir’s expertise and vision are regularly sought-after by top beauty and fashion editors. As the recipient of numerous press accolades for “shaking up the red carpet” (The New York Times), Adir is an oft-cited influencer in beauty publications and nationally syndicated entertainment broadcasts including Access Hollywood, Entertainment Tonight and E!. In 2016, Adir received a coveted Image Maker Award from Marie Claire Magazine. He also collaborated recently with Sara Bieler Sasson of Lelet New York to launch a luxury hair accessory collection fashioned from mixed metals. In 2017, Adir accepted the role of Creative Director for Virtue Labs, a visionary new haircare brand that is poised to transform the hair industry.
+
+
+
+Small change.
