@@ -8,7 +8,7 @@ videos:
   - url: 261928978
     title: Perverse Sunglasses featuring Olivia Holt
   - url: 261929026
-    title: Billboard Mag: Selena Gomez
+    title: 'Billboard Mag: Selena Gomez'
 ---
 Marissa Marino has a true passion for the art of hairstyling. She started her career as Ken Paves’ first assistant, where she got invaluable training in everything from coloring and styling wigs to how to thrive under pressure. It is also where she gained an international perspective while traveling the the world for showcases and celebrity clients. Some of her very first clients were Eva Longoria, Jennifer Lopez, Victoria Beckham and Ashlee Simpson, to name a few. She has a knack for understanding exactly what her clients want, and delivering beyond their expectations.
 
